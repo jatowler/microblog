@@ -1,0 +1,470 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Jerry Towler",
+	"icon": "https://micro.blog/jatowler/avatar.jpg",
+	"home_page_url": "https://micro.jerrytowler.com/",
+	"feed_url": "https://micro.jerrytowler.com/feed.json",
+	"items": [
+		
+			{
+				"id": "http://jatowler.micro.blog/2023/07/04/pharrell-williamss-happy.html",
+				"title": "Pharrell Williams's \"Happy\" as a Spenserian Sonnet",
+				"content_html": "<p>Back in 2014, there was a Twitter account, or maybe a Tumblr account, that published pop songs as sonnets<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. I loved the spin on genre, but I noticed that they were all Petrarchan (Italian) sonnets, which go ABBA ABBA CDE CDE, or Shakespearean (English) sonnets, which go ABAB CDCD EFEF GG.</p>\n<p>I complained on Twitter that we needed Spenserian ones, which have a harder rhyme scheme: ABAB BCBC CDCD EE. But you shouldn&rsquo;t complain without offering a solution, so I give you my offering:</p>\n<blockquote>\n<p>Tho' oft my speech ere uttering seem mad,<br>\nFair Helios signals end of labor&rsquo;s reign<br>\nO&rsquo;er you and I, who, lightened, upward gad&mdash;<br>\nAscend beyond the heav&rsquo;ns' celestial plane<br>\nLo, trumpets sound our doom, and promise pain:<br>\nYour harbinger I welcome, arms ope&rsquo;d wide<br>\nFor I, clothèd in joy, will be not slain<br>\nLet not your countenance be hurt, nor pride<br>\nKnow I, and I alone, yield to no tide<br>\nNo force of earth, nor beast, nor god could quell<br>\nThe rise and rise unstoppable inside<br>\nOf happiness whose bounds no man can tell<br>\n&mdash;Now strike! your hands together, join the din<br>\nA roofless room, a bonafide boon, within.</p>\n</blockquote>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>Apparently they published the collection in <a href=\"https://micro.blog/books/9780008137199\">a book</a>.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
+				"content_text": "Back in 2014, there was a Twitter account, or maybe a Tumblr account, that published pop songs as sonnets[^1]. I loved the spin on genre, but I noticed that they were all Petrarchan (Italian) sonnets, which go ABBA ABBA CDE CDE, or Shakespearean (English) sonnets, which go ABAB CDCD EFEF GG.\n\nI complained on Twitter that we needed Spenserian ones, which have a harder rhyme scheme: ABAB BCBC CDCD EE. But you shouldn't complain without offering a solution, so I give you my offering:\n\n> Tho' oft my speech ere uttering seem mad,  \n> Fair Helios signals end of labor's reign  \n> O'er you and I, who, lightened, upward gad---  \n> Ascend beyond the heav'ns' celestial plane  \n> Lo, trumpets sound our doom, and promise pain:  \n> Your harbinger I welcome, arms ope'd wide  \n> For I, clothèd in joy, will be not slain  \n> Let not your countenance be hurt, nor pride  \n> Know I, and I alone, yield to no tide  \n> No force of earth, nor beast, nor god could quell  \n> The rise and rise unstoppable inside  \n> Of happiness whose bounds no man can tell  \n> ---Now strike! your hands together, join the din  \n> A roofless room, a bonafide boon, within.\n\n[^1]: Apparently they published the collection in [a book](https://micro.blog/books/9780008137199).\n",
+				"date_published": "2023-07-04T11:33:29-05:00",
+				"url": "https://micro.jerrytowler.com/2023/07/04/pharrell-williamss-happy.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/07/02/finished-watching-ted.html",
+				
+				"content_html": "<p>Finished watching: Ted Lasso. Three seasons and only two clunkers. Amazing record. It’s not common that we get a mostly wholesome high-quality smash hit show, and I’m so glad to have seen it. Believe! 🍿</p>\n",
+				"content_text": "Finished watching: Ted Lasso. Three seasons and only two clunkers. Amazing record. It’s not common that we get a mostly wholesome high-quality smash hit show, and I’m so glad to have seen it. Believe! 🍿\n",
+				"date_published": "2023-07-02T21:29:57-05:00",
+				"url": "https://micro.jerrytowler.com/2023/07/02/finished-watching-ted.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/07/01/ive-been-obsessed.html",
+				"title": "I Made a Swift Game",
+				"content_html": "<p>I&rsquo;ve been obsessed with Demonin&rsquo;s <a href=\"https://demonin.com/games/arrayGame/\">Array Game</a> since Andy Baio <a href=\"https://waxy.org/2023/06/array-game/\">linked to it</a> a month ago.</p>\n<p>After getting effectively to the current endgame (there&rsquo;s no real end, but at some point there&rsquo;s no &ldquo;next upgrade&rdquo;), it occurred to me that the simplicity of the game was ideal for me to try learning Swift again.</p>\n<p>I dove all the way into Swift and SwiftUI, first using <a href=\"https://www.apple.com/swift/playgrounds/\">Swift Playgrounds</a> and then Xcode directly. It&rsquo;s amazing how quickly a simple app can come together using all these tools and the crazy-fast <a href=\"https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop\">REPL</a> that is Playgrounds.</p>\n<p>Here&rsquo;s a video of the first level as of today.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "I've been obsessed with Demonin's [Array Game](https://demonin.com/games/arrayGame/) since Andy Baio [linked to it](https://waxy.org/2023/06/array-game/) a month ago.\n\nAfter getting effectively to the current endgame (there's no real end, but at some point there's no \"next upgrade\"), it occurred to me that the simplicity of the game was ideal for me to try learning Swift again.\n\nI dove all the way into Swift and SwiftUI, first using [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) and then Xcode directly. It's amazing how quickly a simple app can come together using all these tools and the crazy-fast [REPL](https://en.wikipedia.org/wiki/Read–eval–print_loop) that is Playgrounds.\n\nHere's a video of the first level as of today.\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://micro.jerrytowler.com/uploads/2023/video.mov\" width=\"640\" height=\"1388\" poster=\"https://micro.jerrytowler.com/uploads/2023/82f6aae94b.png\" preload=\"none\"></video>\n",
+				"date_published": "2023-07-01T16:48:54-05:00",
+				"url": "https://micro.jerrytowler.com/2023/07/01/ive-been-obsessed.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/07/01/i-just-accidentally.html",
+				
+				"content_html": "<p>I just accidentally used the <a href=\"https://support.apple.com/en-us/HT212757\">Universal Control</a> feature built into macOS Ventura. I had set up my work MacBook Pro next to the monitor for my personal Mac mini, where I used to keep my laptop when it was connected to this monitor. So I naturally just hauled the cursor beyond the side of the screen, and it <em>magically</em> kept going onto the laptop screen!</p>\n<p>It took me several seconds to figure out that something special had happened and that my cursor had jumped from one machine to the other.</p>\n<p>Something weird: how did it know which side of my monitor the laptop was on? It could guess by choosing the direction you try to move your cursor, exactly like I did, but it&rsquo;s still absolutely delightful.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I just accidentally used the [Universal Control](https://support.apple.com/en-us/HT212757) feature built into macOS Ventura. I had set up my work MacBook Pro next to the monitor for my personal Mac mini, where I used to keep my laptop when it was connected to this monitor. So I naturally just hauled the cursor beyond the side of the screen, and it *magically* kept going onto the laptop screen!\r\n\r\nIt took me several seconds to figure out that something special had happened and that my cursor had jumped from one machine to the other.\r\n\r\nSomething weird: how did it know which side of my monitor the laptop was on? It could guess by choosing the direction you try to move your cursor, exactly like I did, but it's still absolutely delightful.\n\n<img src=\"uploads/2023/screenshot-2023-07-01-at-2.18.57-pm.png\" width=\"600\" height=\"115\" alt=\"Screenshot of the System Settings control that allows the magic I just witnessed.\r&10;\r&10;It says, &quot;Push through the edge of a display to connect a nearby Mac or iPad. \r&10;Allow the pointer to connect to a nearby Mac or iPad by pushing against the edge of a display.&quot;\">\n",
+				"date_published": "2023-07-01T14:21:10-05:00",
+				"url": "https://micro.jerrytowler.com/2023/07/01/i-just-accidentally.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/07/01/gave-a-bunch.html",
+				
+				"content_html": "<p>Gave a bunch of stuff back to Apple today. These computers got both Meera and me through college and grad school, and it’s time to let go.</p>\n<p>The white iPod (3rd gen, I think) was a birthday present when I turned 17 or 18; the iPods Touch tided me over until Verizon got the iPhone, and that iPhone 5s is still the best design ever made.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Gave a bunch of stuff back to Apple today. These computers got both Meera and me through college and grad school, and it’s time to let go.\n\nThe white iPod (3rd gen, I think) was a birthday present when I turned 17 or 18; the iPods Touch tided me over until Verizon got the iPhone, and that iPhone 5s is still the best design ever made. \n\n<img src=\"uploads/2023/aeb3162567864cfdadcc8155bd01958f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-07-01T11:41:30-05:00",
+				"url": "https://micro.jerrytowler.com/2023/07/01/gave-a-bunch.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/06/25/makeshift-parfait-at.html",
+				
+				"content_html": "<p>Makeshift parfait at the BOS (Logan) Admiral’s Club this morning waiting for our flight back to Austin. 📸</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Makeshift parfait at the BOS (Logan) Admiral’s Club this morning waiting for our flight back to Austin. 📸\n\n<img src=\"uploads/2023/1c0dcbcab1db42eb8b0d63961e6a2f26.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-25T18:48:41-05:00",
+				"url": "https://micro.jerrytowler.com/2023/06/25/makeshift-parfait-at.html",
+				"tags": ["photos","travel"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/06/24/brunch-at-in.html",
+				
+				"content_html": "<p>Brunch at In A Pickle in Waltham ahead of a wedding yesterday afternoon. Hot honey chicken and waffles, pumpkin bread French toast, and coffee. Perfect.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Brunch at In A Pickle in Waltham ahead of a wedding yesterday afternoon. Hot honey chicken and waffles, pumpkin bread French toast, and coffee. Perfect. \n\n<img src=\"uploads/2023/6f95f90a4c8347128b9e10168c284a18.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-24T16:13:11-05:00",
+				"url": "https://micro.jerrytowler.com/2023/06/24/brunch-at-in.html",
+				"tags": ["photos","travel"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/06/20/today-i-discovered.html",
+				
+				"content_html": "<p>Today I discovered Merlin Mann&rsquo;s <a href=\"https://github.com/merlinmann/wisdom\">Wisdom Project</a>, and it&rsquo;s the kind of thing at least part of my Micro.blog should aspire to be.</p>\n<p>Little snippets that are helpful to me now and might be helpful to me or others later.</p>\n<p>Some of them are very #wisdom:</p>\n<blockquote>\n<p>Like it or not, you&rsquo;re always practicing something. Put another way, whichever muscle you exercise the most can&rsquo;t help but strengthen. Often to the detriment of others.</p>\n</blockquote>\n<p>And some are pure Merlin:</p>\n<blockquote>\n<p>Your calendar represents a portfolio of promises to your future self. Treat it that way.</p>\n</blockquote>\n",
+				"content_text": "Today I discovered Merlin Mann's [Wisdom Project](https://github.com/merlinmann/wisdom), and it's the kind of thing at least part of my Micro.blog should aspire to be.\n\nLittle snippets that are helpful to me now and might be helpful to me or others later.\n\nSome of them are very #wisdom:\n\n> Like it or not, you're always practicing something. Put another way, whichever muscle you exercise the most can't help but strengthen. Often to the detriment of others.\n\nAnd some are pure Merlin:\n\n> Your calendar represents a portfolio of promises to your future self. Treat it that way.\n",
+				"date_published": "2023-06-20T21:48:17-05:00",
+				"url": "https://micro.jerrytowler.com/2023/06/20/today-i-discovered.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/06/19/mostly-final-desk.html",
+				
+				"content_html": "<p>Mostly final desk setup, shown here during a video conference we were both attending (on the iPad). The room looks mostly the same, except it has real curtains now and more stuff on the shelves. And we don’t use it nearly as often—we’re in the office more often than not.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Mostly final desk setup, shown here during a video conference we were both attending (on the iPad). The room looks mostly the same, except it has real curtains now and more stuff on the shelves. And we don’t use it nearly as often—we’re in the office more often than not. \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/934132e5e631433985e6fa17ecd307f9.jpg\" width=\"600\" height=\"534\" alt=\"\">\n",
+				"date_published": "2023-06-19T22:45:47-05:00",
+				"url": "https://micro.jerrytowler.com/2023/06/19/mostly-final-desk.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/06/18/our-other-earlycovid.html",
+				
+				"content_html": "<p>Our other early-COVID desk, set up not in the office but the guest bedroom. Like everyone else, my wife and I spent too much time on videoconferences to sit in the same room, so we were fortunate to have space to spread out like this. Same monitor, different laptop and stand. No K’nex.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Our other early-COVID desk, set up not in the office but the guest bedroom. Like everyone else, my wife and I spent too much time on videoconferences to sit in the same room, so we were fortunate to have space to spread out like this. Same monitor, different laptop and stand. No K’nex. \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/60031f33ead74c0f80a25bc2d3411ed9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-06-18T18:28:56-05:00",
+				"url": "https://micro.jerrytowler.com/2023/06/18/our-other-earlycovid.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/06/17/standing-desk-evolution.html",
+				
+				"content_html": "<p>Standing desk evolution, a few weeks in COVID. At this point, we still had the blinds open to remind us what “outside” looked like. It still kind of felt like vacation, not yet like the terrifying pandemic it turned out to be. (It did, and still does, make me wish I were indie.)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Standing desk evolution, a few weeks in COVID. At this point, we still had the blinds open to remind us what “outside” looked like. It still kind of felt like vacation, not yet like the terrifying pandemic it turned out to be. (It did, and still does, make me wish I were indie.) \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/d5327209be634458bfa6a4ffb48ceb60.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-06-17T18:14:39-05:00",
+				"url": "https://micro.jerrytowler.com/2023/06/17/standing-desk-evolution.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/06/16/our-home-office.html",
+				
+				"content_html": "<p>Our home office desk before COVID. Made of an old kitchen table and K’nex, naturally. 📸</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Our home office desk before COVID. Made of an old kitchen table and K’nex, naturally. 📸\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/7c911f55a2f440948c93e25ff9e2ebe4.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-06-16T19:24:18-05:00",
+				"url": "https://micro.jerrytowler.com/2023/06/16/our-home-office.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/06/15/day-three-of.html",
+				
+				"content_html": "<p>Day three of desk pictures. This one is an actual working desk of mine from my first apartment in San Antonio after grad school. It looks so much like my grad school desk in my Blackburg apartment I first guessed that&rsquo;s what it was before looking at the location info.</p>\n<p>Almost every element in this photo tells a story, at least to me. Maybe that would also make a good series of posts.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Day three of desk pictures. This one is an actual working desk of mine from my first apartment in San Antonio after grad school. It looks so much like my grad school desk in my Blackburg apartment I first guessed that's what it was before looking at the location info.\n\nAlmost every element in this photo tells a story, at least to me. Maybe that would also make a good series of posts. \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/124830f3a8.jpeg\" width=\"600\" height=\"448\" alt=\"A desk made out of a door, covered in equipment: laptop, hard drives, speakers, turntables, lamp, working papers, notebooks, office supplies... it's a mess.\">\n",
+				"date_published": "2023-06-15T11:20:06-05:00",
+				"url": "https://micro.jerrytowler.com/2023/06/15/day-three-of.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/06/14/yesterdays-desk-post.html",
+				
+				"content_html": "<p>Yesterday’s desk post made me think of other interesting writing desks I’ve encountered.</p>\n<p>This one is from our house in Sóller, Majorca, Spain, from November 2021.</p>\n<p>An iPad instead of a MacBook because this was a vacation, not a business trip.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Yesterday’s desk post made me think of other interesting writing desks I’ve encountered.\n\nThis one is from our house in Sóller, Majorca, Spain, from November 2021.\n\nAn iPad instead of a MacBook because this was a vacation, not a business trip. \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/d464f10ada.jpg\" width=\"600\" height=\"450\" alt=\"Black-and-white photo of a wooden writing desk made of an old sewing machine, topped by an iPad, keyboard, water bottle, and wine glass.\">\n",
+				"date_published": "2023-06-14T19:52:17-05:00",
+				"url": "https://micro.jerrytowler.com/2023/06/14/yesterdays-desk-post.html",
+				"tags": ["photos","travel"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/06/13/my-workspace-at.html",
+				
+				"content_html": "<p>My workspace at Hotel Bellevue in Cazaubon, France, a few weeks ago. I love the aesthetic, but it made me feel like I should be writing a novel instead of PowerPoint slides.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My workspace at Hotel Bellevue in Cazaubon, France, a few weeks ago. I love the aesthetic, but it made me feel like I should be writing a novel instead of PowerPoint slides.\n\n<img src=\"https://jatowler.micro.blog/uploads/2023/fb69cf316b.jpg\" width=\"600\" height=\"449\" alt=\"Photo of a small wooden writing desk dominated by a MacBook Pro and over-ear headphones.\">\n",
+				"date_published": "2023-06-13T20:21:22-05:00",
+				"url": "https://micro.jerrytowler.com/2023/06/13/my-workspace-at.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/06/11/cleaning-out-and.html",
+				
+				"content_html": "<p>Cleaning out and backing up my college/grad school MacBook Pro (15-inch Early 2008), and the nostalgia is strong in this one.</p>\n<p>Sure, its 2.4GHz Core 2 Duo isn’t that impressive, and neither is its 4GB of DDR2 or 256GB GeForce 8600M, but it is weirdly performant on OS X 10.8.3, and the aesthetic is arguably more beautiful and indisputably more fun than current macOS.</p>\n<p>The old-school 3D icons for Twitter, TextWrangler, and others are elegant, and maybe we should go back to them.</p>\n<p>I did all of grad school on this computer, including tons of Matlab and hundreds of pages of LaTeX, and it’s kind of sad to see it go.</p>\n",
+				"content_text": "Cleaning out and backing up my college/grad school MacBook Pro (15-inch Early 2008), and the nostalgia is strong in this one.\n\nSure, its 2.4GHz Core 2 Duo isn’t that impressive, and neither is its 4GB of DDR2 or 256GB GeForce 8600M, but it is weirdly performant on OS X 10.8.3, and the aesthetic is arguably more beautiful and indisputably more fun than current macOS.\n\nThe old-school 3D icons for Twitter, TextWrangler, and others are elegant, and maybe we should go back to them.\n\nI did all of grad school on this computer, including tons of Matlab and hundreds of pages of LaTeX, and it’s kind of sad to see it go.\n",
+				"date_published": "2023-06-11T14:46:57-05:00",
+				"url": "https://micro.jerrytowler.com/2023/06/11/cleaning-out-and.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/06/07/in-corpus-christi.html",
+				
+				"content_html": "<p>In Corpus Christi for Rio Texas Annual Conference. Tried out Railroad Brewing Company right by the convention center. 📸</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "In Corpus Christi for Rio Texas Annual Conference. Tried out Railroad Brewing Company right by the convention center. 📸\n\n<img src=\"https://jatowler.micro.blog/uploads/2023/43d07e402c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-07T20:12:47-05:00",
+				"url": "https://micro.jerrytowler.com/2023/06/07/in-corpus-christi.html",
+				"tags": ["photos","travel"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/05/30/felt-bad-that.html",
+				
+				"content_html": "<p>Felt bad that I didn’t get much done yesterday, so this picture is to remind me of what I did finish this weekend. Let’s get the short week started strong. 📸</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Felt bad that I didn’t get much done yesterday, so this picture is to remind me of what I did finish this weekend. Let’s get the short week started strong. 📸\n\n<img src=\"https://jatowler.micro.blog/uploads/2023/6b76a697cf.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"date_published": "2023-05-30T07:58:37-05:00",
+				"url": "https://micro.jerrytowler.com/2023/05/30/felt-bad-that.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/05/01/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780553588941\">The Lies of Locke Lamora</a> by Scott Lynch. Slow start for an amazing ending. Fun wordplay and enough mystery to hunt down the sequel. 📚</p>\n",
+				"content_text": "Finished reading: [The Lies of Locke Lamora](https://micro.blog/books/9780553588941) by Scott Lynch. Slow start for an amazing ending. Fun wordplay and enough mystery to hunt down the sequel. 📚\n",
+				"date_published": "2023-05-01T22:45:59-05:00",
+				"url": "https://micro.jerrytowler.com/2023/05/01/finished-reading-the.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/04/29/pro-tip-when.html",
+				
+				"content_html": "<p>Pro tip: when the sky looks like this, the best time to leave work was half an hour ago. 📸</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Pro tip: when the sky looks like this, the best time to leave work was half an hour ago. 📸\n\n<img src=\"https://jatowler.micro.blog/uploads/2023/5107b1e3d8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-04-29T08:31:47-05:00",
+				"url": "https://micro.jerrytowler.com/2023/04/29/pro-tip-when.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/04/26/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781938570384\">The Frugal Wizard’s Handbook for Surviving Medieval England</a> by Brandon Sanderson. A fun, quick read. Pretty un-Sanderson. Seems like he was experimenting with style, similar to Tress, just not in the Cosmere. 📚</p>\n",
+				"content_text": "Finished reading: [The Frugal Wizard’s Handbook for Surviving Medieval England](https://micro.blog/books/9781938570384) by Brandon Sanderson. A fun, quick read. Pretty un-Sanderson. Seems like he was experimenting with style, similar to Tress, just not in the Cosmere. 📚\n",
+				"date_published": "2023-04-26T08:56:42-05:00",
+				"url": "https://micro.jerrytowler.com/2023/04/26/finished-reading-the.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/03/06/finished-reading-moving.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781407034737\">Moving Pictures</a> by Terry Pratchett. Like “Pyramids”, an excuse for Pratchett to make a billion pop culture jokes in a row. Tons of fun. 📚</p>\n",
+				"content_text": "Finished reading: [Moving Pictures](https://micro.blog/books/9781407034737) by Terry Pratchett. Like “Pyramids”, an excuse for Pratchett to make a billion pop culture jokes in a row. Tons of fun. 📚\n",
+				"date_published": "2023-03-06T19:05:45-05:00",
+				"url": "https://micro.jerrytowler.com/2023/03/06/finished-reading-moving.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/03/05/finished-watching-hidden.html",
+				
+				"content_html": "<p>Finished watching: <em>Hidden Figures</em>. I’m so glad this movie exists. Epic women I’ve looked up to forever, especially Katherine Johnson, and now other people will know about them too. Not a movie for nerds—it’s about people and society and space, not technology—but awesome anyway.🍿</p>\n",
+				"content_text": "Finished watching: _Hidden Figures_. I’m so glad this movie exists. Epic women I’ve looked up to forever, especially Katherine Johnson, and now other people will know about them too. Not a movie for nerds—it’s about people and society and space, not technology—but awesome anyway.🍿\n",
+				"date_published": "2023-03-05T21:19:52-05:00",
+				"url": "https://micro.jerrytowler.com/2023/03/05/finished-watching-hidden.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/02/28/finished-reading-spinning.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780399181009\">Spinning Silver</a> by Naomi Novik. Wow, what a fun novel. I had no idea what was going on or what was going to happen. Definitely better than her <em>Uprooted</em>. Thanks to <a href=\"https://micro.blog/jsonbecker\">@jsonbecker</a> for saying exactly that and giving me the recommendation. 📚</p>\n",
+				"content_text": "Finished reading: [Spinning Silver](https://micro.blog/books/9780399181009) by Naomi Novik. Wow, what a fun novel. I had no idea what was going on or what was going to happen. Definitely better than her _Uprooted_. Thanks to [@jsonbecker](https://micro.blog/jsonbecker) for saying exactly that and giving me the recommendation. 📚\n",
+				"date_published": "2023-02-28T23:43:48-05:00",
+				"url": "https://micro.jerrytowler.com/2023/02/28/finished-reading-spinning.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/02/28/224115.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780575099562\">The Wise Man&rsquo;s Fear</a> by Patrick Rothfuss. I’ve never read a book so full of hints but so devoid of answers. Also with such a powerful, but dumb, protagonist. I want Denna’s story so badly… which I guess puts me in good company. A book practically <em>made</em> for Reddit. 📚</p>\n",
+				"content_text": "Finished reading: [The Wise Man's Fear](https://micro.blog/books/9780575099562) by Patrick Rothfuss. I’ve never read a book so full of hints but so devoid of answers. Also with such a powerful, but dumb, protagonist. I want Denna’s story so badly… which I guess puts me in good company. A book practically *made* for Reddit. 📚\n",
+				"date_published": "2023-02-28T23:41:15-05:00",
+				"url": "https://micro.jerrytowler.com/2023/02/28/224115.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/02/28/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780756405892\">The Name of the Wind</a> by Patrick Rothfuss. Late to the party on this one. One of the most beautiful fantasy books I’ve ever read. Incredible command of language and myth and character. Also frustrating; I knew that going in, but I didn’t know just quite how. 📚</p>\n",
+				"content_text": "Finished reading: [The Name of the Wind](https://micro.blog/books/9780756405892) by Patrick Rothfuss. Late to the party on this one. One of the most beautiful fantasy books I’ve ever read. Incredible command of language and myth and character. Also frustrating; I knew that going in, but I didn’t know just quite how. 📚\n",
+				"date_published": "2023-02-28T23:35:17-05:00",
+				"url": "https://micro.jerrytowler.com/2023/02/28/finished-reading-the.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/02/19/finished-reading-eric.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780575123151\">Eric</a> by Terry Pratchett. Just fun. Less effort than previous books, but more entertaining. Plus: Rincewind! Only problem is it’s very very short. 📚</p>\n",
+				"content_text": "Finished reading: [Eric](https://micro.blog/books/9780575123151) by Terry Pratchett. Just fun. Less effort than previous books, but more entertaining. Plus: Rincewind! Only problem is it’s very very short. 📚\n",
+				"date_published": "2023-02-19T22:22:14-05:00",
+				"url": "https://micro.jerrytowler.com/2023/02/19/finished-reading-eric.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/02/18/finished-reading-league.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780345522924\">League of Dragons</a> by Naomi Novik. Probably my favorite of these, which is nice because it’s last. Pacing worked out, some growth arcs concluded, and the inevitable future is hinted but not written. 📚</p>\n",
+				"content_text": "Finished reading: [League of Dragons](https://micro.blog/books/9780345522924) by Naomi Novik. Probably my favorite of these, which is nice because it’s last. Pacing worked out, some growth arcs concluded, and the inevitable future is hinted but not written. 📚\n",
+				"date_published": "2023-02-18T15:23:21-05:00",
+				"url": "https://micro.jerrytowler.com/2023/02/18/finished-reading-league.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/02/15/finished-reading-blood.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593359617\">Blood of Tyrants</a> by Naomi Novik. I will never get used to the pacing of these books; and especially the ridiculously abrupt endings. Not even cliffhangers, just endings. 📚</p>\n",
+				"content_text": "Finished reading: [Blood of Tyrants](https://micro.blog/books/9780593359617) by Naomi Novik. I will never get used to the pacing of these books; and especially the ridiculously abrupt endings. Not even cliffhangers, just endings. 📚\n",
+				"date_published": "2023-02-15T01:53:14-05:00",
+				"url": "https://micro.jerrytowler.com/2023/02/15/finished-reading-blood.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/02/13/finished-reading-crucible.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780345522870\">Crucible of Gold</a> by Naomi Novik. Fantastic adventure in the Andes devolves to more boring British politics by the end. Novik loves the history of the Napoleonic wars too much, and it weakens the stories. 📚</p>\n",
+				"content_text": "Finished reading: [Crucible of Gold](https://micro.blog/books/9780345522870) by Naomi Novik. Fantastic adventure in the Andes devolves to more boring British politics by the end. Novik loves the history of the Napoleonic wars too much, and it weakens the stories. 📚\n",
+				"date_published": "2023-02-13T09:54:45-05:00",
+				"url": "https://micro.jerrytowler.com/2023/02/13/finished-reading-crucible.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/02/12/finished-reading-tongues.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780345521750\">Tongues of Serpents</a> by Naomi Novik. Unexpectedly appropriate for my long layover in Sydney. I like Laurence better as an explorer than soldier. More adventure, less British politics. 📚</p>\n",
+				"content_text": "Finished reading: [Tongues of Serpents](https://micro.blog/books/9780345521750) by Naomi Novik. Unexpectedly appropriate for my long layover in Sydney. I like Laurence better as an explorer than soldier. More adventure, less British politics. 📚\n",
+				"date_published": "2023-02-12T19:57:36-05:00",
+				"url": "https://micro.jerrytowler.com/2023/02/12/finished-reading-tongues.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/02/11/finished-reading-victory.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780345507082\">Victory of Eagles</a> by Naomi Novik. Pacing finally feels good, and as a result I enjoyed this one more than the previous four. Feels like the world is changing, which is fun to watch. 📚</p>\n",
+				"content_text": "Finished reading: [Victory of Eagles](https://micro.blog/books/9780345507082) by Naomi Novik. Pacing finally feels good, and as a result I enjoyed this one more than the previous four. Feels like the world is changing, which is fun to watch. 📚\n",
+				"date_published": "2023-02-11T21:45:04-05:00",
+				"url": "https://micro.jerrytowler.com/2023/02/11/finished-reading-victory.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/02/11/finished-reading-tress.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781938570346\">Tress of the Emerald Sea</a> by Brandon Sanderson. Tremendous effort and tons of fun. Lots of Cosmere elements together, and the joy of Hoid everywhere. I just wish he hadn’t tried so hard to sound like Terry Pratchett. (Recommended by <a href=\"https://micro.blog/manton\">@manton</a>) 📚</p>\n",
+				"content_text": "Finished reading: [Tress of the Emerald Sea](https://micro.blog/books/9781938570346) by Brandon Sanderson. Tremendous effort and tons of fun. Lots of Cosmere elements together, and the joy of Hoid everywhere. I just wish he hadn’t tried so hard to sound like Terry Pratchett. (Recommended by [@manton](https://micro.blog/manton)) 📚\n",
+				"date_published": "2023-02-11T03:01:07-05:00",
+				"url": "https://micro.jerrytowler.com/2023/02/11/finished-reading-tress.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/02/10/finished-reading-guards.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781473200180\">Guards! Guards!</a> by Terry Pratchett. Probably my least favorite of the series so far. So many moving parts, and the jokes didn’t land for me. 📚</p>\n",
+				"content_text": "Finished reading: [Guards! Guards!](https://micro.blog/books/9781473200180) by Terry Pratchett. Probably my least favorite of the series so far. So many moving parts, and the jokes didn’t land for me. 📚\n",
+				"date_published": "2023-02-10T01:08:38-05:00",
+				"url": "https://micro.jerrytowler.com/2023/02/10/finished-reading-guards.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/02/07/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781473215290\">The Lost Metal</a> by Brandon Sanderson. I absolutely tore through this book. As usual, Sanderson’s organization awes me, although I couldn’t help but feel he tossed a little too much Cosmere lore at us in one book to prepare us for what’s coming. 📚</p>\n",
+				"content_text": "Finished reading: [The Lost Metal](https://micro.blog/books/9781473215290) by Brandon Sanderson. I absolutely tore through this book. As usual, Sanderson’s organization awes me, although I couldn’t help but feel he tossed a little too much Cosmere lore at us in one book to prepare us for what’s coming. 📚\n",
+				"date_published": "2023-02-07T06:38:47-05:00",
+				"url": "https://micro.jerrytowler.com/2023/02/07/finished-reading-the.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/02/06/finished-reading-empire.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593359570\">Empire of Ivory</a> by Naomi Novik. More like a log of adventure than a novel. Temeraire and Laurence finally have a hard decision to make, although their expressed value system removes the tension entirely for the reader. Still a fun adventure though. 📚</p>\n",
+				"content_text": "Finished reading: [Empire of Ivory](https://micro.blog/books/9780593359570) by Naomi Novik. More like a log of adventure than a novel. Temeraire and Laurence finally have a hard decision to make, although their expressed value system removes the tension entirely for the reader. Still a fun adventure though. 📚\n",
+				"date_published": "2023-02-06T01:59:40-05:00",
+				"url": "https://micro.jerrytowler.com/2023/02/06/finished-reading-empire.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/02/04/finished-reading-throne.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593359556\">Throne of Jade</a> by Naomi Novik. Seemingly totally independent from the first novel except the characters, another exploration into a world where dragons are rare but natural. The pacing is again weird, but the world entertaining enough to make up for it. 📚</p>\n",
+				"content_text": "Finished reading: [Throne of Jade](https://micro.blog/books/9780593359556) by Naomi Novik. Seemingly totally independent from the first novel except the characters, another exploration into a world where dragons are rare but natural. The pacing is again weird, but the world entertaining enough to make up for it. 📚\n",
+				"date_published": "2023-02-04T20:48:06-05:00",
+				"url": "https://micro.jerrytowler.com/2023/02/04/finished-reading-throne.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/02/03/finished-reading-his.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593359549\">His Majesty&rsquo;s Dragon</a> by Naomi Novik. Learning a new world is always fun, and Novik launches in as if England and France have always used dragon fleets in their wars. The climax is too long in coming though, and too short; similarly, the denouement is precipitous. 📚</p>\n",
+				"content_text": "Finished reading: [His Majesty's Dragon](https://micro.blog/books/9780593359549) by Naomi Novik. Learning a new world is always fun, and Novik launches in as if England and France have always used dragon fleets in their wars. The climax is too long in coming though, and too short; similarly, the denouement is precipitous. 📚\n",
+				"date_published": "2023-02-03T15:52:41-05:00",
+				"url": "https://micro.jerrytowler.com/2023/02/03/finished-reading-his.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/01/31/finished-reading-pyramids.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780061020650\">Pyramids</a> by Terry Pratchett. Long train rides make these books fly by. Another one, like Wyrd Sisters, where Pratchett clearly enjoyed himself with puns and satire and camels. 📚</p>\n",
+				"content_text": "Finished reading: [Pyramids](https://micro.blog/books/9780061020650) by Terry Pratchett. Long train rides make these books fly by. Another one, like Wyrd Sisters, where Pratchett clearly enjoyed himself with puns and satire and camels. 📚\n",
+				"date_published": "2023-01-31T20:22:59-05:00",
+				"url": "https://micro.jerrytowler.com/2023/01/31/finished-reading-pyramids.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/01/29/finished-reading-wyrd.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780062225733\">Wyrd Sisters</a> by Terry Pratchett. The first Discworld novel that actually made me laugh out loud. The Discworld is the same glorious place, but the words—powerful things—tickled me just right. I suspect I missed a lot more literature references than I got. 📚</p>\n",
+				"content_text": "Finished reading: [Wyrd Sisters](https://micro.blog/books/9780062225733) by Terry Pratchett. The first Discworld novel that actually made me laugh out loud. The Discworld is the same glorious place, but the words—powerful things—tickled me just right. I suspect I missed a lot more literature references than I got. 📚\n",
+				"date_published": "2023-01-29T21:28:36-05:00",
+				"url": "https://micro.jerrytowler.com/2023/01/29/finished-reading-wyrd.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/01/29/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781101885949\">The Bear and the Nightingale</a> by Katherine Arden. Takes a long time to get going, but spellbinding once there. Another winter fairy tale. Recommended by <a href=\"https://micro.blog/hollyhoneychurch\">@hollyhoneychurch</a> as a follow-up to Uprooted; good recommendation. 📚</p>\n",
+				"content_text": "Finished reading: [The Bear and the Nightingale](https://micro.blog/books/9781101885949) by Katherine Arden. Takes a long time to get going, but spellbinding once there. Another winter fairy tale. Recommended by [@hollyhoneychurch](https://micro.blog/hollyhoneychurch) as a follow-up to Uprooted; good recommendation. 📚\n",
+				"date_published": "2023-01-29T02:49:54-05:00",
+				"url": "https://micro.jerrytowler.com/2023/01/29/finished-reading-the.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/01/26/finished-reading-sourcery.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780613572781\">Sourcery</a> by Terry Pratchett. The self-consistency of Discworld, despite the total lack of logic, amazes me every time. All of its legends and myths and prophecies are true, just never in ways the reader expects, yet somehow always in ways that blend comfortably with the overall chaos. 📚</p>\n",
+				"content_text": "Finished reading: [Sourcery](https://micro.blog/books/9780613572781) by Terry Pratchett. The self-consistency of Discworld, despite the total lack of logic, amazes me every time. All of its legends and myths and prophecies are true, just never in ways the reader expects, yet somehow always in ways that blend comfortably with the overall chaos. 📚\n",
+				"date_published": "2023-01-26T16:42:27-05:00",
+				"url": "https://micro.jerrytowler.com/2023/01/26/finished-reading-sourcery.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/01/25/finished-reading-mort.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780552166621\">Mort</a> by Terry Pratchett. Death hires an apprentice so he can take some time off and experience life, and maybe find a husband for his daughter. All of those things happen, but as is common on Discworld, not exactly in the expected fashion. Rincewind cameo. 📚</p>\n",
+				"content_text": "Finished reading: [Mort](https://micro.blog/books/9780552166621) by Terry Pratchett. Death hires an apprentice so he can take some time off and experience life, and maybe find a husband for his daughter. All of those things happen, but as is common on Discworld, not exactly in the expected fashion. Rincewind cameo. 📚\n",
+				"date_published": "2023-01-25T18:38:26-05:00",
+				"url": "https://micro.jerrytowler.com/2023/01/25/finished-reading-mort.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/01/23/finished-reading-uprooted.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780804179041\">Uprooted</a> by Naomi Novik. Starts as a twist on a fairy tale, ends as high fantasy. The finale is a bit more chaotic than you’d wish, but the whole thing is a good time. 95% for children, but very much meant for grown-ups. 📚</p>\n",
+				"content_text": "Finished reading: [Uprooted](https://micro.blog/books/9780804179041) by Naomi Novik. Starts as a twist on a fairy tale, ends as high fantasy. The finale is a bit more chaotic than you’d wish, but the whole thing is a good time. 95% for children, but very much meant for grown-ups. 📚\n",
+				"date_published": "2023-01-23T20:10:36-05:00",
+				"url": "https://micro.jerrytowler.com/2023/01/23/finished-reading-uprooted.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/01/22/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593158364\">The Golden Enclaves</a> by Naomi Novik. I absolutely devoured this book. It pays off the first book’s cliffhanger better than the second even tried to, and while the writing got a little cheaper the story exploded into awesome. 📚</p>\n",
+				"content_text": "Finished reading: [The Golden Enclaves](https://micro.blog/books/9780593158364) by Naomi Novik. I absolutely devoured this book. It pays off the first book’s cliffhanger better than the second even tried to, and while the writing got a little cheaper the story exploded into awesome. 📚\n",
+				"date_published": "2023-01-22T11:08:11-05:00",
+				"url": "https://micro.jerrytowler.com/2023/01/22/finished-reading-the.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/01/21/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593128879\">The Last Graduate</a> by Naomi Novik. More fun in the Scholomance. Cliffhanger from the previous novel doesn’t pay off, but a great read anyway. 📚</p>\n",
+				"content_text": "Finished reading: [The Last Graduate](https://micro.blog/books/9780593128879) by Naomi Novik. More fun in the Scholomance. Cliffhanger from the previous novel doesn’t pay off, but a great read anyway. 📚\n",
+				"date_published": "2023-01-21T19:30:45-05:00",
+				"url": "https://micro.jerrytowler.com/2023/01/21/finished-reading-the.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/01/21/finished-reading-a.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593128497\">A Deadly Education</a> by Naomi Novik. Clearly written for the Harry Potter set, but profoundly different and exciting and, helpfully, well-written. Immediately a favorite young adult novel. 📚</p>\n",
+				"content_text": "Finished reading: [A Deadly Education](https://micro.blog/books/9780593128497) by Naomi Novik. Clearly written for the Harry Potter set, but profoundly different and exciting and, helpfully, well-written. Immediately a favorite young adult novel. 📚\n",
+				"date_published": "2023-01-21T01:41:21-05:00",
+				"url": "https://micro.jerrytowler.com/2023/01/21/finished-reading-a.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/01/20/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781466862678\">The Bands of Mourning</a> by Brandon Sanderson. Concludes as expected, a surprisingly similar scene to <em>Hero of Ages</em>. I wish we’d seen Hoid more, but the tease of Kelsier at the end was worth it.📚</p>\n",
+				"content_text": "Finished reading: [The Bands of Mourning](https://micro.blog/books/9781466862678) by Brandon Sanderson. Concludes as expected, a surprisingly similar scene to _Hero of Ages_. I wish we’d seen Hoid more, but the tease of Kelsier at the end was worth it.📚\n",
+				"date_published": "2023-01-20T02:23:29-05:00",
+				"url": "https://micro.jerrytowler.com/2023/01/20/finished-reading-the.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/01/15/finished-reading-shadows.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781473208230\">Shadows of Self</a> by Brandon Sanderson. Beautiful, tragic, ending. Harsh cliffhanger, but didn’t leave me desperate for more Cosmere like most of this series does. 📚</p>\n",
+				"content_text": "Finished reading: [Shadows of Self](https://micro.blog/books/9781473208230) by Brandon Sanderson. Beautiful, tragic, ending. Harsh cliffhanger, but didn’t leave me desperate for more Cosmere like most of this series does. 📚\n",
+				"date_published": "2023-01-16T00:08:12-05:00",
+				"url": "https://micro.jerrytowler.com/2023/01/15/finished-reading-shadows.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/01/13/finished-reading-equal.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780061804830\">Equal Rites</a> by Terry Pratchett. As fine a primer on headology as one could hope for. 📚</p>\n",
+				"content_text": "Finished reading: [Equal Rites](https://micro.blog/books/9780061804830) by Terry Pratchett. As fine a primer on headology as one could hope for. 📚\n",
+				"date_published": "2023-01-13T12:44:46-05:00",
+				"url": "https://micro.jerrytowler.com/2023/01/13/finished-reading-equal.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/01/09/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780061020704\">The Light Fantastic</a> by Terry Pratchett 📚</p>\n",
+				"content_text": "Finished reading: [The Light Fantastic](https://micro.blog/books/9780061020704) by Terry Pratchett 📚\n",
+				"date_published": "2023-01-09T01:51:04-05:00",
+				"url": "https://micro.jerrytowler.com/2023/01/09/finished-reading-the.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/01/08/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780062225672\">The Color of Magic</a> by Terry Pratchett 📚</p>\n",
+				"content_text": "Finished reading: [The Color of Magic](https://micro.blog/books/9780062225672) by Terry Pratchett 📚\n",
+				"date_published": "2023-01-08T17:32:42-05:00",
+				"url": "https://micro.jerrytowler.com/2023/01/08/finished-reading-the.html",
+				"tags": ["books"]
+			}
+	]
+}
