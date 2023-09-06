@@ -7,10 +7,85 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2023/09/06/its-a-day.html",
+				
+				"content_html": "<p>It’s a day late, but on our adventures this afternoon we found the <em>actual</em> <strong>forest</strong> used for Lothlórien, between Glenorchy and Paradise. 👋 <a href=\"https://micro.blog/jean\">@jean</a></p>\n",
+				"content_text": "It’s a day late, but on our adventures this afternoon we found the _actual_ **forest** used for Lothlórien, between Glenorchy and Paradise. 👋 [@jean](https://micro.blog/jean)\n",
+				"date_published": "2023-09-06T19:30:24+10:00",
+				"url": "https://micro.jerrytowler.com/2023/09/06/its-a-day.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/09/05/visiting-rhyme-x.html",
+				
+				"content_html": "<p>Visiting Rhyme x Reason brewery in Wanaka, New Zealand, tonight, they had some spectacular murals on the walls. Apparently painted by employees, who are allegedly paid entirely in beer.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Visiting Rhyme x Reason brewery in Wanaka, New Zealand, tonight, they had some spectacular murals on the walls. Apparently painted by employees, who are allegedly paid entirely in beer.\n\n<img src=\"uploads/2023/0fbc319b91.jpg\" width=\"450\" height=\"600\" alt=\"A wall mural painted above a doorway. The mural is easily 20 feet square of a cartoon man’s head wearing a yellow toboggan, his tongue snaking the length of his head to the right and up. Purple spheres and hops form the background.\"><img src=\"uploads/2023/eb757999bd.jpg\" width=\"450\" height=\"600\" alt=\"Meera sits on a bench in front of a wall mural. An orange planet/moon with bands like Jupiter is orbited by three gigantic green hops. A simple black cloud is overlaid on the planetoid.\"><img src=\"uploads/2023/d00b211298.jpg\" width=\"450\" height=\"600\" alt=\"Two wall murals behind brewery vats. The left, a black planet orbited by giant hops. The right, Mario bursting through the wall, surrounded by hops, with the letters RxR in the bottom-left.\">\n",
+				"date_published": "2023-09-05T18:51:13+10:00",
+				"url": "https://micro.jerrytowler.com/2023/09/05/visiting-rhyme-x.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/09/05/driving-around-lake.html",
+				
+				"content_html": "<p>Driving around Lake Wanaka, New Zealand, this morning, it just screamed <em>Lord of the Rings</em>. Here you have the <strong>forest</strong> of Lothlórien, the Misty Mountains, and everywhere a hobbit could go (and back again).</p>\n<p>(Not pictured: we climbed a waterfall.)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Driving around Lake Wanaka, New Zealand, this morning, it just screamed *Lord of the Rings*. Here you have the **forest** of Lothlórien, the Misty Mountains, and everywhere a hobbit could go (and back again).\n\n(Not pictured: we climbed a waterfall.)\n\n<img src=\"uploads/2023/e09a6ce8a30d42ea84e933f9d2b4f548.jpg\" width=\"600\" height=\"142\" alt=\"Panorama of Lake Wanaka, New Zealand. Evergreen forest on the lakeshore, snowcapped alpine mountains in the distance.\">\n",
+				"date_published": "2023-09-05T16:19:50+10:00",
+				"url": "https://micro.jerrytowler.com/2023/09/05/driving-around-lake.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/09/04/skied-coronet-peak.html",
+				
+				"content_html": "<p>Skied Coronet Peak today. That obviously calls for an après-ski New Zealand-native Ginger Bear in an <strong>orange</strong> can.</p>\n<p>Okay, it’s orange and maroon, but as a Hokie, I approve anyway.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Skied Coronet Peak today. That obviously calls for an après-ski New Zealand-native Ginger Bear in an **orange** can.\n\nOkay, it’s orange and maroon, but as a Hokie, I approve anyway.\n\n<img src=\"uploads/2023/1c41c40f71074076b2f847dac0788a11.jpg\" width=\"450\" height=\"600\" alt=\"Meera in a white ski helmet and reflective purple ski goggles in front of a snow-covered mountain drinking a Ginger Bear from an orange and maroon can.\">\n",
+				"date_published": "2023-09-04T16:58:16+10:00",
+				"url": "https://micro.jerrytowler.com/2023/09/04/skied-coronet-peak.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/09/03/wave-to-the.html",
+				"title": "Wave to the Pelican on the Outer Banks",
+				"content_html": "<p>In 2019, we went to the Outer Banks for Meera’s birthday. We visited from Corolla all the way down to Okracoke, taking in beaches and lighthouses and sand and sun.</p>\n<p>Meera and I are not good at relaxing vacations. We’re always skiing or hiking or visiting museums or monuments. But on this trip, we spent an entire day at the beach, and I was able to be still long enough to take some great photos, including this one of a pelican above a crashing wave.</p>\n<p>We should go back. If only RDU weren’t so far from the beach…</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "In 2019, we went to the Outer Banks for Meera’s birthday. We visited from Corolla all the way down to Okracoke, taking in beaches and lighthouses and sand and sun.\n\nMeera and I are not good at relaxing vacations. We’re always skiing or hiking or visiting museums or monuments. But on this trip, we spent an entire day at the beach, and I was able to be still long enough to take some great photos, including this one of a pelican above a crashing wave.\n\nWe should go back. If only RDU weren’t so far from the beach…\n\n<img src=\"uploads/2023/d8b6cbafb2.jpg\" width=\"600\" height=\"450\" alt=\"A pelican soars, wings outstretched, over a fiercely crashing wave. Brilliant white foam, deep blue sea, and sky blue horizon band the background.\">\n",
+				"date_published": "2023-09-03T17:45:30+10:00",
+				"url": "https://micro.jerrytowler.com/2023/09/03/wave-to-the.html",
+				"tags": ["photos","travel"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/09/03/we-flew-from.html",
+				
+				"content_html": "<p>We flew from Melbourne to Queenstown today, so I had to dig into days past for something precious for today’s challenge photo. My time alone each morning with coffee and words is indeed <strong>precious</strong> to me; this one occurred on Melbourne’s South Wharf last Monday morning.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "We flew from Melbourne to Queenstown today, so I had to dig into days past for something precious for today’s challenge photo. My time alone each morning with coffee and words is indeed **precious** to me; this one occurred on Melbourne’s South Wharf last Monday morning.\n\n<img src=\"uploads/2023/fa0dfb5710074fa0a92b1f79ff13427b.jpg\" width=\"600\" height=\"600\" alt=\"A double espresso shot in a too-large Vittoria coffee tasse, on a saucer with a spoon.\">\n",
+				"date_published": "2023-09-03T17:33:41+10:00",
+				"url": "https://micro.jerrytowler.com/2023/09/03/we-flew-from.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/09/03/finished-reading-yumi.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781938570407\">Yumi and the Nightmare Painter</a> by Brandon Sanderson. Fun as usual; kind of a fantasy/mystery/romance. I didn’t love the storytelling device, but the story itself, the world, and the magic were all top-notch Sanderson. 📚</p>\n",
+				"content_text": "Finished reading: [Yumi and the Nightmare Painter](https://micro.blog/books/9781938570407) by Brandon Sanderson. Fun as usual; kind of a fantasy/mystery/romance. I didn’t love the storytelling device, but the story itself, the world, and the magic were all top-notch Sanderson. 📚\n",
+				"date_published": "2023-09-03T13:02:21+10:00",
+				"url": "https://micro.jerrytowler.com/2023/09/03/finished-reading-yumi.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/09/02/on-the-way.html",
+				
+				"content_html": "<p>On the way back from visiting <a href=\"https://www.westsidealeworks.com.au/\">Westside Ale Works</a> in South Melbourne today, we saw these three huge cranes on the same apartment complex. Coming from Texas, it’s refreshing to see rapid high-density housing <strong>buildup</strong>.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "On the way back from visiting [Westside Ale Works](https://www.westsidealeworks.com.au/) in South Melbourne today, we saw these three huge cranes on the same apartment complex. Coming from Texas, it’s refreshing to see rapid high-density housing **buildup**.\n\n<img src=\"uploads/2023/22bad0e314.jpg\" width=\"450\" height=\"600\" alt=\"Three red and white tower cranes atop apartments buildings being constructed. The cranes read “Creating Possibilitirs. Graystar: the global leader in rental housing.” Dayglo green sedan in the foreground.\">\n",
+				"date_published": "2023-09-02T19:46:10+10:00",
+				"url": "https://micro.jerrytowler.com/2023/09/02/on-the-way.html",
+				"tags": ["photos","travel"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/09/02/165902.html",
+				"title": "Riverwalk After Christmas",
+				"content_html": "<p>In 2019, we hosted Christmas at our house in San Antonio. My family flew or drove from the east coast (yes, it’s a 24-hour drive), and Meera’s drove down from the lake (a much-more-sensible <em>one</em>-hour drive).</p>\n<p>The day after Christmas for us is always a chance to get outside. December 23 is often a travel day; Christmas Eve is full of cooking and wrapping and worship; and Christmas is full of eating and unwrapping and family. At that point, everybody needs a break and some fresh air.</p>\n<p>So of course we had to take them down to the Riverwalk, where we apparently convinced them to take this very nice picture of just the two of us.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "In 2019, we hosted Christmas at our house in San Antonio. My family flew or drove from the east coast (yes, it’s a 24-hour drive), and Meera’s drove down from the lake (a much-more-sensible *one*-hour drive).\n\nThe day after Christmas for us is always a chance to get outside. December 23 is often a travel day; Christmas Eve is full of cooking and wrapping and worship; and Christmas is full of eating and unwrapping and family. At that point, everybody needs a break and some fresh air.\n\nSo of course we had to take them down to the Riverwalk, where we apparently convinced them to take this very nice picture of just the two of us.\n\n<img src=\"uploads/2023/c6e74e1a98.jpg\" width=\"449\" height=\"600\" alt=\"Portrait-mode photo of me and Meera in front of poinsettias and the San Antonio river.\">\n",
+				"date_published": "2023-09-02T16:59:02+10:00",
+				"url": "https://micro.jerrytowler.com/2023/09/02/165902.html"
+			},
+			{
 				"id": "http://jatowler.micro.blog/2023/09/01/on-a-wineandpenguins.html",
 				
 				"content_html": "<p>On a wine-and-penguins tour on Phillip Island, we found this abstract tiling of <a href=\"https://en.wikipedia.org/wiki/Eudyptula_novaehollandiae\">Australian little penguins</a> near the jetty in Cowes. Looking forward to seeing real ones later today!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "On a wine-and-penguins tour on Phillip Island, we found this abstract tiling of [Australian little penguins](https://en.wikipedia.org/wiki/Eudyptula_novaehollandiae) near the jetty in Cowes. Looking forward to seeing real ones later today!\n\n<img src=\"uploads/2023/67127af4fff541d6b743cca9840107aa.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "On a wine-and-penguins tour on Phillip Island, we found this abstract tiling of [Australian little penguins](https://en.wikipedia.org/wiki/Eudyptula_novaehollandiae) near the jetty in Cowes. Looking forward to seeing real ones later today!\n\n<img src=\"uploads/2023/67127af4fff541d6b743cca9840107aa.jpg\" width=\"600\" height=\"600\" alt=\"Mosaic of ceramic tiles set in cement, three Australian little penguins made of black, white, blue, green, and orange pieces on a yellow background.\">\n",
 				"date_published": "2023-09-01T15:53:56+10:00",
 				"url": "https://micro.jerrytowler.com/2023/09/01/on-a-wineandpenguins.html"
 			},
