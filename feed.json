@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2023/09/24/not-a-good.html",
+				
+				"content_html": "<p>Not a good day for football in our house. Nice of Apple News to sum up the day so conveniently though… 🏈</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Not a good day for football in our house. Nice of Apple News to sum up the day so conveniently though… 🏈 \n\n<img src=\"uploads/2023/30d6df28c5.jpg\" width=\"600\" height=\"492\" alt=\"College football scores for VT-Marshall (17-24) and SMU-TCU (17-34).\">\n",
+				"date_published": "2023-09-24T10:16:37+10:00",
+				"url": "https://micro.jerrytowler.com/2023/09/24/not-a-good.html"
+			},
+			{
 				"id": "http://jatowler.micro.blog/2023/09/19/finished-reading-last.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780316387385\">Last Argument of Kings</a> by Joe Abercrombie. An epic end to an epic trilogy. Disappointing in all the best ways. One smidge darker than I’d hoped, but you have to be realistic about these things. 📚</p>\n",
