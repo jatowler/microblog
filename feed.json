@@ -7,11 +7,27 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2023/09/26/two-more-fall.html",
+				
+				"content_html": "<p>Two more fall beers tonight:</p>\n<ul>\n<li>Altstadt Okt</li>\n<li>Samuel Adams Jack-O</li>\n</ul>\n<p>🎃🍻</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Two more fall beers tonight:\r\n\r\n* Altstadt Okt\r\n* Samuel Adams Jack-O\r\n\r\n🎃🍻\n\n<img src=\"uploads/2023/8277ab00-9bfb-41d6-a3f0-1a08b60009f1-1-105-c.jpeg\" width=\"450\" height=\"600\" alt=\"Two beer bottles on a table: Altstadt Okt and Samuel Adams Jack-O\">\n",
+				"date_published": "2023-09-26T21:47:22-05:00",
+				"url": "https://micro.jerrytowler.com/2023/09/26/two-more-fall.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2023/09/25/every-year-my.html",
+				
+				"content_html": "<p>Every year, my wife and I grab as many pumpkin/yam/märzen/oktoberfests as we can and do a little home tasting. The selection at our local H-E-B this year is shockingly good, so I have a lot to post. I’ll make it a full page later; for now, just a picture from night one. 🎃 🍻</p>\n<ul>\n<li>Rogue Pumpkin Patch Ale</li>\n<li>Freetail Oktoberfiesta</li>\n<li>Tucher Festbier</li>\n<li>Karbach Karbachtoberfest</li>\n<li>Real Ale Oktoberfest</li>\n<li>Voodoo Ranger Atomic Pumpkin</li>\n</ul>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Every year, my wife and I grab as many pumpkin/yam/märzen/oktoberfests as we can and do a little home tasting. The selection at our local H-E-B this year is shockingly good, so I have a lot to post. I’ll make it a full page later; for now, just a picture from night one. 🎃 🍻 \n\n* Rogue Pumpkin Patch Ale\n* Freetail Oktoberfiesta\n* Tucher Festbier\n* Karbach Karbachtoberfest\n* Real Ale Oktoberfest\n* Voodoo Ranger Atomic Pumpkin\n\n\n<img src=\"uploads/2023/f02f79f362.jpg\" width=\"600\" height=\"449\" alt=\"Six cans of beer poured into twelve plastic tasting cups, all arranged in three triangles on a wooden coffee table:&10;&10;* Rogue Pumpkin Patch Ale&10;* Freetail Oktoberfiesta&10;* Tucher Festbier&10;* Karbach Karbachtoberfest&10;* Real Ale Oktoberfest&10;* Voodoo Ranger Atomic Pumpkin&10;&10;&10;\">\n",
+				"date_published": "2023-09-24T19:21:31-05:00",
+				"url": "https://micro.jerrytowler.com/2023/09/25/every-year-my.html"
+			},
+			{
 				"id": "http://jatowler.micro.blog/2023/09/24/not-a-good.html",
 				
 				"content_html": "<p>Not a good day for football in our house. Nice of Apple News to sum up the day so conveniently though… 🏈</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Not a good day for football in our house. Nice of Apple News to sum up the day so conveniently though… 🏈 \n\n<img src=\"uploads/2023/30d6df28c5.jpg\" width=\"600\" height=\"492\" alt=\"College football scores for VT-Marshall (17-24) and SMU-TCU (17-34).\">\n",
-				"date_published": "2023-09-24T10:16:37+10:00",
+				"date_published": "2023-09-23T19:16:37-05:00",
 				"url": "https://micro.jerrytowler.com/2023/09/24/not-a-good.html"
 			},
 			{
@@ -19,7 +35,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780316387385\">Last Argument of Kings</a> by Joe Abercrombie. An epic end to an epic trilogy. Disappointing in all the best ways. One smidge darker than I’d hoped, but you have to be realistic about these things. 📚</p>\n",
 				"content_text": "Finished reading: [Last Argument of Kings](https://micro.blog/books/9780316387385) by Joe Abercrombie. An epic end to an epic trilogy. Disappointing in all the best ways. One smidge darker than I’d hoped, but you have to be realistic about these things. 📚\n",
-				"date_published": "2023-09-19T01:57:31+10:00",
+				"date_published": "2023-09-18T10:57:31-05:00",
 				"url": "https://micro.jerrytowler.com/2023/09/19/finished-reading-last.html",
 				"tags": ["books"]
 			},
@@ -28,7 +44,7 @@
 				
 				"content_html": "<p>Got off a plane from New Zealand Thursday night, back on a plane (to Atlanta this time) this afternoon. I often can’t decide whether I love this life of travel or wish I could spend some more time in my own bed. Today it’s the former.</p>\n",
 				"content_text": "Got off a plane from New Zealand Thursday night, back on a plane (to Atlanta this time) this afternoon. I often can’t decide whether I love this life of travel or wish I could spend some more time in my own bed. Today it’s the former.\n",
-				"date_published": "2023-09-12T08:19:56+10:00",
+				"date_published": "2023-09-11T17:19:56-05:00",
 				"url": "https://micro.jerrytowler.com/2023/09/12/got-off-a.html"
 			},
 			{
@@ -36,7 +52,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780316387347\">Before They Are Hanged</a> by Joe Abercrombie. Even better than the first. Characters you want to know better, mysteries abound, swords and sorcery and sex and what else do you want from a book? 📚</p>\n",
 				"content_text": "Finished reading: [Before They Are Hanged](https://micro.blog/books/9780316387347) by Joe Abercrombie. Even better than the first. Characters you want to know better, mysteries abound, swords and sorcery and sex and what else do you want from a book? 📚\n",
-				"date_published": "2023-09-12T08:14:21+10:00",
+				"date_published": "2023-09-11T17:14:21-05:00",
 				"url": "https://micro.jerrytowler.com/2023/09/12/finished-reading-before.html",
 				"tags": ["books"]
 			},
@@ -44,16 +60,16 @@
 				"id": "http://jatowler.micro.blog/2023/09/11/im-a-day.html",
 				
 				"content_html": "<p>I’m a day late to the <strong>cycle</strong> photo <a href=\"https://micro.blog/challenges\">@challenges</a> but I’m going to post this anyway since I’m enjoying these photo challenges and it’s actually a nice shot of Melbourne from across the lake in Albert Park.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I’m a day late to the **cycle** photo [@challenges](https://micro.blog/challenges) but I’m going to post this anyway since I’m enjoying these photo challenges and it’s actually a nice shot of Melbourne from across the lake in Albert Park.\n\n<img src=\"uploads/2023/5fc2a984aa.jpg\" width=\"600\" height=\"600\" alt=\"A little boy on a bicycle on the shore of Albert Park Lake with the skyline of Melbourne in the background.\">\n",
-				"date_published": "2023-09-11T23:58:39+10:00",
+				"content_text": "I’m a day late to the **cycle** photo [@challenges](https://micro.blog/challenges) but I’m going to post this anyway since I’m enjoying these photo challenges and it’s actually a nice shot of Melbourne from across the lake in Albert Park.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/5fc2a984aa.jpg\" width=\"600\" height=\"600\" alt=\"A little boy on a bicycle on the shore of Albert Park Lake with the skyline of Melbourne in the background.\">\n",
+				"date_published": "2023-09-11T08:58:39-05:00",
 				"url": "https://micro.jerrytowler.com/2023/09/11/im-a-day.html"
 			},
 			{
 				"id": "http://jatowler.micro.blog/2023/09/10/i-wanted-to.html",
 				
 				"content_html": "<p>I wanted to make a joke about “<a href=\"https://english.stackexchange.com/questions/74737/what-is-the-origin-of-the-phrase-two-nations-divided-by-a-common-language\">divided by a common <strong>language</strong></a>”, but “this escalator is being rested” is such a great replacement for “down for maintenance” that I’ll just leave it at that.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I wanted to make a joke about “[divided by a common **language**](https://english.stackexchange.com/questions/74737/what-is-the-origin-of-the-phrase-two-nations-divided-by-a-common-language)”, but “this escalator is being rested” is such a great replacement for “down for maintenance” that I’ll just leave it at that.\n\n<img src=\"uploads/2023/306a84e8e4.jpg\" width=\"600\" height=\"449\" alt=\"Top of an escalator blocked by an orange bar with a blue flag reading in white letters, “Not currently in use, this escalator is being rested.” The flag also has an escalator icon with a thought bubble filled with Z’s.\">\n",
-				"date_published": "2023-09-10T07:00:50+10:00",
+				"content_text": "I wanted to make a joke about “[divided by a common **language**](https://english.stackexchange.com/questions/74737/what-is-the-origin-of-the-phrase-two-nations-divided-by-a-common-language)”, but “this escalator is being rested” is such a great replacement for “down for maintenance” that I’ll just leave it at that.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/306a84e8e4.jpg\" width=\"600\" height=\"449\" alt=\"Top of an escalator blocked by an orange bar with a blue flag reading in white letters, “Not currently in use, this escalator is being rested.” The flag also has an escalator icon with a thought bubble filled with Z’s.\">\n",
+				"date_published": "2023-09-09T16:00:50-05:00",
 				"url": "https://micro.jerrytowler.com/2023/09/10/i-wanted-to.html"
 			},
 			{
@@ -61,15 +77,15 @@
 				
 				"content_html": "<p>I missed the first Virginia Tech football game last week (against ODU) because we were in New Zealand. An acceptable tradeoff, of course, but it’s nice to be back in the US this weekend and watch the Hokies take on Purdue. 🏈📺🦃</p>\n<p>UPDATE: Having said that, of course there’s a multi-hour rain delay.</p>\n",
 				"content_text": "I missed the first Virginia Tech football game last week (against ODU) because we were in New Zealand. An acceptable tradeoff, of course, but it’s nice to be back in the US this weekend and watch the Hokies take on Purdue. 🏈📺🦃 \n\nUPDATE: Having said that, of course there’s a multi-hour rain delay.\n",
-				"date_published": "2023-09-10T06:47:00+10:00",
+				"date_published": "2023-09-09T15:47:00-05:00",
 				"url": "https://micro.jerrytowler.com/2023/09/10/i-missed-the.html"
 			},
 			{
 				"id": "http://jatowler.micro.blog/2023/09/09/leaving-queenstown-yesterday.html",
 				
 				"content_html": "<p>Leaving Queenstown yesterday, Meera snapped one of the best sea-earth-sky <strong>yonder</strong> photos I’ve ever seen. Plane-window photos never work, but New Zealand is so picturesque it didn’t matter. 📸</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Leaving Queenstown yesterday, Meera snapped one of the best sea-earth-sky **yonder** photos I’ve ever seen. Plane-window photos never work, but New Zealand is so picturesque it didn’t matter. 📸 \n\n<img src=\"uploads/2023/265f368214.jpg\" width=\"600\" height=\"600\" alt=\"A New Zealand fjord. Blue water in the middle, green mountains on both sides, a full horizon of snow-capped peaks in the distance, and a plane engine in the lower-right.\">\n",
-				"date_published": "2023-09-09T00:21:10+10:00",
+				"content_text": "Leaving Queenstown yesterday, Meera snapped one of the best sea-earth-sky **yonder** photos I’ve ever seen. Plane-window photos never work, but New Zealand is so picturesque it didn’t matter. 📸 \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/265f368214.jpg\" width=\"600\" height=\"600\" alt=\"A New Zealand fjord. Blue water in the middle, green mountains on both sides, a full horizon of snow-capped peaks in the distance, and a plane engine in the lower-right.\">\n",
+				"date_published": "2023-09-08T09:21:10-05:00",
 				"url": "https://micro.jerrytowler.com/2023/09/09/leaving-queenstown-yesterday.html",
 				"tags": ["photos"]
 			},
@@ -78,7 +94,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780316387330\">The Blade Itself</a> by Joe Abercrombie. Dirty, but not dark. Cynical, but leavened with hard work. Clichés and anti-clichés. Excellent, not stereotypical fantasy. 📚</p>\n",
 				"content_text": "Finished reading: [The Blade Itself](https://micro.blog/books/9780316387330) by Joe Abercrombie. Dirty, but not dark. Cynical, but leavened with hard work. Clichés and anti-clichés. Excellent, not stereotypical fantasy. 📚\n",
-				"date_published": "2023-09-08T14:06:52+10:00",
+				"date_published": "2023-09-07T23:06:52-05:00",
 				"url": "https://micro.jerrytowler.com/2023/09/08/finished-reading-the.html",
 				"tags": ["books"]
 			},
@@ -86,8 +102,8 @@
 				"id": "http://jatowler.micro.blog/2023/09/07/during-our-stop.html",
 				
 				"content_html": "<p>During our stop in Glenorchy yesterday, we encountered some surprisingly <strong>well</strong>-dressed travelers on the shore of Lake Wakatipu.</p>\n<p>We assume they were there for wedding pictures or something similar, because Glenorchy’s not exactly a formalwear kind of town. 📸</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "During our stop in Glenorchy yesterday, we encountered some surprisingly **well**-dressed travelers on the shore of Lake Wakatipu.\n\nWe assume they were there for wedding pictures or something similar, because Glenorchy’s not exactly a formalwear kind of town. 📸\n\n<img src=\"uploads/2023/65e3ddace0ce47099a5d2b3c24b0ac26.jpg\" width=\"600\" height=\"600\" alt=\"A well-dressed man and woman walk on a pebble beach in front of a lake. He is wearing a formal black vest and white shirt, and she is wearing a white shirt and stunning red-and-gold long skirt.\">\n",
-				"date_published": "2023-09-07T07:24:11+10:00",
+				"content_text": "During our stop in Glenorchy yesterday, we encountered some surprisingly **well**-dressed travelers on the shore of Lake Wakatipu.\n\nWe assume they were there for wedding pictures or something similar, because Glenorchy’s not exactly a formalwear kind of town. 📸\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/65e3ddace0ce47099a5d2b3c24b0ac26.jpg\" width=\"600\" height=\"600\" alt=\"A well-dressed man and woman walk on a pebble beach in front of a lake. He is wearing a formal black vest and white shirt, and she is wearing a white shirt and stunning red-and-gold long skirt.\">\n",
+				"date_published": "2023-09-06T16:24:11-05:00",
 				"url": "https://micro.jerrytowler.com/2023/09/07/during-our-stop.html",
 				"tags": ["photos"]
 			},
@@ -95,48 +111,48 @@
 				"id": "http://jatowler.micro.blog/2023/09/07/we-are-flying.html",
 				
 				"content_html": "<p>We are flying back from Queenstown today, but for the life of me I can’t figure out why.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We are flying back from Queenstown today, but for the life of me I can’t figure out why.\n\n<img src=\"uploads/2023/71e749b63d254f2fa28efa23db07018d.jpg\" width=\"345\" height=\"600\" alt=\"San Antonio Express News headline: &quot;San Antonio to hit 100 for the 70th day this year, but relief from heat possible early next week&quot;\">\n",
-				"date_published": "2023-09-07T07:16:38+10:00",
+				"content_text": "We are flying back from Queenstown today, but for the life of me I can’t figure out why.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/71e749b63d254f2fa28efa23db07018d.jpg\" width=\"345\" height=\"600\" alt=\"San Antonio Express News headline: &quot;San Antonio to hit 100 for the 70th day this year, but relief from heat possible early next week&quot;\">\n",
+				"date_published": "2023-09-06T16:16:38-05:00",
 				"url": "https://micro.jerrytowler.com/2023/09/07/we-are-flying.html"
 			},
 			{
 				"id": "http://jatowler.micro.blog/2023/09/06/its-a-day.html",
 				
 				"content_html": "<p>It’s a day late, but on our adventures this afternoon we found the <em>actual</em> <strong>forest</strong> used for Lothlórien, between Glenorchy and Paradise. 👋 <a href=\"https://micro.blog/jean\">@jean</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It’s a day late, but on our adventures this afternoon we found the _actual_ **forest** used for Lothlórien, between Glenorchy and Paradise. 👋 [@jean](https://micro.blog/jean)\n\n<img src=\"uploads/2023/3c4b59e5b0.jpg\" alt=\"Dense forest of tall trees with sparse leaves, but the forest is so deep the entire scene is green and brown. Literally the forest used for Lothlórien in the movies.\"/>\n",
-				"date_published": "2023-09-06T19:30:24+10:00",
+				"content_text": "It’s a day late, but on our adventures this afternoon we found the _actual_ **forest** used for Lothlórien, between Glenorchy and Paradise. 👋 [@jean](https://micro.blog/jean)\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/3c4b59e5b0.jpg\" alt=\"Dense forest of tall trees with sparse leaves, but the forest is so deep the entire scene is green and brown. Literally the forest used for Lothlórien in the movies.\"/>\n",
+				"date_published": "2023-09-06T04:30:24-05:00",
 				"url": "https://micro.jerrytowler.com/2023/09/06/its-a-day.html"
 			},
 			{
 				"id": "http://jatowler.micro.blog/2023/09/05/visiting-rhyme-x.html",
 				
 				"content_html": "<p>Visiting Rhyme x Reason brewery in Wanaka, New Zealand, tonight, they had some spectacular murals on the walls. Apparently painted by employees, who are allegedly paid entirely in beer.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Visiting Rhyme x Reason brewery in Wanaka, New Zealand, tonight, they had some spectacular murals on the walls. Apparently painted by employees, who are allegedly paid entirely in beer.\n\n<img src=\"uploads/2023/0fbc319b91.jpg\" width=\"450\" height=\"600\" alt=\"A wall mural painted above a doorway. The mural is easily 20 feet square of a cartoon man’s head wearing a yellow toboggan, his tongue snaking the length of his head to the right and up. Purple spheres and hops form the background.\"><img src=\"uploads/2023/eb757999bd.jpg\" width=\"450\" height=\"600\" alt=\"Meera sits on a bench in front of a wall mural. An orange planet/moon with bands like Jupiter is orbited by three gigantic green hops. A simple black cloud is overlaid on the planetoid.\"><img src=\"uploads/2023/d00b211298.jpg\" width=\"450\" height=\"600\" alt=\"Two wall murals behind brewery vats. The left, a black planet orbited by giant hops. The right, Mario bursting through the wall, surrounded by hops, with the letters RxR in the bottom-left.\">\n",
-				"date_published": "2023-09-05T18:51:13+10:00",
+				"content_text": "Visiting Rhyme x Reason brewery in Wanaka, New Zealand, tonight, they had some spectacular murals on the walls. Apparently painted by employees, who are allegedly paid entirely in beer.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/0fbc319b91.jpg\" width=\"450\" height=\"600\" alt=\"A wall mural painted above a doorway. The mural is easily 20 feet square of a cartoon man’s head wearing a yellow toboggan, his tongue snaking the length of his head to the right and up. Purple spheres and hops form the background.\"><img src=\"https://cdn.uploads.micro.blog/1214/2023/eb757999bd.jpg\" width=\"450\" height=\"600\" alt=\"Meera sits on a bench in front of a wall mural. An orange planet/moon with bands like Jupiter is orbited by three gigantic green hops. A simple black cloud is overlaid on the planetoid.\"><img src=\"https://cdn.uploads.micro.blog/1214/2023/d00b211298.jpg\" width=\"450\" height=\"600\" alt=\"Two wall murals behind brewery vats. The left, a black planet orbited by giant hops. The right, Mario bursting through the wall, surrounded by hops, with the letters RxR in the bottom-left.\">\n",
+				"date_published": "2023-09-05T03:51:13-05:00",
 				"url": "https://micro.jerrytowler.com/2023/09/05/visiting-rhyme-x.html"
 			},
 			{
 				"id": "http://jatowler.micro.blog/2023/09/05/driving-around-lake.html",
 				
 				"content_html": "<p>Driving around Lake Wanaka, New Zealand, this morning, it just screamed <em>Lord of the Rings</em>. Here you have the <strong>forest</strong> of Lothlórien, the Misty Mountains, and everywhere a hobbit could go (and back again).</p>\n<p>(Not pictured: we climbed a waterfall.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Driving around Lake Wanaka, New Zealand, this morning, it just screamed *Lord of the Rings*. Here you have the **forest** of Lothlórien, the Misty Mountains, and everywhere a hobbit could go (and back again).\n\n(Not pictured: we climbed a waterfall.)\n\n<img src=\"uploads/2023/e09a6ce8a30d42ea84e933f9d2b4f548.jpg\" width=\"600\" height=\"142\" alt=\"Panorama of Lake Wanaka, New Zealand. Evergreen forest on the lakeshore, snowcapped alpine mountains in the distance.\">\n",
-				"date_published": "2023-09-05T16:19:50+10:00",
+				"content_text": "Driving around Lake Wanaka, New Zealand, this morning, it just screamed *Lord of the Rings*. Here you have the **forest** of Lothlórien, the Misty Mountains, and everywhere a hobbit could go (and back again).\n\n(Not pictured: we climbed a waterfall.)\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/e09a6ce8a30d42ea84e933f9d2b4f548.jpg\" width=\"600\" height=\"142\" alt=\"Panorama of Lake Wanaka, New Zealand. Evergreen forest on the lakeshore, snowcapped alpine mountains in the distance.\">\n",
+				"date_published": "2023-09-05T01:19:50-05:00",
 				"url": "https://micro.jerrytowler.com/2023/09/05/driving-around-lake.html"
 			},
 			{
 				"id": "http://jatowler.micro.blog/2023/09/04/skied-coronet-peak.html",
 				
 				"content_html": "<p>Skied Coronet Peak today. That obviously calls for an après-ski New Zealand-native Ginger Bear in an <strong>orange</strong> can.</p>\n<p>Okay, it’s orange and maroon, but as a Hokie, I approve anyway.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Skied Coronet Peak today. That obviously calls for an après-ski New Zealand-native Ginger Bear in an **orange** can.\n\nOkay, it’s orange and maroon, but as a Hokie, I approve anyway.\n\n<img src=\"uploads/2023/1c41c40f71074076b2f847dac0788a11.jpg\" width=\"450\" height=\"600\" alt=\"Meera in a white ski helmet and reflective purple ski goggles in front of a snow-covered mountain drinking a Ginger Bear from an orange and maroon can.\">\n",
-				"date_published": "2023-09-04T16:58:16+10:00",
+				"content_text": "Skied Coronet Peak today. That obviously calls for an après-ski New Zealand-native Ginger Bear in an **orange** can.\n\nOkay, it’s orange and maroon, but as a Hokie, I approve anyway.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/1c41c40f71074076b2f847dac0788a11.jpg\" width=\"450\" height=\"600\" alt=\"Meera in a white ski helmet and reflective purple ski goggles in front of a snow-covered mountain drinking a Ginger Bear from an orange and maroon can.\">\n",
+				"date_published": "2023-09-04T01:58:16-05:00",
 				"url": "https://micro.jerrytowler.com/2023/09/04/skied-coronet-peak.html"
 			},
 			{
 				"id": "http://jatowler.micro.blog/2023/09/03/wave-to-the.html",
 				"title": "Wave to the Pelican on the Outer Banks",
 				"content_html": "<p>In 2019, we went to the Outer Banks for Meera’s birthday. We visited from Corolla all the way down to Okracoke, taking in beaches and lighthouses and sand and sun.</p>\n<p>Meera and I are not good at relaxing vacations. We’re always skiing or hiking or visiting museums or monuments. But on this trip, we spent an entire day at the beach, and I was able to be still long enough to take some great photos, including this one of a pelican above a crashing wave.</p>\n<p>We should go back. If only RDU weren’t so far from the beach…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In 2019, we went to the Outer Banks for Meera’s birthday. We visited from Corolla all the way down to Okracoke, taking in beaches and lighthouses and sand and sun.\n\nMeera and I are not good at relaxing vacations. We’re always skiing or hiking or visiting museums or monuments. But on this trip, we spent an entire day at the beach, and I was able to be still long enough to take some great photos, including this one of a pelican above a crashing wave.\n\nWe should go back. If only RDU weren’t so far from the beach…\n\n<img src=\"uploads/2023/d8b6cbafb2.jpg\" width=\"600\" height=\"450\" alt=\"A pelican soars, wings outstretched, over a fiercely crashing wave. Brilliant white foam, deep blue sea, and sky blue horizon band the background.\">\n",
-				"date_published": "2023-09-03T17:45:30+10:00",
+				"content_text": "In 2019, we went to the Outer Banks for Meera’s birthday. We visited from Corolla all the way down to Okracoke, taking in beaches and lighthouses and sand and sun.\n\nMeera and I are not good at relaxing vacations. We’re always skiing or hiking or visiting museums or monuments. But on this trip, we spent an entire day at the beach, and I was able to be still long enough to take some great photos, including this one of a pelican above a crashing wave.\n\nWe should go back. If only RDU weren’t so far from the beach…\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/d8b6cbafb2.jpg\" width=\"600\" height=\"450\" alt=\"A pelican soars, wings outstretched, over a fiercely crashing wave. Brilliant white foam, deep blue sea, and sky blue horizon band the background.\">\n",
+				"date_published": "2023-09-03T02:45:30-05:00",
 				"url": "https://micro.jerrytowler.com/2023/09/03/wave-to-the.html",
 				"tags": ["photos","travel"]
 			},
@@ -144,8 +160,8 @@
 				"id": "http://jatowler.micro.blog/2023/09/03/we-flew-from.html",
 				
 				"content_html": "<p>We flew from Melbourne to Queenstown today, so I had to dig into days past for something precious for today’s challenge photo. My time alone each morning with coffee and words is indeed <strong>precious</strong> to me; this one occurred on Melbourne’s South Wharf last Monday morning.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We flew from Melbourne to Queenstown today, so I had to dig into days past for something precious for today’s challenge photo. My time alone each morning with coffee and words is indeed **precious** to me; this one occurred on Melbourne’s South Wharf last Monday morning.\n\n<img src=\"uploads/2023/fa0dfb5710074fa0a92b1f79ff13427b.jpg\" width=\"600\" height=\"600\" alt=\"A double espresso shot in a too-large Vittoria coffee tasse, on a saucer with a spoon.\">\n",
-				"date_published": "2023-09-03T17:33:41+10:00",
+				"content_text": "We flew from Melbourne to Queenstown today, so I had to dig into days past for something precious for today’s challenge photo. My time alone each morning with coffee and words is indeed **precious** to me; this one occurred on Melbourne’s South Wharf last Monday morning.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/fa0dfb5710074fa0a92b1f79ff13427b.jpg\" width=\"600\" height=\"600\" alt=\"A double espresso shot in a too-large Vittoria coffee tasse, on a saucer with a spoon.\">\n",
+				"date_published": "2023-09-03T02:33:41-05:00",
 				"url": "https://micro.jerrytowler.com/2023/09/03/we-flew-from.html"
 			},
 			{
@@ -153,7 +169,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781938570407\">Yumi and the Nightmare Painter</a> by Brandon Sanderson. Fun as usual; kind of a fantasy/mystery/romance. I didn’t love the storytelling device, but the story itself, the world, and the magic were all top-notch Sanderson. 📚</p>\n",
 				"content_text": "Finished reading: [Yumi and the Nightmare Painter](https://micro.blog/books/9781938570407) by Brandon Sanderson. Fun as usual; kind of a fantasy/mystery/romance. I didn’t love the storytelling device, but the story itself, the world, and the magic were all top-notch Sanderson. 📚\n",
-				"date_published": "2023-09-03T13:02:21+10:00",
+				"date_published": "2023-09-02T22:02:21-05:00",
 				"url": "https://micro.jerrytowler.com/2023/09/03/finished-reading-yumi.html",
 				"tags": ["books"]
 			},
@@ -161,8 +177,8 @@
 				"id": "http://jatowler.micro.blog/2023/09/02/on-the-way.html",
 				
 				"content_html": "<p>On the way back from visiting <a href=\"https://www.westsidealeworks.com.au/\">Westside Ale Works</a> in South Melbourne today, we saw these three huge cranes on the same apartment complex. Coming from Texas, it’s refreshing to see rapid high-density housing <strong>buildup</strong>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "On the way back from visiting [Westside Ale Works](https://www.westsidealeworks.com.au/) in South Melbourne today, we saw these three huge cranes on the same apartment complex. Coming from Texas, it’s refreshing to see rapid high-density housing **buildup**.\n\n<img src=\"uploads/2023/22bad0e314.jpg\" width=\"450\" height=\"600\" alt=\"Three red and white tower cranes atop apartments buildings being constructed. The cranes read “Creating Possibilitirs. Graystar: the global leader in rental housing.” Dayglo green sedan in the foreground.\">\n",
-				"date_published": "2023-09-02T19:46:10+10:00",
+				"content_text": "On the way back from visiting [Westside Ale Works](https://www.westsidealeworks.com.au/) in South Melbourne today, we saw these three huge cranes on the same apartment complex. Coming from Texas, it’s refreshing to see rapid high-density housing **buildup**.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/22bad0e314.jpg\" width=\"450\" height=\"600\" alt=\"Three red and white tower cranes atop apartments buildings being constructed. The cranes read “Creating Possibilitirs. Graystar: the global leader in rental housing.” Dayglo green sedan in the foreground.\">\n",
+				"date_published": "2023-09-02T04:46:10-05:00",
 				"url": "https://micro.jerrytowler.com/2023/09/02/on-the-way.html",
 				"tags": ["photos","travel"]
 			},
@@ -170,16 +186,16 @@
 				"id": "http://jatowler.micro.blog/2023/09/02/165902.html",
 				"title": "Riverwalk After Christmas",
 				"content_html": "<p>In 2019, we hosted Christmas at our house in San Antonio. My family flew or drove from the east coast (yes, it’s a 24-hour drive), and Meera’s drove down from the lake (a much-more-sensible <em>one</em>-hour drive).</p>\n<p>The day after Christmas for us is always a chance to get outside. December 23 is often a travel day; Christmas Eve is full of cooking and wrapping and worship; and Christmas is full of eating and unwrapping and family. At that point, everybody needs a break and some fresh air.</p>\n<p>So of course we had to take them down to the Riverwalk, where we apparently convinced them to take this very nice picture of just the two of us.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In 2019, we hosted Christmas at our house in San Antonio. My family flew or drove from the east coast (yes, it’s a 24-hour drive), and Meera’s drove down from the lake (a much-more-sensible *one*-hour drive).\n\nThe day after Christmas for us is always a chance to get outside. December 23 is often a travel day; Christmas Eve is full of cooking and wrapping and worship; and Christmas is full of eating and unwrapping and family. At that point, everybody needs a break and some fresh air.\n\nSo of course we had to take them down to the Riverwalk, where we apparently convinced them to take this very nice picture of just the two of us.\n\n<img src=\"uploads/2023/c6e74e1a98.jpg\" width=\"449\" height=\"600\" alt=\"Portrait-mode photo of me and Meera in front of poinsettias and the San Antonio river.\">\n",
-				"date_published": "2023-09-02T16:59:02+10:00",
+				"content_text": "In 2019, we hosted Christmas at our house in San Antonio. My family flew or drove from the east coast (yes, it’s a 24-hour drive), and Meera’s drove down from the lake (a much-more-sensible *one*-hour drive).\n\nThe day after Christmas for us is always a chance to get outside. December 23 is often a travel day; Christmas Eve is full of cooking and wrapping and worship; and Christmas is full of eating and unwrapping and family. At that point, everybody needs a break and some fresh air.\n\nSo of course we had to take them down to the Riverwalk, where we apparently convinced them to take this very nice picture of just the two of us.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/c6e74e1a98.jpg\" width=\"449\" height=\"600\" alt=\"Portrait-mode photo of me and Meera in front of poinsettias and the San Antonio river.\">\n",
+				"date_published": "2023-09-02T01:59:02-05:00",
 				"url": "https://micro.jerrytowler.com/2023/09/02/165902.html"
 			},
 			{
 				"id": "http://jatowler.micro.blog/2023/09/01/on-a-wineandpenguins.html",
 				
 				"content_html": "<p>On a wine-and-penguins tour on Phillip Island, we found this abstract tiling of <a href=\"https://en.wikipedia.org/wiki/Eudyptula_novaehollandiae\">Australian little penguins</a> near the jetty in Cowes. Looking forward to seeing real ones later today!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "On a wine-and-penguins tour on Phillip Island, we found this abstract tiling of [Australian little penguins](https://en.wikipedia.org/wiki/Eudyptula_novaehollandiae) near the jetty in Cowes. Looking forward to seeing real ones later today!\n\n<img src=\"uploads/2023/67127af4fff541d6b743cca9840107aa.jpg\" width=\"600\" height=\"600\" alt=\"Mosaic of ceramic tiles set in cement, three Australian little penguins made of black, white, blue, green, and orange pieces on a yellow background.\">\n",
-				"date_published": "2023-09-01T15:53:56+10:00",
+				"content_text": "On a wine-and-penguins tour on Phillip Island, we found this abstract tiling of [Australian little penguins](https://en.wikipedia.org/wiki/Eudyptula_novaehollandiae) near the jetty in Cowes. Looking forward to seeing real ones later today!\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/67127af4fff541d6b743cca9840107aa.jpg\" width=\"600\" height=\"600\" alt=\"Mosaic of ceramic tiles set in cement, three Australian little penguins made of black, white, blue, green, and orange pieces on a yellow background.\">\n",
+				"date_published": "2023-09-01T00:53:56-05:00",
 				"url": "https://micro.jerrytowler.com/2023/09/01/on-a-wineandpenguins.html"
 			},
 			{
@@ -187,7 +203,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250886095\">Legends &amp; Lattes</a> by Travis Baldree. Spectacular, sweet fairy tale in fantasy clothing. Deserves its accolades. Highly recommended. 📚</p>\n",
 				"content_text": "Finished reading: [Legends & Lattes](https://micro.blog/books/9781250886095) by Travis Baldree. Spectacular, sweet fairy tale in fantasy clothing. Deserves its accolades. Highly recommended. 📚\n",
-				"date_published": "2023-08-28T21:23:31+10:00",
+				"date_published": "2023-08-28T06:23:31-05:00",
 				"url": "https://micro.jerrytowler.com/2023/08/28/finished-reading-legends.html",
 				"tags": ["books"]
 			},
@@ -195,8 +211,8 @@
 				"id": "http://jatowler.micro.blog/2023/08/28/hot-chocolate-and.html",
 				"title": "Hot Chocolate and Churros at Barcelona’s Granja M. Viader",
 				"content_html": "<p>In September 2021, we spent a couple of days in Barcelona on our way back from Minorca and Mallorca. We had read that a favorite local breakfast spot was <a href=\"https://americansinbarcelona.com/granja-viader/\">Granja M. Viader</a>. Usually, that means there’s a line of tourists out the door, and Meera and I are almost always unwilling to wait in a line like that.</p>\n<!-- raw HTML omitted -->\n<p>However, this day, the line was practically nonexistent (probably because tourists hadn’t yet come back after COVID), and we slipped in for a breakfast of hot chocolate and churros.</p>\n<!-- raw HTML omitted -->\n<p>Two things stood out from this visit:</p>\n<ol>\n<li>The hot chocolate was in fact thick warmed chocolate to dip the churros in. Those familiar with Spanish or Mexican culture are rolling their eyes, but this treat was new to me.</li>\n<li>This restaurant has been serving this food for <strong>150 years</strong>. Incredible longevity for a breakfast spot.</li>\n</ol>\n<p>When we travel, I’m always torn between visiting the famous spots and being too much of a tourist. In this case, we threaded the needle perfectly and got an amazing unexpected breakfast. ✈️ 🗺️ 🇪🇸</p>\n",
-				"content_text": "In September 2021, we spent a couple of days in Barcelona on our way back from Minorca and Mallorca. We had read that a favorite local breakfast spot was [Granja M. Viader](https://americansinbarcelona.com/granja-viader/). Usually, that means there’s a line of tourists out the door, and Meera and I are almost always unwilling to wait in a line like that.\n\n<img src=\"uploads/2023/media.jpg\" width=\"600\" height=\"449\" alt=\"A few people walk past the outside of Granja M. Viader. A window display shows chocolates, jams, and wines for sale.\">\n\nHowever, this day, the line was practically nonexistent (probably because tourists hadn’t yet come back after COVID), and we slipped in for a breakfast of hot chocolate and churros.\n\n<img src=\"uploads/2023/d0465226d8.jpg\" width=\"600\" height=\"522\" alt=\"A cup of hot chocolate, churros, and other pastries I can’t name.\">\n\nTwo things stood out from this visit:\n\n1. The hot chocolate was in fact thick warmed chocolate to dip the churros in. Those familiar with Spanish or Mexican culture are rolling their eyes, but this treat was new to me.\n2. This restaurant has been serving this food for **150 years**. Incredible longevity for a breakfast spot.\n\nWhen we travel, I’m always torn between visiting the famous spots and being too much of a tourist. In this case, we threaded the needle perfectly and got an amazing unexpected breakfast. ✈️ 🗺️ 🇪🇸 \n",
-				"date_published": "2023-08-28T10:10:00+10:00",
+				"content_text": "In September 2021, we spent a couple of days in Barcelona on our way back from Minorca and Mallorca. We had read that a favorite local breakfast spot was [Granja M. Viader](https://americansinbarcelona.com/granja-viader/). Usually, that means there’s a line of tourists out the door, and Meera and I are almost always unwilling to wait in a line like that.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/media.jpg\" width=\"600\" height=\"449\" alt=\"A few people walk past the outside of Granja M. Viader. A window display shows chocolates, jams, and wines for sale.\">\n\nHowever, this day, the line was practically nonexistent (probably because tourists hadn’t yet come back after COVID), and we slipped in for a breakfast of hot chocolate and churros.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/d0465226d8.jpg\" width=\"600\" height=\"522\" alt=\"A cup of hot chocolate, churros, and other pastries I can’t name.\">\n\nTwo things stood out from this visit:\n\n1. The hot chocolate was in fact thick warmed chocolate to dip the churros in. Those familiar with Spanish or Mexican culture are rolling their eyes, but this treat was new to me.\n2. This restaurant has been serving this food for **150 years**. Incredible longevity for a breakfast spot.\n\nWhen we travel, I’m always torn between visiting the famous spots and being too much of a tourist. In this case, we threaded the needle perfectly and got an amazing unexpected breakfast. ✈️ 🗺️ 🇪🇸 \n",
+				"date_published": "2023-08-27T19:10:00-05:00",
 				"url": "https://micro.jerrytowler.com/2023/08/28/hot-chocolate-and.html",
 				"tags": ["photos","travel"]
 			},
@@ -205,7 +221,7 @@
 				"title": "Streaking Across the International Date Line",
 				"content_html": "<p>Flying west across the international date line always screws with my “streaks.” Games, fitness—anything that automatically tracks daily continuity breaks.</p>\n<p>All of these apps need to build in grace days. Either occasional true penalty-free skip days or, like <a href=\"https://playknotwords.com/\">Knotwords</a>, ways to rebuild the streak.</p>\n<p>I’m reminded of a conversation in the Apple sphere a few years ago about preserving fitness streaks on rest days or across the Sabbath for observant Jews. Did that ever get addressed?</p>\n<p>Shawn Blanc offered <a href=\"https://shawnblanc.net/2019/11/how-to-have-a-recovery-day-with-the-apple-watch/\">a solution</a>, and here’s <a href=\"https://apps.apple.com/us/app/gentler-streak-activity-rest/id1576857102\">a fitness app</a> with a graceful (they call it “self-compassionate”) third-party approach, but first-party apps should really support this kind of thing too.</p>\n",
 				"content_text": "Flying west across the international date line always screws with my “streaks.” Games, fitness—anything that automatically tracks daily continuity breaks.\n\nAll of these apps need to build in grace days. Either occasional true penalty-free skip days or, like [Knotwords](https://playknotwords.com/), ways to rebuild the streak.\n\nI’m reminded of a conversation in the Apple sphere a few years ago about preserving fitness streaks on rest days or across the Sabbath for observant Jews. Did that ever get addressed?\n\nShawn Blanc offered [a solution](https://shawnblanc.net/2019/11/how-to-have-a-recovery-day-with-the-apple-watch/), and here’s [a fitness app](https://apps.apple.com/us/app/gentler-streak-activity-rest/id1576857102) with a graceful (they call it “self-compassionate”) third-party approach, but first-party apps should really support this kind of thing too.\n",
-				"date_published": "2023-08-28T08:46:11+10:00",
+				"date_published": "2023-08-27T17:46:11-05:00",
 				"url": "https://micro.jerrytowler.com/2023/08/27/flying-west-across.html",
 				"tags": ["travel"]
 			},
@@ -214,7 +230,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780765389138\">The Kaiju Preservation Society</a> by John Scalzi. Fun, quick romp through a particular many-worlds hypothesis. A little too cute in places, and far too embedded in the real-world time (including soon-to-be-obscure Trump jokes), but a very enjoyable read. 📚</p>\n",
 				"content_text": "Finished reading: [The Kaiju Preservation Society](https://micro.blog/books/9780765389138) by John Scalzi. Fun, quick romp through a particular many-worlds hypothesis. A little too cute in places, and far too embedded in the real-world time (including soon-to-be-obscure Trump jokes), but a very enjoyable read. 📚\n",
-				"date_published": "2023-08-27T19:32:29+10:00",
+				"date_published": "2023-08-27T04:32:29-05:00",
 				"url": "https://micro.jerrytowler.com/2023/08/27/finished-reading-the.html",
 				"tags": ["books"]
 			},
@@ -223,7 +239,7 @@
 				"title": "Thirty-Four Hours to Melbourne",
 				"content_html": "<p>Finally in our hotel in Melbourne. Quick recap:</p>\n<ul>\n<li>At 2pm Friday everything was fine.</li>\n<li>At 3pm Friday our Melbourne flight was delayed two hours, but our Dallas flight was delayed <em>four</em> hours, so we would miss our connection, and the next DFW-MEL flight didn’t leave for two more days.</li>\n<li>American couldn’t rebook us despite my platinum status. Our travel department figured out how to get us there through LAX, but before that a colleague traveling with us with Concierge Key status got us not only rebooked but on standby with a third alternative (which we ended up taking). If only American cared that much about all its passengers.</li>\n<li>We made DFW, but all the gates were occupied, so we sat on the tarmac until one cleared up.</li>\n<li>After getting into the airport, we closed down the Flagship Lounge (it inexplicably closes at 10:15pm even though the last flight boards much later), enjoying champagne, beers, cocktails, and even some dinner while we waited.</li>\n<li>Our Melbourne flight was late arriving, so it was very late boarding, and we didn’t take off until 12:30am or later.</li>\n<li>Seventeen and a half hours later, we landed in Melbourne around 7:30am.</li>\n<li>Obviously we were too early to check in, so we dropped our bags at the hotel, got coffee and breakfast, and went exploring at the river, botanical gardens, and CBD.</li>\n<li>We returned to the hotel for a break before venturing back out for dinner.</li>\n</ul>\n<p>It’s been quite a ridiculous 34 hours, but we are excited to be here. Now for that nap…</p>\n<p>✈️ 🗺️ 🏨 🇦🇺</p>\n",
 				"content_text": "Finally in our hotel in Melbourne. Quick recap:\n\n* At 2pm Friday everything was fine.\n* At 3pm Friday our Melbourne flight was delayed two hours, but our Dallas flight was delayed *four* hours, so we would miss our connection, and the next DFW-MEL flight didn’t leave for two more days.\n* American couldn’t rebook us despite my platinum status. Our travel department figured out how to get us there through LAX, but before that a colleague traveling with us with Concierge Key status got us not only rebooked but on standby with a third alternative (which we ended up taking). If only American cared that much about all its passengers.\n* We made DFW, but all the gates were occupied, so we sat on the tarmac until one cleared up.\n* After getting into the airport, we closed down the Flagship Lounge (it inexplicably closes at 10:15pm even though the last flight boards much later), enjoying champagne, beers, cocktails, and even some dinner while we waited.\n* Our Melbourne flight was late arriving, so it was very late boarding, and we didn’t take off until 12:30am or later.\n* Seventeen and a half hours later, we landed in Melbourne around 7:30am.\n* Obviously we were too early to check in, so we dropped our bags at the hotel, got coffee and breakfast, and went exploring at the river, botanical gardens, and CBD.\n* We returned to the hotel for a break before venturing back out for dinner.\n\nIt’s been quite a ridiculous 34 hours, but we are excited to be here. Now for that nap…\n\n✈️ 🗺️ 🏨 🇦🇺 \n",
-				"date_published": "2023-08-27T16:46:07+10:00",
+				"date_published": "2023-08-27T01:46:07-05:00",
 				"url": "https://micro.jerrytowler.com/2023/08/27/thirtyfour-hours-to.html",
 				"tags": ["photos","travel"]
 			},
@@ -232,15 +248,15 @@
 				
 				"content_html": "<p>Leaving tonight to add a <em>fifth</em> continent to my skiing conquests ⛷️.</p>\n<p>It was just a few weeks ago I got to update my <a href=\"https://micro.jerrytowler.com/where-have-i-been/\">Where Have I Been</a> page with skiing in South America (Chile 🇨🇱), and I&rsquo;m super-excited to bag another in Queenstown, New Zealand 🇳🇿.</p>\n<p>Remaining: Africa and Antarctica. The hard ones.</p>\n",
 				"content_text": "Leaving tonight to add a *fifth* continent to my skiing conquests ⛷️.\r\n\r\nIt was just a few weeks ago I got to update my [Where Have I Been](https://micro.jerrytowler.com/where-have-i-been/) page with skiing in South America (Chile 🇨🇱), and I'm super-excited to bag another in Queenstown, New Zealand 🇳🇿.\r\n\r\nRemaining: Africa and Antarctica. The hard ones.\n",
-				"date_published": "2023-08-26T12:57:35+10:00",
+				"date_published": "2023-08-25T21:57:35-05:00",
 				"url": "https://micro.jerrytowler.com/2023/08/25/leaving-tonight-to.html"
 			},
 			{
 				"id": "http://jatowler.micro.blog/2023/08/25/sailboatlings-at-port.html",
 				"title": "Sailboatlings at Port d’Andratx",
 				"content_html": "<p>In November 2021, Meera and I were itching to get traveling again. We had had our shots, waited past all the international quarantines, and it was time to go again.</p>\n<p>We chose to visit Minorca and Mallorca because we had enjoyed Barcelona so much a few years prior, and we wanted to go back but experience something new.</p>\n<!-- raw HTML omitted -->\n<p>While we stayed in Sóller for our time on Mallorca, one of our favorite days was driving up the coast to Port d’Andratx to visit the lighthouses and see the sailboats at the port.</p>\n<p>The wealthy neighborhoods didn’t make it easy, but we did manage to park the car and do some hiking on the hills overlooking the port before going down for dinner and a closer look.</p>\n<!-- raw HTML omitted -->\n<p>We were lucky enough to catch a class of sailors out training, and they kindly passed in front of the lighthouse like ducklings following their mother so I could catch this photo from the docks. ✈️⛵️🇪🇸</p>\n<!-- raw HTML omitted -->",
-				"content_text": "In November 2021, Meera and I were itching to get traveling again. We had had our shots, waited past all the international quarantines, and it was time to go again.\n\nWe chose to visit Minorca and Mallorca because we had enjoyed Barcelona so much a few years prior, and we wanted to go back but experience something new.\n\n<img src=\"uploads/2023/c608ececb2514f59b6ea2cf8c80af477.jpg\" width=\"600\" height=\"600\" alt=\"Photo of me and Meera in front of Far de la Mola lighthouse, a thin tower on a cliff with wide horizontal bands of black and white and a bright red top.\" style=\"height: auto;\" class=\"sunlit_image\" />\n\n<!--more-->\n\nWhile we stayed in Sóller for our time on Mallorca, one of our favorite days was driving up the coast to Port d’Andratx to visit the lighthouses and see the sailboats at the port.\n\nThe wealthy neighborhoods didn’t make it easy, but we did manage to park the car and do some hiking on the hills overlooking the port before going down for dinner and a closer look.\n\n<img src=\"uploads/2023/69f6f657ecee41999e5c1bd86537b71e.jpg\" width=\"600\" height=\"450\" alt=\"Port d'Andratx lighthouse, a squat all-brown lighthouse on the end of a long jetty/breakwater stretching halfway across the harbor mouth, seen from the cliffs above the port. Only its red cap stands out from the background.\" style=\"height: auto;\" class=\"sunlit_image\" />\n\nWe were lucky enough to catch a class of sailors out training, and they kindly passed in front of the lighthouse like ducklings following their mother so I could catch this photo from the docks. ✈️⛵️🇪🇸\n\n<img src=\"uploads/2023/e5361a315482455397cb9cdbca8ad774.jpg\" width=\"600\" height=\"337\" alt=\"Six single-person sailboats pass in a line in front of the Port d'Andratx lighthouse, seen from water level, following a seventh boat farther left behind the end of the jetty, separated from the pack.\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
-				"date_published": "2023-08-25T23:34:20+10:00",
+				"content_text": "In November 2021, Meera and I were itching to get traveling again. We had had our shots, waited past all the international quarantines, and it was time to go again.\n\nWe chose to visit Minorca and Mallorca because we had enjoyed Barcelona so much a few years prior, and we wanted to go back but experience something new.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/c608ececb2514f59b6ea2cf8c80af477.jpg\" width=\"600\" height=\"600\" alt=\"Photo of me and Meera in front of Far de la Mola lighthouse, a thin tower on a cliff with wide horizontal bands of black and white and a bright red top.\" style=\"height: auto;\" class=\"sunlit_image\" />\n\n<!--more-->\n\nWhile we stayed in Sóller for our time on Mallorca, one of our favorite days was driving up the coast to Port d’Andratx to visit the lighthouses and see the sailboats at the port.\n\nThe wealthy neighborhoods didn’t make it easy, but we did manage to park the car and do some hiking on the hills overlooking the port before going down for dinner and a closer look.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/69f6f657ecee41999e5c1bd86537b71e.jpg\" width=\"600\" height=\"450\" alt=\"Port d'Andratx lighthouse, a squat all-brown lighthouse on the end of a long jetty/breakwater stretching halfway across the harbor mouth, seen from the cliffs above the port. Only its red cap stands out from the background.\" style=\"height: auto;\" class=\"sunlit_image\" />\n\nWe were lucky enough to catch a class of sailors out training, and they kindly passed in front of the lighthouse like ducklings following their mother so I could catch this photo from the docks. ✈️⛵️🇪🇸\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/e5361a315482455397cb9cdbca8ad774.jpg\" width=\"600\" height=\"337\" alt=\"Six single-person sailboats pass in a line in front of the Port d'Andratx lighthouse, seen from water level, following a seventh boat farther left behind the end of the jetty, separated from the pack.\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2023-08-25T08:34:20-05:00",
 				"url": "https://micro.jerrytowler.com/2023/08/25/sailboatlings-at-port.html",
 				"tags": ["photos","travel"]
 			},
@@ -248,8 +264,8 @@
 				"id": "http://jatowler.micro.blog/2023/08/24/in-this-picture.html",
 				"title": "In This Picture, the Hail Hasn’t Started Yet",
 				"content_html": "<p>What if you went to Versailles as part of your honeymoon, but it absolutely poured that day in November 2017, and all of your pictures were of you and your brand new spouse soaking wet?</p>\n<p>On the plus side, I snuck this jacket into my luggage as a surprise gift for Meera when we got there, so she was both cuter and more comfortable than I was.</p>\n<p>Note, as usual, the red backpack straps over the sport coat; I am the essence of class. ✈️ 🇫🇷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "What if you went to Versailles as part of your honeymoon, but it absolutely poured that day in November 2017, and all of your pictures were of you and your brand new spouse soaking wet?\n\nOn the plus side, I snuck this jacket into my luggage as a surprise gift for Meera when we got there, so she was both cuter and more comfortable than I was.\n\nNote, as usual, the red backpack straps over the sport coat; I am the essence of class. ✈️ 🇫🇷 \n\n<img src=\"uploads/2023/cfc06d0313.jpg\" width=\"600\" height=\"450\" alt=\"Meera and me in front of one of the giant golden gates at Versailles on a rainy day. Meera is wearing a black jacket with a hood trimmed in fake fur; I am wearing a sport coat with no hood and a red backpack.\">\n",
-				"date_published": "2023-08-24T22:49:10+10:00",
+				"content_text": "What if you went to Versailles as part of your honeymoon, but it absolutely poured that day in November 2017, and all of your pictures were of you and your brand new spouse soaking wet?\n\nOn the plus side, I snuck this jacket into my luggage as a surprise gift for Meera when we got there, so she was both cuter and more comfortable than I was.\n\nNote, as usual, the red backpack straps over the sport coat; I am the essence of class. ✈️ 🇫🇷 \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/cfc06d0313.jpg\" width=\"600\" height=\"450\" alt=\"Meera and me in front of one of the giant golden gates at Versailles on a rainy day. Meera is wearing a black jacket with a hood trimmed in fake fur; I am wearing a sport coat with no hood and a red backpack.\">\n",
+				"date_published": "2023-08-24T07:49:10-05:00",
 				"url": "https://micro.jerrytowler.com/2023/08/24/in-this-picture.html",
 				"tags": ["photos","travel"]
 			},
@@ -258,15 +274,15 @@
 				
 				"content_html": "<p>I really hate that the best experience of micro.blog is on the web. The Mac app is flaky uploading photos, and while you can write alt text, there&rsquo;s no way to position them in the post. The iOS apps don&rsquo;t really believe in the share sheet (sharing to Sunlit loses my post 100% of the time), and scrolling in the official micro.blog app routinely breaks, making scrolling to the bottom of the post to continue writing impossible. I&rsquo;d switch to Drafts, but I still need to handle photo uploading. (To be fair, Epilogue continues to be awesome, and I&rsquo;ve never tried Wavelength.)</p>\n",
 				"content_text": "I really hate that the best experience of micro.blog is on the web. The Mac app is flaky uploading photos, and while you can write alt text, there's no way to position them in the post. The iOS apps don't really believe in the share sheet (sharing to Sunlit loses my post 100% of the time), and scrolling in the official micro.blog app routinely breaks, making scrolling to the bottom of the post to continue writing impossible. I'd switch to Drafts, but I still need to handle photo uploading. (To be fair, Epilogue continues to be awesome, and I've never tried Wavelength.)\n",
-				"date_published": "2023-08-24T00:24:46+10:00",
+				"date_published": "2023-08-23T09:24:46-05:00",
 				"url": "https://micro.jerrytowler.com/2023/08/23/i-really-hate.html"
 			},
 			{
 				"id": "http://jatowler.micro.blog/2023/08/23/lighthouses-and-roses.html",
 				"title": "Lighthouses and Roses",
 				"content_html": "<p>In June 2013, I was on a business trip to Mountain View. I had never been to California before, so I spent as much of my free time exploring as I could.</p>\n<p>I drove down to Santa Cruz, and I saw the Breakwater Lighthouse.</p>\n<!-- raw HTML omitted -->\n<p>Then I went west to Pigeon Point Light Station near Pescadero.</p>\n<!-- raw HTML omitted -->\n<p>But despite my love of lighthouses, the vast majority of the photos I took that week—with my disappointing-in-retrospect iPhone 4 camera—were from the San Jose Municipal Rose Garden, which is a thing that exists. Some of them even turned out pretty good!</p>\n<!-- raw HTML omitted -->",
-				"content_text": "In June 2013, I was on a business trip to Mountain View. I had never been to California before, so I spent as much of my free time exploring as I could.\n\n<!--more-->\n\nI drove down to Santa Cruz, and I saw the Breakwater Lighthouse.\n\n<img src=\"uploads/2023/6768ada19a.jpg\" width=\"600\" height=\"448\" alt=\"A traditional white lighthouse with green trim on the end of a rocky breakwater curving to the left. The lighthouse has no house, just a door. A person stands on the jacks-shaped cement forms at the end of the breakwater.\">\n\nThen I went west to Pigeon Point Light Station near Pescadero.\n\n<img src=\"uploads/2023/b0b30b57c1.jpg\" width=\"600\" height=\"448\" alt=\"A traditional white lighthouse, faded and spotted with rust, atop a house with a gabled roof and two chimneys. An empty bench looks out onto the ocean, while an empty sand parking lot and overcast sky complete the gloomy picture.\">\n\nBut despite my love of lighthouses, the vast majority of the photos I took that week—with my disappointing-in-retrospect iPhone 4 camera—were from the San Jose Municipal Rose Garden, which is a thing that exists. Some of them even turned out pretty good!\n\n<img src=\"uploads/2023/9168c373d3.jpg\" width=\"600\" height=\"448\" alt=\"Two giant, bright pink roses with petals unfurled\">\n",
-				"date_published": "2023-08-24T00:15:50+10:00",
+				"content_text": "In June 2013, I was on a business trip to Mountain View. I had never been to California before, so I spent as much of my free time exploring as I could.\n\n<!--more-->\n\nI drove down to Santa Cruz, and I saw the Breakwater Lighthouse.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/6768ada19a.jpg\" width=\"600\" height=\"448\" alt=\"A traditional white lighthouse with green trim on the end of a rocky breakwater curving to the left. The lighthouse has no house, just a door. A person stands on the jacks-shaped cement forms at the end of the breakwater.\">\n\nThen I went west to Pigeon Point Light Station near Pescadero.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/b0b30b57c1.jpg\" width=\"600\" height=\"448\" alt=\"A traditional white lighthouse, faded and spotted with rust, atop a house with a gabled roof and two chimneys. An empty bench looks out onto the ocean, while an empty sand parking lot and overcast sky complete the gloomy picture.\">\n\nBut despite my love of lighthouses, the vast majority of the photos I took that week—with my disappointing-in-retrospect iPhone 4 camera—were from the San Jose Municipal Rose Garden, which is a thing that exists. Some of them even turned out pretty good!\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/9168c373d3.jpg\" width=\"600\" height=\"448\" alt=\"Two giant, bright pink roses with petals unfurled\">\n",
+				"date_published": "2023-08-23T09:15:50-05:00",
 				"url": "https://micro.jerrytowler.com/2023/08/23/lighthouses-and-roses.html",
 				"tags": ["photos","travel"]
 			},
@@ -274,8 +290,8 @@
 				"id": "http://jatowler.micro.blog/2023/08/22/do-not-gather.html",
 				"title": "Do Not Gather Firewood",
 				"content_html": "<p>In 2017, we camped in Garner State Park with some friends and took a brief hike the next day.</p>\n<p>You’re not permitted to use local “found” firewood, so one of the people with us brought a truck bed full of huge branches we spent a long time chopping into firewood on which to cook a very nice pot of camp chili.</p>\n<p>Food you work for is supposed to taste better, but I mostly remember the work and the time, not so much the food. Even as I type I wonder if maybe the food was fajitas… 🏕️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In 2017, we camped in Garner State Park with some friends and took a brief hike the next day.\n\nYou’re not permitted to use local “found” firewood, so one of the people with us brought a truck bed full of huge branches we spent a long time chopping into firewood on which to cook a very nice pot of camp chili.\n\nFood you work for is supposed to taste better, but I mostly remember the work and the time, not so much the food. Even as I type I wonder if maybe the food was fajitas… 🏕️ \n\n<img src=\"uploads/2023/1131e64c45.jpg\" width=\"600\" height=\"450\" alt=\"A sparse tree with twisted branches on a hillside overlooking grasslands under a blue sky.\">\n",
-				"date_published": "2023-08-23T12:51:43+10:00",
+				"content_text": "In 2017, we camped in Garner State Park with some friends and took a brief hike the next day.\n\nYou’re not permitted to use local “found” firewood, so one of the people with us brought a truck bed full of huge branches we spent a long time chopping into firewood on which to cook a very nice pot of camp chili.\n\nFood you work for is supposed to taste better, but I mostly remember the work and the time, not so much the food. Even as I type I wonder if maybe the food was fajitas… 🏕️ \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/1131e64c45.jpg\" width=\"600\" height=\"450\" alt=\"A sparse tree with twisted branches on a hillside overlooking grasslands under a blue sky.\">\n",
+				"date_published": "2023-08-22T21:51:43-05:00",
 				"url": "https://micro.jerrytowler.com/2023/08/22/do-not-gather.html",
 				"tags": ["photos","travel"]
 			},
@@ -283,8 +299,8 @@
 				"id": "http://jatowler.micro.blog/2023/08/21/waterfall-gully-features.html",
 				"title": "Waterfall Gully Features A Waterfall In A Gully",
 				"content_html": "<p>In August 2016, I was in Adelaide for a business trip. Okay, I was in Woomera for a business trip, but I had taken a week of vacation on the end of the trip to explore Adelaide.</p>\n<p>One day I decided to hike up Mount Lofty. Okay, I decided to walk to Mount Lofty from Adelaide and then climb up it.</p>\n<p>The trek took me past a place called Waterfall Gully, which is a… gully… with a waterfall. Australians have the best names: Mount Lofty, Waterfall Gully.</p>\n<!-- raw HTML omitted -->\n<p>The hike up was quite challenging: 1,000m up in a 5,000m hike. But I kept getting passed by trailrunners getting their vertical 5k in. It was embarrassing. (It didn’t help that the only boots I had with me were steel-toe safety boots.)</p>\n<p>After reaching the top, I tried to walk back to Adelaide, but I was exhausted, so I stopped for a pizza and called an Uber. ✈️ 🍕</p>\n",
-				"content_text": "In August 2016, I was in Adelaide for a business trip. Okay, I was in Woomera for a business trip, but I had taken a week of vacation on the end of the trip to explore Adelaide.\n\nOne day I decided to hike up Mount Lofty. Okay, I decided to walk to Mount Lofty from Adelaide and then climb up it.\n\nThe trek took me past a place called Waterfall Gully, which is a… gully… with a waterfall. Australians have the best names: Mount Lofty, Waterfall Gully.\n\n<img src=\"uploads/2023/a0e3face3c.jpg\" width=\"450\" height=\"600\" alt=\"Selfie of me in front of Waterfall Gully’s titular waterfall.\">\n\nThe hike up was quite challenging: 1,000m up in a 5,000m hike. But I kept getting passed by trailrunners getting their vertical 5k in. It was embarrassing. (It didn’t help that the only boots I had with me were steel-toe safety boots.)\n\nAfter reaching the top, I tried to walk back to Adelaide, but I was exhausted, so I stopped for a pizza and called an Uber. ✈️ 🍕\n",
-				"date_published": "2023-08-22T12:33:22+10:00",
+				"content_text": "In August 2016, I was in Adelaide for a business trip. Okay, I was in Woomera for a business trip, but I had taken a week of vacation on the end of the trip to explore Adelaide.\n\nOne day I decided to hike up Mount Lofty. Okay, I decided to walk to Mount Lofty from Adelaide and then climb up it.\n\nThe trek took me past a place called Waterfall Gully, which is a… gully… with a waterfall. Australians have the best names: Mount Lofty, Waterfall Gully.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/a0e3face3c.jpg\" width=\"450\" height=\"600\" alt=\"Selfie of me in front of Waterfall Gully’s titular waterfall.\">\n\nThe hike up was quite challenging: 1,000m up in a 5,000m hike. But I kept getting passed by trailrunners getting their vertical 5k in. It was embarrassing. (It didn’t help that the only boots I had with me were steel-toe safety boots.)\n\nAfter reaching the top, I tried to walk back to Adelaide, but I was exhausted, so I stopped for a pizza and called an Uber. ✈️ 🍕\n",
+				"date_published": "2023-08-21T21:33:22-05:00",
 				"url": "https://micro.jerrytowler.com/2023/08/21/waterfall-gully-features.html",
 				"tags": ["photos","travel"]
 			},
@@ -292,8 +308,8 @@
 				"id": "http://jatowler.micro.blog/2023/08/20/switzerland-in-a.html",
 				"title": "Switzerland In A Week (Sort Of)",
 				"content_html": "<p>Back in 2018, I had a business trip to Thun, Switzerland. Meera and I decided to make a vacation of it. Over the course of a week, we visited Thun, Interlaken, Gimmelwald, Zermatt, St. Moritz, and Zurich.</p>\n<!-- raw HTML omitted -->\n<p>In Zurich, we were unwilling to pay for a chocolate tour, so we found a review online that listed the places they went and did the tour on our own. One of the places was of course the Sprüngli shop, where we learned about Luxemburgerli, which are basically colorful mini-macarons.</p>\n<!-- raw HTML omitted -->\n<p>Finally, the requisite selfie where I&rsquo;m wearing the same Osprey Daylite Plus I&rsquo;m wearing in nearly every travel photo taken of me in the last ten years. ✈️🌍</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Back in 2018, I had a business trip to Thun, Switzerland. Meera and I decided to make a vacation of it. Over the course of a week, we visited Thun, Interlaken, Gimmelwald, Zermatt, St. Moritz, and Zurich.\n\n<img src=\"uploads/2023/d666900ce3.jpg\" width=\"450\" height=\"600\" alt=\"Photo of Meera taking a photo of waterfalls (not pictured)\">\n\nIn Zurich, we were unwilling to pay for a chocolate tour, so we found a review online that listed the places they went and did the tour on our own. One of the places was of course the Sprüngli shop, where we learned about Luxemburgerli, which are basically colorful mini-macarons.\n\n<img src=\"uploads/2023/a7c78bf3ec.jpg\" width=\"600\" height=\"600\" alt=\"Photo of a bright red and green Luxemburgerli with white filling, with a bite taken out of it.\">\n\nFinally, the requisite selfie where I'm wearing the same Osprey Daylite Plus I'm wearing in nearly every travel photo taken of me in the last ten years. ✈️🌍\n\n<img src=\"uploads/2023/aea72c6cc6.jpg\" width=\"600\" height=\"600\" alt=\"Photo of Meera and me on the Limmat with the Zurich Rathaus in the background.\">\n",
-				"date_published": "2023-08-21T12:55:51+10:00",
+				"content_text": "Back in 2018, I had a business trip to Thun, Switzerland. Meera and I decided to make a vacation of it. Over the course of a week, we visited Thun, Interlaken, Gimmelwald, Zermatt, St. Moritz, and Zurich.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/d666900ce3.jpg\" width=\"450\" height=\"600\" alt=\"Photo of Meera taking a photo of waterfalls (not pictured)\">\n\nIn Zurich, we were unwilling to pay for a chocolate tour, so we found a review online that listed the places they went and did the tour on our own. One of the places was of course the Sprüngli shop, where we learned about Luxemburgerli, which are basically colorful mini-macarons.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/a7c78bf3ec.jpg\" width=\"600\" height=\"600\" alt=\"Photo of a bright red and green Luxemburgerli with white filling, with a bite taken out of it.\">\n\nFinally, the requisite selfie where I'm wearing the same Osprey Daylite Plus I'm wearing in nearly every travel photo taken of me in the last ten years. ✈️🌍\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/aea72c6cc6.jpg\" width=\"600\" height=\"600\" alt=\"Photo of Meera and me on the Limmat with the Zurich Rathaus in the background.\">\n",
+				"date_published": "2023-08-20T21:55:51-05:00",
 				"url": "https://micro.jerrytowler.com/2023/08/20/switzerland-in-a.html",
 				"tags": ["photos","travel"]
 			},
@@ -302,15 +318,15 @@
 				
 				"content_html": "<p>Just published <a href=\"https://versenotes.org/four-gospels-five-great-commissions/\">Four Gospels, Five Great Commissions</a>. It has been fourteen months since I wrote a new article, and I can’t tell you how relieved I feel to get going again. ✍️</p>\n",
 				"content_text": "Just published [Four Gospels, Five Great Commissions](https://versenotes.org/four-gospels-five-great-commissions/). It has been fourteen months since I wrote a new article, and I can’t tell you how relieved I feel to get going again. ✍️ \n",
-				"date_published": "2023-08-20T08:23:28+10:00",
+				"date_published": "2023-08-19T17:23:28-05:00",
 				"url": "https://micro.jerrytowler.com/2023/08/19/just-published-four.html"
 			},
 			{
 				"id": "http://jatowler.micro.blog/2023/08/19/the-secondmostridiculous-hike.html",
 				"title": "The Second-Most-Ridiculous Hike We’ve Ever Taken",
 				"content_html": "<p>In 2019, my wife and I joined another couple for <a href=\"https://savvyhedgehog.com/backpacking-colorados-san-juan-mountains/\">a backpacking trip</a> in the San Juan Mountains of south-central Colorado. On the way back, we stopped for a day at my in-law’s condo in Ruidoso, New Mexico to recover a bit. But instead of resting and recuperating from a challenging hike, we decided to go for <em>another</em> hike in the nearby Lincoln National Forest.</p>\n<p>Okay, this one is entirely my fault.</p>\n<p>I thought, hey, without 30–40 pounds on our backs, how hard could it be?</p>\n<p>But the day was hot and the trail had depressingly little shade, so halfway through, I snapped this picture of us in front of Grindstone Lake, and we turned around and went home.</p>\n<!-- raw HTML omitted -->\n<p>As I remember, dinner that night was pizza from <a href=\"https://caferio.pizza\">Cafe Rio Pizza</a> and beer from <a href=\"https://losthikerbrewing.com\">Lost Hiker Brewing Company</a>. As it should be. 🏕️🍺🍕</p>\n",
-				"content_text": "In 2019, my wife and I joined another couple for [a backpacking trip](https://savvyhedgehog.com/backpacking-colorados-san-juan-mountains/) in the San Juan Mountains of south-central Colorado. On the way back, we stopped for a day at my in-law’s condo in Ruidoso, New Mexico to recover a bit. But instead of resting and recuperating from a challenging hike, we decided to go for *another* hike in the nearby Lincoln National Forest.\n\nOkay, this one is entirely my fault.\n\nI thought, hey, without 30–40 pounds on our backs, how hard could it be?\n\nBut the day was hot and the trail had depressingly little shade, so halfway through, I snapped this picture of us in front of Grindstone Lake, and we turned around and went home.\n\n<img src=\"uploads/2023/b1d471202f.jpg\" width=\"600\" height=\"450\" alt=\"Selfie of my wife and me in front of Grindstone Lake on a very sunny day.\">\n\nAs I remember, dinner that night was pizza from [Cafe Rio Pizza](https://caferio.pizza) and beer from [Lost Hiker Brewing Company](https://losthikerbrewing.com). As it should be. 🏕️🍺🍕\n",
-				"date_published": "2023-08-20T01:29:36+10:00",
+				"content_text": "In 2019, my wife and I joined another couple for [a backpacking trip](https://savvyhedgehog.com/backpacking-colorados-san-juan-mountains/) in the San Juan Mountains of south-central Colorado. On the way back, we stopped for a day at my in-law’s condo in Ruidoso, New Mexico to recover a bit. But instead of resting and recuperating from a challenging hike, we decided to go for *another* hike in the nearby Lincoln National Forest.\n\nOkay, this one is entirely my fault.\n\nI thought, hey, without 30–40 pounds on our backs, how hard could it be?\n\nBut the day was hot and the trail had depressingly little shade, so halfway through, I snapped this picture of us in front of Grindstone Lake, and we turned around and went home.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/b1d471202f.jpg\" width=\"600\" height=\"450\" alt=\"Selfie of my wife and me in front of Grindstone Lake on a very sunny day.\">\n\nAs I remember, dinner that night was pizza from [Cafe Rio Pizza](https://caferio.pizza) and beer from [Lost Hiker Brewing Company](https://losthikerbrewing.com). As it should be. 🏕️🍺🍕\n",
+				"date_published": "2023-08-19T10:29:36-05:00",
 				"url": "https://micro.jerrytowler.com/2023/08/19/the-secondmostridiculous-hike.html",
 				"tags": ["photos","travel"]
 			},
@@ -319,15 +335,15 @@
 				"title": "Greener, More Flexible, Grass",
 				"content_html": "<p>I came across this March 2022 post about <a href=\"https://chrishannah.me/having-control-over-your-own-day/\">having control over your day</a> by <a href=\"https://micro.blog/ChrisHannah\">@ChrisHannah</a>, where they advocate for flexible working hours:</p>\n<blockquote>\n<p>Personally, I think the best solution for people and companies (where the job allows), is if your entire working hours were flexible. For example, you could be contracted to work 8 hours a day, but you are free to fulfil those 8 hours between the hours of 7 am and 9 pm. Maybe one day you have plans later on in the day, so you choose to start at 7 am, and have a short lunch. But another day, you want to go have brunch with friends, so you could start later, or perhaps you just take a long break?</p>\n</blockquote>\n<p>My employer has had for many years exactly such a model: we are expected to be &ldquo;online&rdquo;—that is, generally available and working, not necessarily actually logged into Teams—from 9am–3pm Monday–Friday, and we are expected to log 80 hours every two weeks (we&rsquo;re a research consultancy, so we take both &ldquo;log&rdquo; and &ldquo;80 hours&rdquo; both seriously and literally). We&rsquo;re also expected to &ldquo;work from site&rdquo; Tuesday–Thursday, with Mondays and Fridays being optional work-from-home days. Beyond those constraints, we&rsquo;re free to flex our schedule in the way that lets us do our best work.</p>\n<p>As a manager, I often field questions about why our policies are not even <em>more</em> flexible, and even I think of us as stuck in the past in many ways. So I appreciated seeing a proposal for improvement that we have already engaged, suggesting that perhaps things are not always better everywhere else.</p>",
 				"content_text": "I came across this March 2022 post about [having control over your day](https://chrishannah.me/having-control-over-your-own-day/) by [@ChrisHannah](https://micro.blog/ChrisHannah), where they advocate for flexible working hours:\n\n> Personally, I think the best solution for people and companies (where the job allows), is if your entire working hours were flexible. For example, you could be contracted to work 8 hours a day, but you are free to fulfil those 8 hours between the hours of 7 am and 9 pm. Maybe one day you have plans later on in the day, so you choose to start at 7 am, and have a short lunch. But another day, you want to go have brunch with friends, so you could start later, or perhaps you just take a long break?\n\n<!--more-->\n\nMy employer has had for many years exactly such a model: we are expected to be \"online\"—that is, generally available and working, not necessarily actually logged into Teams—from 9am–3pm Monday–Friday, and we are expected to log 80 hours every two weeks (we're a research consultancy, so we take both \"log\" and \"80 hours\" both seriously and literally). We're also expected to \"work from site\" Tuesday–Thursday, with Mondays and Fridays being optional work-from-home days. Beyond those constraints, we're free to flex our schedule in the way that lets us do our best work.\n\nAs a manager, I often field questions about why our policies are not even *more* flexible, and even I think of us as stuck in the past in many ways. So I appreciated seeing a proposal for improvement that we have already engaged, suggesting that perhaps things are not always better everywhere else.\n",
-				"date_published": "2023-08-18T05:03:40+10:00",
+				"date_published": "2023-08-17T14:03:40-05:00",
 				"url": "https://micro.jerrytowler.com/2023/08/17/greener-more-flexible.html"
 			},
 			{
 				"id": "http://jatowler.micro.blog/2023/08/15/the-picture.html",
 				"title": "The Picture",
 				"content_html": "<p>Some friends and I were talking about <em>The Picture</em>—the one you’re proudest of, the one you always want to show people, the one that makes you wonder if maybe you’re actually a photographer after all.</p>\n<p>I’ve taken some pretty pictures, but I think the best one I’ve ever taken is of a couple I don’t know and never met, on the beach of Lake Wakatipu in Queenstown, New Zealand. I hope they don’t mind, and I hope if they ever come across this post, they’ll appreciate how perfect their moment was (and say hi!). ✈️ 🗺️ 🇳🇿</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Some friends and I were talking about _The Picture_—the one you’re proudest of, the one you always want to show people, the one that makes you wonder if maybe you’re actually a photographer after all.\n\nI’ve taken some pretty pictures, but I think the best one I’ve ever taken is of a couple I don’t know and never met, on the beach of Lake Wakatipu in Queenstown, New Zealand. I hope they don’t mind, and I hope if they ever come across this post, they’ll appreciate how perfect their moment was (and say hi!). ✈️ 🗺️ 🇳🇿\n\n<img src=\"uploads/2023/8b10869749.jpg\" width=\"600\" height=\"450\" alt=\"A young woman rests her head on a young man’s shoulder as they watch the sunset over Lake Wakatipu.\">\n",
-				"date_published": "2023-08-16T00:09:18+10:00",
+				"content_text": "Some friends and I were talking about _The Picture_—the one you’re proudest of, the one you always want to show people, the one that makes you wonder if maybe you’re actually a photographer after all.\n\nI’ve taken some pretty pictures, but I think the best one I’ve ever taken is of a couple I don’t know and never met, on the beach of Lake Wakatipu in Queenstown, New Zealand. I hope they don’t mind, and I hope if they ever come across this post, they’ll appreciate how perfect their moment was (and say hi!). ✈️ 🗺️ 🇳🇿\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/8b10869749.jpg\" width=\"600\" height=\"450\" alt=\"A young woman rests her head on a young man’s shoulder as they watch the sunset over Lake Wakatipu.\">\n",
+				"date_published": "2023-08-15T09:09:18-05:00",
 				"url": "https://micro.jerrytowler.com/2023/08/15/the-picture.html",
 				"tags": ["photos","travel"]
 			},
@@ -336,7 +352,7 @@
 				
 				"content_html": "<p>Even though I went to the office on Friday after landing from Chile 🇨🇱, the first Monday back always feels like the “real” return to work.</p>\n<p>Feels good to get back into habits of reading, journaling, and morning pages—all those practices that I’m happy to ignore while checking out on vacation.</p>\n",
 				"content_text": "Even though I went to the office on Friday after landing from Chile 🇨🇱, the first Monday back always feels like the “real” return to work.\n\nFeels good to get back into habits of reading, journaling, and morning pages—all those practices that I’m happy to ignore while checking out on vacation.\n",
-				"date_published": "2023-08-14T22:32:20+10:00",
+				"date_published": "2023-08-14T07:32:20-05:00",
 				"url": "https://micro.jerrytowler.com/2023/08/14/even-though-i.html"
 			},
 			{
@@ -344,7 +360,7 @@
 				
 				"content_html": "<p>I’ve lived in San Antonio for twelve years, and today I got my first library card.</p>\n<p>(I’ve read <a href=\"https://micro.jerrytowler.com/reading/\">dozens of books</a> on Libby over the years with what was apparently a “temporary” card, and I finally had to go get a real one to keep reading.) 📚</p>\n",
 				"content_text": "I’ve lived in San Antonio for twelve years, and today I got my first library card.\n\n(I’ve read [dozens of books](https://micro.jerrytowler.com/reading/) on Libby over the years with what was apparently a “temporary” card, and I finally had to go get a real one to keep reading.) 📚\n",
-				"date_published": "2023-08-14T03:57:35+10:00",
+				"date_published": "2023-08-13T12:57:35-05:00",
 				"url": "https://micro.jerrytowler.com/2023/08/13/ive-lived-in.html",
 				"tags": ["books"]
 			},
@@ -352,8 +368,8 @@
 				"id": "http://jatowler.micro.blog/2023/08/12/we-realized-on.html",
 				
 				"content_html": "<p>We realized on day 3 of skiing that our skis were conveniently RGB-colored and of graduated lengths, so we posed them for a group shot.</p>\n<!-- raw HTML omitted -->\n<p>Then I took a candid going up one of the lifts.</p>\n<!-- raw HTML omitted -->\n<p>And of course we couldn’t let the boots feel left out, even though they’re less colorful. 🎿</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We realized on day 3 of skiing that our skis were conveniently RGB-colored and of graduated lengths, so we posed them for a group shot.\n\n<img src=\"uploads/2023/7ff510dfd0844061b7d35afa6551715d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n\nThen I took a candid going up one of the lifts.\n\n<img src=\"uploads/2023/98abe78f39ae4b1293e5c8dc02dce670.jpg\" width=\"450\" height=\"600\" alt=\"\">\n\nAnd of course we couldn’t let the boots feel left out, even though they’re less colorful. 🎿 \n\n<img src=\"uploads/2023/b91ece883ad54471b5bc54c076fd2d9a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-08-13T10:29:56+10:00",
+				"content_text": "We realized on day 3 of skiing that our skis were conveniently RGB-colored and of graduated lengths, so we posed them for a group shot.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/7ff510dfd0844061b7d35afa6551715d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n\nThen I took a candid going up one of the lifts.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/98abe78f39ae4b1293e5c8dc02dce670.jpg\" width=\"450\" height=\"600\" alt=\"\">\n\nAnd of course we couldn’t let the boots feel left out, even though they’re less colorful. 🎿 \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/b91ece883ad54471b5bc54c076fd2d9a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-08-12T19:29:56-05:00",
 				"url": "https://micro.jerrytowler.com/2023/08/12/we-realized-on.html",
 				"tags": ["photos","travel"]
 			},
@@ -361,8 +377,8 @@
 				"id": "http://jatowler.micro.blog/2023/08/10/went-to-bed.html",
 				
 				"content_html": "<p>Went to bed excited for overnight snowfall to improve skiing conditions. Woke up to exactly half my wish granted: almost 7” of accumulation, but whiteout conditions this morning. ⛷️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Went to bed excited for overnight snowfall to improve skiing conditions. Woke up to exactly half my wish granted: almost 7” of accumulation, but whiteout conditions this morning. ⛷️ \n\n<img src=\"uploads/2023/88d8697d02.jpg\" width=\"600\" height=\"449\" alt=\"Picture of an apartment window looking out onto whiteout conditions due to snow.\">\n",
-				"date_published": "2023-08-10T23:11:42+10:00",
+				"content_text": "Went to bed excited for overnight snowfall to improve skiing conditions. Woke up to exactly half my wish granted: almost 7” of accumulation, but whiteout conditions this morning. ⛷️ \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/88d8697d02.jpg\" width=\"600\" height=\"449\" alt=\"Picture of an apartment window looking out onto whiteout conditions due to snow.\">\n",
+				"date_published": "2023-08-10T08:11:42-05:00",
 				"url": "https://micro.jerrytowler.com/2023/08/10/went-to-bed.html",
 				"tags": ["photos","travel"]
 			},
@@ -371,7 +387,7 @@
 				"title": "Chilean Firsts",
 				"content_html": "<p>Achievement unlocked: snow skiing 🎿 in August. To be fair, we cheated by flying to Chile 🇨🇱 to do it.</p>\n<p>It’s also many other firsts:</p>\n<ul>\n<li>first ski trip in the southern hemisphere</li>\n<li>first trip to Chile</li>\n<li>first trip to South America</li>\n<li>first trip to the southern hemisphere with my wife (we’ve both been, repeatedly, separately, to Australia)</li>\n</ul>\n<p>And finally, it’s the fourth continent I’ve skied on (North America, Europe, and Asia were my first three).</p>\n<p>Time to update <a href=\"https://micro.jerrytowler.com/where-have-i-been/\">that post</a>. ✈️</p>\n",
 				"content_text": "Achievement unlocked: snow skiing 🎿 in August. To be fair, we cheated by flying to Chile 🇨🇱 to do it.\n\nIt’s also many other firsts:\n\n* first ski trip in the southern hemisphere\n* first trip to Chile\n* first trip to South America\n* first trip to the southern hemisphere with my wife (we’ve both been, repeatedly, separately, to Australia)\n\nAnd finally, it’s the fourth continent I’ve skied on (North America, Europe, and Asia were my first three).\n\nTime to update [that post](https://micro.jerrytowler.com/where-have-i-been/). ✈️ \n",
-				"date_published": "2023-08-07T10:30:49+10:00",
+				"date_published": "2023-08-06T19:30:49-05:00",
 				"url": "https://micro.jerrytowler.com/2023/08/06/chilean-firsts.html"
 			},
 			{
@@ -379,7 +395,7 @@
 				"title": "Initial Reflections on 15 years of Twitter",
 				"content_html": "<p>Since the ongoing implosion of X, née Twitter, began, I’ve been combing through my archive of 15,000-ish tweets across 15 years since April 20, 2008.</p>\n<p>It’s the longest record of anything in my life, stretching back further than my oldest Day One entry<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> <sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup>.</p>\n<p>I remember almost all of it. Sometimes that’s good: starting in 2017, I published almost 90,000 words of Bible analysis to Twitter. Sometimes that’s bad: I spent a lot of days over the years angry about American politics—left and right—screaming impotently into the void instead of building something valuable.</p>\n<p>I&rsquo;m trying to change that; moving here is helping. I find that here I write with more intentionality. The sense of presence, permanence, and possession encourages me to think more—not too much more, I hope—before hitting &ldquo;Post.&rdquo;</p>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>I suppose there is a longer photographic record of me, but since I didn’t get <a href=\"https://www.dpreview.com/reviews/nikoncp2500\">my first camera</a> until high school, many of those photos reflect my physical evolution, not my intellectual, emotional, or spiritual evolution. Important, but incomplete.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\" role=\"doc-endnote\">\n<p>I should have guessed dpreview has a 14-page review of that camera. Its 1.9 megapixels and 32MB of Compact Flash were precious to me; I&rsquo;m glad the Internet remembers.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
 				"content_text": "Since the ongoing implosion of X, née Twitter, began, I’ve been combing through my archive of 15,000-ish tweets across 15 years since April 20, 2008.\n\nIt’s the longest record of anything in my life, stretching back further than my oldest Day One entry[^photos] [^camera].\n\n[^photos]: I suppose there is a longer photographic record of me, but since I didn’t get [my first camera](https://www.dpreview.com/reviews/nikoncp2500) until high school, many of those photos reflect my physical evolution, not my intellectual, emotional, or spiritual evolution. Important, but incomplete.\n\n[^camera]: I should have guessed dpreview has a 14-page review of that camera. Its 1.9 megapixels and 32MB of Compact Flash were precious to me; I'm glad the Internet remembers.\n\nI remember almost all of it. Sometimes that’s good: starting in 2017, I published almost 90,000 words of Bible analysis to Twitter. Sometimes that’s bad: I spent a lot of days over the years angry about American politics—left and right—screaming impotently into the void instead of building something valuable.\n\nI'm trying to change that; moving here is helping. I find that here I write with more intentionality. The sense of presence, permanence, and possession encourages me to think more—not too much more, I hope—before hitting \"Post.\"\n",
-				"date_published": "2023-08-03T14:36:24+10:00",
+				"date_published": "2023-08-02T23:36:24-05:00",
 				"url": "https://micro.jerrytowler.com/2023/08/02/initial-reflections-on.html"
 			},
 			{
@@ -387,7 +403,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781628240115\">Thirty Questions</a> by Timothy C. Tennent. Structured like a catechism but with answers far too long to memorize. Not a bad introduction to Christian doctrine, but fits better as a study: Tennent clearly expects you to do some of the work on your own. Fortunately, he gives chapter-and-verse starting points. 📚</p>\n",
 				"content_text": "Finished reading: [Thirty Questions](https://micro.blog/books/9781628240115) by Timothy C. Tennent. Structured like a catechism but with answers far too long to memorize. Not a bad introduction to Christian doctrine, but fits better as a study: Tennent clearly expects you to do some of the work on your own. Fortunately, he gives chapter-and-verse starting points. 📚\n",
-				"date_published": "2023-08-01T22:48:45+10:00",
+				"date_published": "2023-08-01T07:48:45-05:00",
 				"url": "https://micro.jerrytowler.com/2023/08/01/finished-reading-thirty.html",
 				"tags": ["books"]
 			},
@@ -396,7 +412,7 @@
 				
 				"content_html": "<p><a href=\"https://micro.jerrytowler.com/2023/07/29/made-some-good.html\">Information architecture</a> update complete! Almost everything&rsquo;s a river, which gives me two huge wins:</p>\n<ol>\n<li>Every resource is accessible through <a href=\"https://versenotes.org/archives\">the archives page</a>.</li>\n<li>The entire site is more flexible in the future, since it&rsquo;s based on metadata instead of the file system.</li>\n</ol>\n",
 				"content_text": "[Information architecture](https://micro.jerrytowler.com/2023/07/29/made-some-good.html) update complete! Almost everything's a river, which gives me two huge wins:\n\n1. Every resource is accessible through [the archives page](https://versenotes.org/archives).\n2. The entire site is more flexible in the future, since it's based on metadata instead of the file system.\n",
-				"date_published": "2023-08-01T13:54:08+10:00",
+				"date_published": "2023-07-31T22:54:08-05:00",
 				"url": "https://micro.jerrytowler.com/2023/07/31/information-architecture-update.html"
 			},
 			{
@@ -404,7 +420,7 @@
 				
 				"content_html": "<p>Finished watching: <a href=\"https://www.themoviedb.org/movie/726759-tetris\">Tetris</a>. Tons of fun, and filled in the hard-to-believe story of which I knew only the outline—who knew a movie about IP rights and the KGB could be so enjoyable? Lots of clever little nods to 80s video games. And of course I had to follow it with <a href=\"https://www.youtube.com/watch?v=hWTFG3J1CP8\">The Complete History of the Soviet Union</a>. 🍿</p>\n",
 				"content_text": "Finished watching: [Tetris](https://www.themoviedb.org/movie/726759-tetris). Tons of fun, and filled in the hard-to-believe story of which I knew only the outline—who knew a movie about IP rights and the KGB could be so enjoyable? Lots of clever little nods to 80s video games. And of course I had to follow it with [The Complete History of the Soviet Union](https://www.youtube.com/watch?v=hWTFG3J1CP8). 🍿\n",
-				"date_published": "2023-07-31T13:54:31+10:00",
+				"date_published": "2023-07-30T22:54:31-05:00",
 				"url": "https://micro.jerrytowler.com/2023/07/30/finished-watching-tetris.html"
 			},
 			{
@@ -412,7 +428,7 @@
 				
 				"content_html": "<p>Made some good progress today redesigning information architecture for <a href=\"https://versenotes.org\">VerseNotes</a>.</p>\n<p>Current theory: only standalone articles are dated; everything else is a Jekyll collection.</p>\n<p>New theory: (almost) everything in one river of dated <code>posts</code> with judicious use of categories for archive organization.</p>\n",
 				"content_text": "Made some good progress today redesigning information architecture for [VerseNotes](https://versenotes.org).\n\nCurrent theory: only standalone articles are dated; everything else is a Jekyll collection.\n\nNew theory: (almost) everything in one river of dated `posts` with judicious use of categories for archive organization.\n",
-				"date_published": "2023-07-30T13:03:54+10:00",
+				"date_published": "2023-07-29T22:03:54-05:00",
 				"url": "https://micro.jerrytowler.com/2023/07/29/made-some-good.html"
 			},
 			{
@@ -420,7 +436,7 @@
 				
 				"content_html": "<p>Just dropped off our skis to get waxed. Starting to get excited for Santiago next week!</p>\n<p>I do feel a bit silly waxing snow skis in Texas in July. 🎿 🇨🇱</p>\n",
 				"content_text": "Just dropped off our skis to get waxed. Starting to get excited for Santiago next week!\n\nI do feel a bit silly waxing snow skis in Texas in July. 🎿 🇨🇱 \n",
-				"date_published": "2023-07-30T07:37:24+10:00",
+				"date_published": "2023-07-29T16:37:24-05:00",
 				"url": "https://micro.jerrytowler.com/2023/07/29/just-dropped-off.html"
 			},
 			{
@@ -428,7 +444,7 @@
 				
 				"content_html": "<p>Finished watching: <a href=\"https://www.themoviedb.org/movie/872585-oppenheimer\">Oppenheimer</a>. Superb acting from a cast I didn’t expect tells a story I of which only knew a small fraction. Fun sound design, although parts were noisier than they needed to be. Only real complaint is that it did not need all 180 minutes, and some bits dragged unnecessarily. 🍿</p>\n",
 				"content_text": "Finished watching: [Oppenheimer](https://www.themoviedb.org/movie/872585-oppenheimer). Superb acting from a cast I didn’t expect tells a story I of which only knew a small fraction. Fun sound design, although parts were noisier than they needed to be. Only real complaint is that it did not need all 180 minutes, and some bits dragged unnecessarily. 🍿\n",
-				"date_published": "2023-07-24T23:15:11+10:00",
+				"date_published": "2023-07-24T08:15:11-05:00",
 				"url": "https://micro.jerrytowler.com/2023/07/24/finished-watching-oppenheimer.html"
 			},
 			{
@@ -436,7 +452,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780281079650\">The One Hour Bible</a> by SPCK. Edited by Philip Law. A great idea—not paraphrasing or summarizing but eliding: using the actual words of the New Living Translation to tell the story of God in fewer words.</p>\n<p>Unfortunately, while this treatment works well for the Old Testament and most of the Gospels, they abridge Acts too much, and the rest of the New Testament disappears until Revelation 22. I know it doesn’t fit the format, but ironically one of the elided verses (2 Timothy 3:16) says, “<em>all</em> Scripture is useful.” 📚</p>",
 				"content_text": "Finished reading: [The One Hour Bible](https://micro.blog/books/9780281079650) by SPCK. Edited by Philip Law. A great idea—not paraphrasing or summarizing but eliding: using the actual words of the New Living Translation to tell the story of God in fewer words.\n\n<!--more-->\n\nUnfortunately, while this treatment works well for the Old Testament and most of the Gospels, they abridge Acts too much, and the rest of the New Testament disappears until Revelation 22. I know it doesn’t fit the format, but ironically one of the elided verses (2 Timothy 3:16) says, “*all* Scripture is useful.” 📚\n",
-				"date_published": "2023-07-24T23:09:58+10:00",
+				"date_published": "2023-07-24T08:09:58-05:00",
 				"url": "https://micro.jerrytowler.com/2023/07/24/finished-reading-the.html",
 				"tags": ["books"]
 			},
@@ -444,8 +460,8 @@
 				"id": "http://jatowler.micro.blog/2023/07/22/my-yoga-app.html",
 				
 				"content_html": "<p><a href=\"https://www.downdogapp.com\">My yoga app</a> introduced me to a new pose tonight: <a href=\"https://www.yogajournal.com/poses/locust-pose/\">locust pose</a>. I&rsquo;m reasonably certain you can see it in my heart rate just after the two-thirds mark. 🧘‍♂️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[My yoga app](https://www.downdogapp.com) introduced me to a new pose tonight: [locust pose](https://www.yogajournal.com/poses/locust-pose/). I'm reasonably certain you can see it in my heart rate just after the two-thirds mark. 🧘‍♂️\n\n<img src=\"uploads/2023/db3f6aaa19.jpg\" width=\"600\" height=\"92\" alt=\"\">\n",
-				"date_published": "2023-07-23T11:35:47+10:00",
+				"content_text": "[My yoga app](https://www.downdogapp.com) introduced me to a new pose tonight: [locust pose](https://www.yogajournal.com/poses/locust-pose/). I'm reasonably certain you can see it in my heart rate just after the two-thirds mark. 🧘‍♂️\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/db3f6aaa19.jpg\" width=\"600\" height=\"92\" alt=\"\">\n",
+				"date_published": "2023-07-22T20:35:47-05:00",
 				"url": "https://micro.jerrytowler.com/2023/07/22/my-yoga-app.html"
 			},
 			{
@@ -453,7 +469,7 @@
 				"title": "Non-Alcoholic Beer Replacements We've Tried, With Notes",
 				"content_html": "<p>We have tried a bunch of non-alcoholic (n/a) beers lately, looking for something that satisfies the desire for something bubbly and refreshing but doesn&rsquo;t have the associated buzz, drowsiness, lack of focus, terrible sleep, and other downsides of the high-ABV beverages we&rsquo;ve come to enjoy.</p>\n<p>This is an unordered list of the ones we&rsquo;ve tried with comments where applicable. All drinks with the same name as alcoholic beers are the non-alcoholic versions.</p>\n<ul>\n<li><a href=\"https://athleticbrewing.com\">Athletic</a> - has a ton of different flavors, most of them very expensive (&gt;$2/drink on their website); we&rsquo;ve only tried the beers, not the seltzers\n<ul>\n<li>Upside Dawn - a golden ale that has nothing to do with golden ale, but is tasty nonetheless; my wife&rsquo;s favorite n/a beer</li>\n<li>Cerveza Atletica - my wife&rsquo;s second-favorite n/a beer</li>\n</ul>\n</li>\n<li>Brooklyn Brewery <a href=\"https://brooklynbrewery.com/brooklyn-beers/non-alcoholic/special-effects-variety-pack/\">Special Effects</a>\n<ul>\n<li>Hoppy Amber - not on the top of my list for n/a beers, but comes in the variety pack, so what are you going to do?</li>\n<li>IPA - a little bit thicker than a real IPA would be, but without the bite of alcohol to balance it out</li>\n<li>Pils - I don&rsquo;t love alcoholic pils, so I&rsquo;m not to be trusted, but it&rsquo;s just as crisp and satisfying after a day in the woods (or the yard)</li>\n<li>Hazy IPA - delicious; as far as I&rsquo;m concerned, nearly a complete beer substitute—as long as you only like one flavor of IPA, because this is the only one I&rsquo;ve found that&rsquo;s this good</li>\n</ul>\n</li>\n<li>Deschutes <a href=\"https://www.deschutesbrewery.com/beer/na-black-butte-/\">Black Butte Porter</a> - different from the real thing, but delicious.</li>\n<li>Sierra Nevada <a href=\"https://sierranevada.com/brews/hop-splash/\">Hop Splash</a> &ldquo;hop water&rdquo; - a weird beverage that reminds you of beer but clearly isn&rsquo;t trying to actually be beer; recommended despite my use of the word &ldquo;weird&rdquo;</li>\n</ul>\n<h2 id=\"drinks-that-have-been-suggested-to-us-but-which-we-havent-tried-yet\">Drinks that have been suggested to us, but which we haven&rsquo;t tried yet</h2>\n<ul>\n<li>Independence Brewing <a href=\"https://checkout.independencebrewing.com/products/kaw-hop-water-6-pack\">KAW! Sparkling Hop Water</a></li>\n<li><a href=\"https://www.asahiinternational.com/stories/innovation/asahi-00-launch/\">Asahi Super Dry 0.0</a> - <a href=\"https://www.macpsy.ch/2023/07/18/relaxing-with-an.html\">recommended</a> by <a href=\"https://www.macpsy.ch\">@TheMacPsych</a></li>\n<li><a href=\"https://us.erdinger.de/beer/non-alcoholic.html\">Erdinger Non-Alcoholic</a> - also <a href=\"https://micro.blog/TheMacPsych/21076988\">recommended</a> by <a href=\"https://micro.blog/TheMacPsych\">@TheMacPsych</a></li>\n<li><a href=\"https://www.guinness.com/en/beers/guinness-zero\">Guinness 0.0</a> - recommended by <a href=\"https://micro.blog/BenSouthwood/21078237\">many</a> <a href=\"https://micro.blog/TheMacPsych/21076988\">people</a></li>\n<li><a href=\"https://www.heineken.com/us/en/our-beers/heineken-0-0\">Heineken 0.0</a> - recommended by seemingly every ad on every Formula 1 track for the last few years</li>\n<li><a href=\"https://www.cruxfermentation.com/beer/\">crux fermentation project</a> - recommended by <a href=\"https://micro.blog/jean\">@jean</a>, specifically the No-Mo Hazy</li>\n</ul>\n<p>We still love great beers and ciders, and I&rsquo;m sure you&rsquo;ll see us at <a href=\"https://thedooryardsa.com\">The Dooryard</a> this weekend, but this kind of variety is a wonderful change from the previous alcohol-or-nothing regime.</p>\n",
 				"content_text": "We have tried a bunch of non-alcoholic (n/a) beers lately, looking for something that satisfies the desire for something bubbly and refreshing but doesn't have the associated buzz, drowsiness, lack of focus, terrible sleep, and other downsides of the high-ABV beverages we've come to enjoy.\n\nThis is an unordered list of the ones we've tried with comments where applicable. All drinks with the same name as alcoholic beers are the non-alcoholic versions.\n\n* [Athletic](https://athleticbrewing.com) - has a ton of different flavors, most of them very expensive (>$2/drink on their website); we've only tried the beers, not the seltzers\n    * Upside Dawn - a golden ale that has nothing to do with golden ale, but is tasty nonetheless; my wife's favorite n/a beer\n    * Cerveza Atletica - my wife's second-favorite n/a beer\n* Brooklyn Brewery [Special Effects](https://brooklynbrewery.com/brooklyn-beers/non-alcoholic/special-effects-variety-pack/)\n    * Hoppy Amber - not on the top of my list for n/a beers, but comes in the variety pack, so what are you going to do?\n    * IPA - a little bit thicker than a real IPA would be, but without the bite of alcohol to balance it out\n    * Pils - I don't love alcoholic pils, so I'm not to be trusted, but it's just as crisp and satisfying after a day in the woods (or the yard)\n    * Hazy IPA - delicious; as far as I'm concerned, nearly a complete beer substitute—as long as you only like one flavor of IPA, because this is the only one I've found that's this good\n* Deschutes [Black Butte Porter](https://www.deschutesbrewery.com/beer/na-black-butte-/) - different from the real thing, but delicious.\n* Sierra Nevada [Hop Splash](https://sierranevada.com/brews/hop-splash/) \"hop water\" - a weird beverage that reminds you of beer but clearly isn't trying to actually be beer; recommended despite my use of the word \"weird\"\n\n## Drinks that have been suggested to us, but which we haven't tried yet\n\n* Independence Brewing [KAW! Sparkling Hop Water](https://checkout.independencebrewing.com/products/kaw-hop-water-6-pack)\n* [Asahi Super Dry 0.0](https://www.asahiinternational.com/stories/innovation/asahi-00-launch/) - [recommended](https://www.macpsy.ch/2023/07/18/relaxing-with-an.html) by [@TheMacPsych](https://www.macpsy.ch)\n* [Erdinger Non-Alcoholic](https://us.erdinger.de/beer/non-alcoholic.html) - also [recommended](https://micro.blog/TheMacPsych/21076988) by [@TheMacPsych](https://micro.blog/TheMacPsych)\n* [Guinness 0.0](https://www.guinness.com/en/beers/guinness-zero) - recommended by [many](https://micro.blog/BenSouthwood/21078237) [people](https://micro.blog/TheMacPsych/21076988)\n* [Heineken 0.0](https://www.heineken.com/us/en/our-beers/heineken-0-0) - recommended by seemingly every ad on every Formula 1 track for the last few years\n* [crux fermentation project](https://www.cruxfermentation.com/beer/) - recommended by [@jean](https://micro.blog/jean), specifically the No-Mo Hazy\n\nWe still love great beers and ciders, and I'm sure you'll see us at [The Dooryard](https://thedooryardsa.com) this weekend, but this kind of variety is a wonderful change from the previous alcohol-or-nothing regime.\n",
-				"date_published": "2023-07-21T13:12:59+10:00",
+				"date_published": "2023-07-20T22:12:59-05:00",
 				"url": "https://micro.jerrytowler.com/2023/07/20/nonalcoholic-beer-replacements.html"
 			},
 			{
@@ -461,7 +477,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780310113188\">For the Body</a> by Timothy C. Tennent. A critical exposition of the need for the modern church to develop and espouse a positive theology of the body rather than the decades of pure negative theology: “don’t do that; that’s wrong.”</p>\n<p>A great starter book on the topic, although the last two chapters are aimed squarely at pastors, not laypeople (they still have value, but not as much).</p>\n<p>My primary takeaway is that developing a positive, holistic theology of the body allows us to see our sexuality, our bodies, and ourselves in the context of the complete gospel, not by the light of a few specific verses that mostly just make people angry regardless of what they believe. 📚</p>",
 				"content_text": "Finished reading: [For the Body](https://micro.blog/books/9780310113188) by Timothy C. Tennent. A critical exposition of the need for the modern church to develop and espouse a positive theology of the body rather than the decades of pure negative theology: “don’t do that; that’s wrong.”\n\n<!--more-->\n\nA great starter book on the topic, although the last two chapters are aimed squarely at pastors, not laypeople (they still have value, but not as much).\n\nMy primary takeaway is that developing a positive, holistic theology of the body allows us to see our sexuality, our bodies, and ourselves in the context of the complete gospel, not by the light of a few specific verses that mostly just make people angry regardless of what they believe. 📚\n",
-				"date_published": "2023-07-19T14:17:28+10:00",
+				"date_published": "2023-07-18T23:17:28-05:00",
 				"url": "https://micro.jerrytowler.com/2023/07/18/finished-reading-for.html",
 				"tags": ["books"]
 			},
@@ -470,7 +486,7 @@
 				
 				"content_html": "<p>Finished watching: <a href=\"https://www.themoviedb.org/tv/125988-silo\">Silo (2023)</a>. Incredibly slow start, but every episode was better than the last, and the final scene is worth all ten episodes. I&rsquo;m not sure if it was better that I&rsquo;d read the books first, or worse because I didn&rsquo;t have any suspense. 🍿</p>\n",
 				"content_text": "Finished watching: [Silo (2023)](https://www.themoviedb.org/tv/125988-silo). Incredibly slow start, but every episode was better than the last, and the final scene is worth all ten episodes. I'm not sure if it was better that I'd read the books first, or worse because I didn't have any suspense. 🍿\n",
-				"date_published": "2023-07-16T15:06:35+10:00",
+				"date_published": "2023-07-16T00:06:35-05:00",
 				"url": "https://micro.jerrytowler.com/2023/07/16/finished-watching-silo.html"
 			},
 			{
@@ -478,7 +494,7 @@
 				
 				"content_html": "<p>I had forgotten how much getting a car serviced costs. My 2014 Altima has been solid since I got it in 2016, modulo oil changes and tire changes, but today it needed some (expensive) help.</p>\n<p>It was a lot of time and a lot of money, but I guess I can’t complain about one expensive trip in seven years.</p>\n",
 				"content_text": "I had forgotten how much getting a car serviced costs. My 2014 Altima has been solid since I got it in 2016, modulo oil changes and tire changes, but today it needed some (expensive) help.\n\nIt was a lot of time and a lot of money, but I guess I can’t complain about one expensive trip in seven years.\n",
-				"date_published": "2023-07-16T09:49:28+10:00",
+				"date_published": "2023-07-15T18:49:28-05:00",
 				"url": "https://micro.jerrytowler.com/2023/07/15/i-had-forgotten.html"
 			},
 			{
@@ -486,7 +502,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780316517904\">Senlin Ascends</a> by Josiah Bancroft. Tremendously dissatisfying. A chaotic run through a fascinating world, but the plot was so contrived to prevent progress as to frustrate me with every page turn.</p>\n<p>Not recommended. If you want a weird world, go read <em>Piranesi</em> instead. 📚</p>\n",
 				"content_text": "Finished reading: [Senlin Ascends](https://micro.blog/books/9780316517904) by Josiah Bancroft. Tremendously dissatisfying. A chaotic run through a fascinating world, but the plot was so contrived to prevent progress as to frustrate me with every page turn.\n\nNot recommended. If you want a weird world, go read *Piranesi* instead. 📚\n",
-				"date_published": "2023-07-16T04:34:22+10:00",
+				"date_published": "2023-07-15T13:34:22-05:00",
 				"url": "https://micro.jerrytowler.com/2023/07/15/finished-reading-senlin.html",
 				"tags": ["books"]
 			},
@@ -494,8 +510,8 @@
 				"id": "http://jatowler.micro.blog/2023/07/10/my-first-ios.html",
 				"title": "My First iOS Apps",
 				"content_html": "<p>Today, <a href=\"https://mstdn.social/@pschiller/110690395011183022\">Phil Schiller celebrated the 15th anniversary of the iOS App Store</a>, and many people posted the first apps they downloaded. Here are mine.</p>\n<ul>\n<li>AIM</li>\n<li>Google Earth</li>\n<li>Mocha VNC Lite</li>\n<li>BJCP Styles<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup></li>\n<li>Holy Bible <sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup></li>\n<li>Cocktails - The Original<sup id=\"fnref:3\"><a href=\"#fn:3\" class=\"footnote-ref\" role=\"doc-noteref\">3</a></sup></li>\n<li>Mantis Bible Study<sup id=\"fnref:4\"><a href=\"#fn:4\" class=\"footnote-ref\" role=\"doc-noteref\">4</a></sup></li>\n<li>Bible (YouVersion)<sup id=\"fnref:5\"><a href=\"#fn:5\" class=\"footnote-ref\" role=\"doc-noteref\">5</a></sup></li>\n</ul>\n<!-- raw HTML omitted -->\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>Beer Judge Certification Program, all about different styles of beers and how to evaluate them. Inspired by my undergrad courses in fermented beverages.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\" role=\"doc-endnote\">\n<p>I don&rsquo;t even remember this Bible app. I&rsquo;ve used the YouVersion app almost every day since October 27, 2008.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:3\" role=\"doc-endnote\">\n<p>I&rsquo;m sensing a theme.&#160;<a href=\"#fnref:3\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:4\" role=\"doc-endnote\">\n<p>I&rsquo;m sensing another theme.&#160;<a href=\"#fnref:4\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:5\" role=\"doc-endnote\">\n<p>I have used this app more than any other, with the possible exception of Apple&rsquo;s Messages app.&#160;<a href=\"#fnref:5\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>",
-				"content_text": "Today, [Phil Schiller celebrated the 15th anniversary of the iOS App Store](https://mstdn.social/@pschiller/110690395011183022), and many people posted the first apps they downloaded. Here are mine.\n\n<!--more-->\n\n* AIM\n* Google Earth\n* Mocha VNC Lite\n* BJCP Styles[^beer]\n* Holy Bible [^bible]\n* Cocktails - The Original[^cocktails]\n* Mantis Bible Study[^mantis]\n* Bible (YouVersion)[^youversion]\n\n[^beer]: Beer Judge Certification Program, all about different styles of beers and how to evaluate them. Inspired by my undergrad courses in fermented beverages.\n[^bible]: I don't even remember this Bible app. I've used the YouVersion app almost every day since October 27, 2008.\n[^cocktails]: I'm sensing a theme.\n[^mantis]: I'm sensing another theme.\n[^youversion]: I have used this app more than any other, with the possible exception of Apple's Messages app.\n\n<img src=\"uploads/2023/image.jpg\" width=\"276\" height=\"600\" alt=\"My first eight app downloads, all on October 27, 2008: AIM, Google Earth, Mocha VNC Lite, BJCP Styles, Holy Bible, Cocktails - The Original, Mantis Bible Study, Bible. The Facebook app logo is just barely peeking from the top.\">\n",
-				"date_published": "2023-07-11T13:47:37+10:00",
+				"content_text": "Today, [Phil Schiller celebrated the 15th anniversary of the iOS App Store](https://mstdn.social/@pschiller/110690395011183022), and many people posted the first apps they downloaded. Here are mine.\n\n<!--more-->\n\n* AIM\n* Google Earth\n* Mocha VNC Lite\n* BJCP Styles[^beer]\n* Holy Bible [^bible]\n* Cocktails - The Original[^cocktails]\n* Mantis Bible Study[^mantis]\n* Bible (YouVersion)[^youversion]\n\n[^beer]: Beer Judge Certification Program, all about different styles of beers and how to evaluate them. Inspired by my undergrad courses in fermented beverages.\n[^bible]: I don't even remember this Bible app. I've used the YouVersion app almost every day since October 27, 2008.\n[^cocktails]: I'm sensing a theme.\n[^mantis]: I'm sensing another theme.\n[^youversion]: I have used this app more than any other, with the possible exception of Apple's Messages app.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/image.jpg\" width=\"276\" height=\"600\" alt=\"My first eight app downloads, all on October 27, 2008: AIM, Google Earth, Mocha VNC Lite, BJCP Styles, Holy Bible, Cocktails - The Original, Mantis Bible Study, Bible. The Facebook app logo is just barely peeking from the top.\">\n",
+				"date_published": "2023-07-10T22:47:37-05:00",
 				"url": "https://micro.jerrytowler.com/2023/07/10/my-first-ios.html"
 			},
 			{
@@ -503,7 +519,7 @@
 				"title": "Pharrell Williams's \"Happy\" as a Spenserian Sonnet",
 				"content_html": "<p>Back in 2014, there was a Twitter account, or maybe a Tumblr account, that published pop songs as sonnets<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. I loved the spin on genre, but I noticed that they were all Petrarchan (Italian) sonnets, which go ABBA ABBA CDE CDE, or Shakespearean (English) sonnets, which go ABAB CDCD EFEF GG.</p>\n<p>I complained on Twitter that we needed Spenserian ones, which have a harder rhyme scheme: ABAB BCBC CDCD EE. But you shouldn&rsquo;t complain without offering a solution, so I give you my offering:</p>\n<blockquote>\n<p>Tho' oft my speech ere uttering seem mad,<br>\nFair Helios signals end of labor&rsquo;s reign<br>\nO&rsquo;er you and I, who, lightened, upward gad&mdash;<br>\nAscend beyond the heav&rsquo;ns' celestial plane<br>\nLo, trumpets sound our doom, and promise pain:<br>\nYour harbinger I welcome, arms ope&rsquo;d wide<br>\nFor I, clothèd in joy, will be not slain<br>\nLet not your countenance be hurt, nor pride<br>\nKnow I, and I alone, yield to no tide<br>\nNo force of earth, nor beast, nor god could quell<br>\nThe rise and rise unstoppable inside<br>\nOf happiness whose bounds no man can tell<br>\n&mdash;Now strike! your hands together, join the din<br>\nA roofless room, a bonafide boon, within.</p>\n</blockquote>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>Apparently they published the collection in <a href=\"https://micro.blog/books/9780008137199\">a book</a>.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
 				"content_text": "Back in 2014, there was a Twitter account, or maybe a Tumblr account, that published pop songs as sonnets[^1]. I loved the spin on genre, but I noticed that they were all Petrarchan (Italian) sonnets, which go ABBA ABBA CDE CDE, or Shakespearean (English) sonnets, which go ABAB CDCD EFEF GG.\n\nI complained on Twitter that we needed Spenserian ones, which have a harder rhyme scheme: ABAB BCBC CDCD EE. But you shouldn't complain without offering a solution, so I give you my offering:\n\n> Tho' oft my speech ere uttering seem mad,  \n> Fair Helios signals end of labor's reign  \n> O'er you and I, who, lightened, upward gad---  \n> Ascend beyond the heav'ns' celestial plane  \n> Lo, trumpets sound our doom, and promise pain:  \n> Your harbinger I welcome, arms ope'd wide  \n> For I, clothèd in joy, will be not slain  \n> Let not your countenance be hurt, nor pride  \n> Know I, and I alone, yield to no tide  \n> No force of earth, nor beast, nor god could quell  \n> The rise and rise unstoppable inside  \n> Of happiness whose bounds no man can tell  \n> ---Now strike! your hands together, join the din  \n> A roofless room, a bonafide boon, within.\n\n[^1]: Apparently they published the collection in [a book](https://micro.blog/books/9780008137199).\n",
-				"date_published": "2023-07-05T02:33:29+10:00",
+				"date_published": "2023-07-04T11:33:29-05:00",
 				"url": "https://micro.jerrytowler.com/2023/07/04/pharrell-williamss-happy.html"
 			},
 			{
@@ -511,31 +527,31 @@
 				
 				"content_html": "<p>Finished watching: Ted Lasso. Three seasons and only two clunkers. Amazing record. It’s not common that we get a mostly wholesome high-quality smash hit show, and I’m so glad to have seen it. Believe! 🍿</p>\n",
 				"content_text": "Finished watching: Ted Lasso. Three seasons and only two clunkers. Amazing record. It’s not common that we get a mostly wholesome high-quality smash hit show, and I’m so glad to have seen it. Believe! 🍿\n",
-				"date_published": "2023-07-03T12:29:57+10:00",
+				"date_published": "2023-07-02T21:29:57-05:00",
 				"url": "https://micro.jerrytowler.com/2023/07/02/finished-watching-ted.html"
 			},
 			{
 				"id": "http://jatowler.micro.blog/2023/07/01/ive-been-obsessed.html",
 				"title": "I Made a Swift Game",
 				"content_html": "<p>I&rsquo;ve been obsessed with Demonin&rsquo;s <a href=\"https://demonin.com/games/arrayGame/\">Array Game</a> since Andy Baio <a href=\"https://waxy.org/2023/06/array-game/\">linked to it</a> a month ago.</p>\n<p>After getting effectively to the current endgame (there&rsquo;s no real end, but at some point there&rsquo;s no &ldquo;next upgrade&rdquo;), it occurred to me that the simplicity of the game was ideal for me to try learning Swift again.</p>\n<p>I dove all the way into Swift and SwiftUI, first using <a href=\"https://www.apple.com/swift/playgrounds/\">Swift Playgrounds</a> and then Xcode directly. It&rsquo;s amazing how quickly a simple app can come together using all these tools and the crazy-fast <a href=\"https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop\">REPL</a> that is Playgrounds.</p>\n<p>Here&rsquo;s a video of the first level as of today.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I've been obsessed with Demonin's [Array Game](https://demonin.com/games/arrayGame/) since Andy Baio [linked to it](https://waxy.org/2023/06/array-game/) a month ago.\n\nAfter getting effectively to the current endgame (there's no real end, but at some point there's no \"next upgrade\"), it occurred to me that the simplicity of the game was ideal for me to try learning Swift again.\n\nI dove all the way into Swift and SwiftUI, first using [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) and then Xcode directly. It's amazing how quickly a simple app can come together using all these tools and the crazy-fast [REPL](https://en.wikipedia.org/wiki/Read–eval–print_loop) that is Playgrounds.\n\nHere's a video of the first level as of today.\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://micro.jerrytowler.com/uploads/2023/video.mov\" width=\"640\" height=\"1388\" poster=\"https://micro.jerrytowler.com/uploads/2023/82f6aae94b.png\" preload=\"none\"></video>\n",
-				"date_published": "2023-07-02T07:48:54+10:00",
+				"content_text": "I've been obsessed with Demonin's [Array Game](https://demonin.com/games/arrayGame/) since Andy Baio [linked to it](https://waxy.org/2023/06/array-game/) a month ago.\n\nAfter getting effectively to the current endgame (there's no real end, but at some point there's no \"next upgrade\"), it occurred to me that the simplicity of the game was ideal for me to try learning Swift again.\n\nI dove all the way into Swift and SwiftUI, first using [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) and then Xcode directly. It's amazing how quickly a simple app can come together using all these tools and the crazy-fast [REPL](https://en.wikipedia.org/wiki/Read–eval–print_loop) that is Playgrounds.\n\nHere's a video of the first level as of today.\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/1214/2023/video.mov\" width=\"640\" height=\"1388\" poster=\"https://micro.jerrytowler.com/uploads/2023/82f6aae94b.png\" preload=\"none\"></video>\n",
+				"date_published": "2023-07-01T16:48:54-05:00",
 				"url": "https://micro.jerrytowler.com/2023/07/01/ive-been-obsessed.html"
 			},
 			{
 				"id": "http://jatowler.micro.blog/2023/07/01/i-just-accidentally.html",
 				
 				"content_html": "<p>I just accidentally used the <a href=\"https://support.apple.com/en-us/HT212757\">Universal Control</a> feature built into macOS Ventura. I had set up my work MacBook Pro next to the monitor for my personal Mac mini, where I used to keep my laptop when it was connected to this monitor. So I naturally just hauled the cursor beyond the side of the screen, and it <em>magically</em> kept going onto the laptop screen!</p>\n<p>It took me several seconds to figure out that something special had happened and that my cursor had jumped from one machine to the other.</p>\n<p>Something weird: how did it know which side of my monitor the laptop was on? It could guess by choosing the direction you try to move your cursor, exactly like I did, but it&rsquo;s still absolutely delightful.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I just accidentally used the [Universal Control](https://support.apple.com/en-us/HT212757) feature built into macOS Ventura. I had set up my work MacBook Pro next to the monitor for my personal Mac mini, where I used to keep my laptop when it was connected to this monitor. So I naturally just hauled the cursor beyond the side of the screen, and it *magically* kept going onto the laptop screen!\r\n\r\nIt took me several seconds to figure out that something special had happened and that my cursor had jumped from one machine to the other.\r\n\r\nSomething weird: how did it know which side of my monitor the laptop was on? It could guess by choosing the direction you try to move your cursor, exactly like I did, but it's still absolutely delightful.\n\n<img src=\"uploads/2023/screenshot-2023-07-01-at-2.18.57-pm.png\" width=\"600\" height=\"115\" alt=\"Screenshot of the System Settings control that allows the magic I just witnessed.\r&10;\r&10;It says, &quot;Push through the edge of a display to connect a nearby Mac or iPad. \r&10;Allow the pointer to connect to a nearby Mac or iPad by pushing against the edge of a display.&quot;\">\n",
-				"date_published": "2023-07-02T05:21:10+10:00",
+				"content_text": "I just accidentally used the [Universal Control](https://support.apple.com/en-us/HT212757) feature built into macOS Ventura. I had set up my work MacBook Pro next to the monitor for my personal Mac mini, where I used to keep my laptop when it was connected to this monitor. So I naturally just hauled the cursor beyond the side of the screen, and it *magically* kept going onto the laptop screen!\r\n\r\nIt took me several seconds to figure out that something special had happened and that my cursor had jumped from one machine to the other.\r\n\r\nSomething weird: how did it know which side of my monitor the laptop was on? It could guess by choosing the direction you try to move your cursor, exactly like I did, but it's still absolutely delightful.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/screenshot-2023-07-01-at-2.18.57-pm.png\" width=\"600\" height=\"115\" alt=\"Screenshot of the System Settings control that allows the magic I just witnessed.\r&10;\r&10;It says, &quot;Push through the edge of a display to connect a nearby Mac or iPad. \r&10;Allow the pointer to connect to a nearby Mac or iPad by pushing against the edge of a display.&quot;\">\n",
+				"date_published": "2023-07-01T14:21:10-05:00",
 				"url": "https://micro.jerrytowler.com/2023/07/01/i-just-accidentally.html"
 			},
 			{
 				"id": "http://jatowler.micro.blog/2023/07/01/gave-a-bunch.html",
 				
 				"content_html": "<p>Gave a bunch of stuff back to Apple today. These computers got both Meera and me through college and grad school, and it’s time to let go.</p>\n<p>The white iPod (3rd gen, I think) was a birthday present when I turned 17 or 18; the iPods Touch tided me over until Verizon got the iPhone, and that iPhone 5s is still the best design ever made.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Gave a bunch of stuff back to Apple today. These computers got both Meera and me through college and grad school, and it’s time to let go.\n\nThe white iPod (3rd gen, I think) was a birthday present when I turned 17 or 18; the iPods Touch tided me over until Verizon got the iPhone, and that iPhone 5s is still the best design ever made. \n\n<img src=\"uploads/2023/aeb3162567864cfdadcc8155bd01958f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-07-02T02:41:30+10:00",
+				"content_text": "Gave a bunch of stuff back to Apple today. These computers got both Meera and me through college and grad school, and it’s time to let go.\n\nThe white iPod (3rd gen, I think) was a birthday present when I turned 17 or 18; the iPods Touch tided me over until Verizon got the iPhone, and that iPhone 5s is still the best design ever made. \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/aeb3162567864cfdadcc8155bd01958f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-07-01T11:41:30-05:00",
 				"url": "https://micro.jerrytowler.com/2023/07/01/gave-a-bunch.html",
 				"tags": ["photos"]
 			},
@@ -543,8 +559,8 @@
 				"id": "http://jatowler.micro.blog/2023/06/25/makeshift-parfait-at.html",
 				
 				"content_html": "<p>Makeshift parfait at the BOS (Logan) Admiral’s Club this morning waiting for our flight back to Austin. 📸</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Makeshift parfait at the BOS (Logan) Admiral’s Club this morning waiting for our flight back to Austin. 📸\n\n<img src=\"uploads/2023/1c0dcbcab1db42eb8b0d63961e6a2f26.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-06-26T09:48:41+10:00",
+				"content_text": "Makeshift parfait at the BOS (Logan) Admiral’s Club this morning waiting for our flight back to Austin. 📸\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/1c0dcbcab1db42eb8b0d63961e6a2f26.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-25T18:48:41-05:00",
 				"url": "https://micro.jerrytowler.com/2023/06/25/makeshift-parfait-at.html",
 				"tags": ["photos","travel"]
 			},
@@ -552,8 +568,8 @@
 				"id": "http://jatowler.micro.blog/2023/06/24/brunch-at-in.html",
 				
 				"content_html": "<p>Brunch at In A Pickle in Waltham ahead of a wedding yesterday afternoon. Hot honey chicken and waffles, pumpkin bread French toast, and coffee. Perfect.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Brunch at In A Pickle in Waltham ahead of a wedding yesterday afternoon. Hot honey chicken and waffles, pumpkin bread French toast, and coffee. Perfect. \n\n<img src=\"uploads/2023/6f95f90a4c8347128b9e10168c284a18.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-06-25T07:13:11+10:00",
+				"content_text": "Brunch at In A Pickle in Waltham ahead of a wedding yesterday afternoon. Hot honey chicken and waffles, pumpkin bread French toast, and coffee. Perfect. \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/6f95f90a4c8347128b9e10168c284a18.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-24T16:13:11-05:00",
 				"url": "https://micro.jerrytowler.com/2023/06/24/brunch-at-in.html",
 				"tags": ["photos","travel"]
 			},
@@ -562,15 +578,15 @@
 				
 				"content_html": "<p>Today I discovered Merlin Mann&rsquo;s <a href=\"https://github.com/merlinmann/wisdom\">Wisdom Project</a>, and it&rsquo;s the kind of thing at least part of my Micro.blog should aspire to be.</p>\n<p>Little snippets that are helpful to me now and might be helpful to me or others later.</p>\n<p>Some of them are very #wisdom:</p>\n<blockquote>\n<p>Like it or not, you&rsquo;re always practicing something. Put another way, whichever muscle you exercise the most can&rsquo;t help but strengthen. Often to the detriment of others.</p>\n</blockquote>\n<p>And some are pure Merlin:</p>\n<blockquote>\n<p>Your calendar represents a portfolio of promises to your future self. Treat it that way.</p>\n</blockquote>\n",
 				"content_text": "Today I discovered Merlin Mann's [Wisdom Project](https://github.com/merlinmann/wisdom), and it's the kind of thing at least part of my Micro.blog should aspire to be.\n\nLittle snippets that are helpful to me now and might be helpful to me or others later.\n\nSome of them are very #wisdom:\n\n> Like it or not, you're always practicing something. Put another way, whichever muscle you exercise the most can't help but strengthen. Often to the detriment of others.\n\nAnd some are pure Merlin:\n\n> Your calendar represents a portfolio of promises to your future self. Treat it that way.\n",
-				"date_published": "2023-06-21T12:48:17+10:00",
+				"date_published": "2023-06-20T21:48:17-05:00",
 				"url": "https://micro.jerrytowler.com/2023/06/20/today-i-discovered.html"
 			},
 			{
 				"id": "http://jatowler.micro.blog/2023/06/19/mostly-final-desk.html",
 				
 				"content_html": "<p>Mostly final desk setup, shown here during a video conference we were both attending (on the iPad). The room looks mostly the same, except it has real curtains now and more stuff on the shelves. And we don’t use it nearly as often—we’re in the office more often than not.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Mostly final desk setup, shown here during a video conference we were both attending (on the iPad). The room looks mostly the same, except it has real curtains now and more stuff on the shelves. And we don’t use it nearly as often—we’re in the office more often than not. \n\n<img src=\"uploads/2023/934132e5e631433985e6fa17ecd307f9.jpg\" width=\"600\" height=\"534\" alt=\"\">\n",
-				"date_published": "2023-06-20T13:45:47+10:00",
+				"content_text": "Mostly final desk setup, shown here during a video conference we were both attending (on the iPad). The room looks mostly the same, except it has real curtains now and more stuff on the shelves. And we don’t use it nearly as often—we’re in the office more often than not. \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/934132e5e631433985e6fa17ecd307f9.jpg\" width=\"600\" height=\"534\" alt=\"\">\n",
+				"date_published": "2023-06-19T22:45:47-05:00",
 				"url": "https://micro.jerrytowler.com/2023/06/19/mostly-final-desk.html",
 				"tags": ["photos"]
 			},
@@ -578,8 +594,8 @@
 				"id": "http://jatowler.micro.blog/2023/06/18/our-other-earlycovid.html",
 				
 				"content_html": "<p>Our other early-COVID desk, set up not in the office but the guest bedroom. Like everyone else, my wife and I spent too much time on videoconferences to sit in the same room, so we were fortunate to have space to spread out like this. Same monitor, different laptop and stand. No K’nex.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Our other early-COVID desk, set up not in the office but the guest bedroom. Like everyone else, my wife and I spent too much time on videoconferences to sit in the same room, so we were fortunate to have space to spread out like this. Same monitor, different laptop and stand. No K’nex. \n\n<img src=\"uploads/2023/60031f33ead74c0f80a25bc2d3411ed9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-06-19T09:28:56+10:00",
+				"content_text": "Our other early-COVID desk, set up not in the office but the guest bedroom. Like everyone else, my wife and I spent too much time on videoconferences to sit in the same room, so we were fortunate to have space to spread out like this. Same monitor, different laptop and stand. No K’nex. \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/60031f33ead74c0f80a25bc2d3411ed9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-06-18T18:28:56-05:00",
 				"url": "https://micro.jerrytowler.com/2023/06/18/our-other-earlycovid.html",
 				"tags": ["photos"]
 			},
@@ -587,8 +603,8 @@
 				"id": "http://jatowler.micro.blog/2023/06/17/standing-desk-evolution.html",
 				
 				"content_html": "<p>Standing desk evolution, a few weeks in COVID. At this point, we still had the blinds open to remind us what “outside” looked like. It still kind of felt like vacation, not yet like the terrifying pandemic it turned out to be. (It did, and still does, make me wish I were indie.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Standing desk evolution, a few weeks in COVID. At this point, we still had the blinds open to remind us what “outside” looked like. It still kind of felt like vacation, not yet like the terrifying pandemic it turned out to be. (It did, and still does, make me wish I were indie.) \n\n<img src=\"uploads/2023/d5327209be634458bfa6a4ffb48ceb60.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-06-18T09:14:39+10:00",
+				"content_text": "Standing desk evolution, a few weeks in COVID. At this point, we still had the blinds open to remind us what “outside” looked like. It still kind of felt like vacation, not yet like the terrifying pandemic it turned out to be. (It did, and still does, make me wish I were indie.) \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/d5327209be634458bfa6a4ffb48ceb60.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-06-17T18:14:39-05:00",
 				"url": "https://micro.jerrytowler.com/2023/06/17/standing-desk-evolution.html",
 				"tags": ["photos"]
 			},
@@ -596,8 +612,8 @@
 				"id": "http://jatowler.micro.blog/2023/06/16/our-home-office.html",
 				
 				"content_html": "<p>Our home office desk before COVID. Made of an old kitchen table and K’nex, naturally. 📸</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Our home office desk before COVID. Made of an old kitchen table and K’nex, naturally. 📸\n\n<img src=\"uploads/2023/7c911f55a2f440948c93e25ff9e2ebe4.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-06-17T10:24:18+10:00",
+				"content_text": "Our home office desk before COVID. Made of an old kitchen table and K’nex, naturally. 📸\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/7c911f55a2f440948c93e25ff9e2ebe4.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-06-16T19:24:18-05:00",
 				"url": "https://micro.jerrytowler.com/2023/06/16/our-home-office.html",
 				"tags": ["photos"]
 			},
@@ -605,8 +621,8 @@
 				"id": "http://jatowler.micro.blog/2023/06/15/day-three-of.html",
 				
 				"content_html": "<p>Day three of desk pictures. This one is an actual working desk of mine from my first apartment in San Antonio after grad school. It looks so much like my grad school desk in my Blackburg apartment I first guessed that&rsquo;s what it was before looking at the location info.</p>\n<p>Almost every element in this photo tells a story, at least to me. Maybe that would also make a good series of posts.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day three of desk pictures. This one is an actual working desk of mine from my first apartment in San Antonio after grad school. It looks so much like my grad school desk in my Blackburg apartment I first guessed that's what it was before looking at the location info.\n\nAlmost every element in this photo tells a story, at least to me. Maybe that would also make a good series of posts. \n\n<img src=\"uploads/2023/124830f3a8.jpeg\" width=\"600\" height=\"448\" alt=\"A desk made out of a door, covered in equipment: laptop, hard drives, speakers, turntables, lamp, working papers, notebooks, office supplies... it's a mess.\">\n",
-				"date_published": "2023-06-16T02:20:06+10:00",
+				"content_text": "Day three of desk pictures. This one is an actual working desk of mine from my first apartment in San Antonio after grad school. It looks so much like my grad school desk in my Blackburg apartment I first guessed that's what it was before looking at the location info.\n\nAlmost every element in this photo tells a story, at least to me. Maybe that would also make a good series of posts. \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/124830f3a8.jpeg\" width=\"600\" height=\"448\" alt=\"A desk made out of a door, covered in equipment: laptop, hard drives, speakers, turntables, lamp, working papers, notebooks, office supplies... it's a mess.\">\n",
+				"date_published": "2023-06-15T11:20:06-05:00",
 				"url": "https://micro.jerrytowler.com/2023/06/15/day-three-of.html",
 				"tags": ["photos"]
 			},
@@ -614,8 +630,8 @@
 				"id": "http://jatowler.micro.blog/2023/06/14/yesterdays-desk-post.html",
 				
 				"content_html": "<p>Yesterday’s desk post made me think of other interesting writing desks I’ve encountered.</p>\n<p>This one is from our house in Sóller, Majorca, Spain, from November 2021.</p>\n<p>An iPad instead of a MacBook because this was a vacation, not a business trip.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Yesterday’s desk post made me think of other interesting writing desks I’ve encountered.\n\nThis one is from our house in Sóller, Majorca, Spain, from November 2021.\n\nAn iPad instead of a MacBook because this was a vacation, not a business trip. \n\n<img src=\"uploads/2023/d464f10ada.jpg\" width=\"600\" height=\"450\" alt=\"Black-and-white photo of a wooden writing desk made of an old sewing machine, topped by an iPad, keyboard, water bottle, and wine glass.\">\n",
-				"date_published": "2023-06-15T10:52:17+10:00",
+				"content_text": "Yesterday’s desk post made me think of other interesting writing desks I’ve encountered.\n\nThis one is from our house in Sóller, Majorca, Spain, from November 2021.\n\nAn iPad instead of a MacBook because this was a vacation, not a business trip. \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/d464f10ada.jpg\" width=\"600\" height=\"450\" alt=\"Black-and-white photo of a wooden writing desk made of an old sewing machine, topped by an iPad, keyboard, water bottle, and wine glass.\">\n",
+				"date_published": "2023-06-14T19:52:17-05:00",
 				"url": "https://micro.jerrytowler.com/2023/06/14/yesterdays-desk-post.html",
 				"tags": ["photos","travel"]
 			},
@@ -623,8 +639,8 @@
 				"id": "http://jatowler.micro.blog/2023/06/13/my-workspace-at.html",
 				
 				"content_html": "<p>My workspace at Hotel Bellevue in Cazaubon, France, a few weeks ago. I love the aesthetic, but it made me feel like I should be writing a novel instead of PowerPoint slides. 📸</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My workspace at Hotel Bellevue in Cazaubon, France, a few weeks ago. I love the aesthetic, but it made me feel like I should be writing a novel instead of PowerPoint slides. 📸\n\n<img src=\"uploads/2023/fb69cf316b.jpg\" width=\"600\" height=\"449\" alt=\"Photo of a small wooden writing desk dominated by a MacBook Pro and over-ear headphones.\">\n",
-				"date_published": "2023-06-14T11:21:22+10:00",
+				"content_text": "My workspace at Hotel Bellevue in Cazaubon, France, a few weeks ago. I love the aesthetic, but it made me feel like I should be writing a novel instead of PowerPoint slides. 📸\n\n<img src=\"https://jatowler.micro.blog/uploads/2023/fb69cf316b.jpg\" width=\"600\" height=\"449\" alt=\"Photo of a small wooden writing desk dominated by a MacBook Pro and over-ear headphones.\">\n",
+				"date_published": "2023-06-13T20:21:22-05:00",
 				"url": "https://micro.jerrytowler.com/2023/06/13/my-workspace-at.html",
 				"tags": ["photos","travel"]
 			},
@@ -633,15 +649,15 @@
 				
 				"content_html": "<p>Cleaning out and backing up my college/grad school MacBook Pro (15-inch Early 2008), and the nostalgia is strong in this one.</p>\n<p>Sure, its 2.4GHz Core 2 Duo isn’t that impressive, and neither is its 4GB of DDR2 or 256GB GeForce 8600M, but it is weirdly performant on OS X 10.8.3, and the aesthetic is arguably more beautiful and indisputably more fun than current macOS.</p>\n<p>The old-school 3D icons for Twitter, TextWrangler, and others are elegant, and maybe we should go back to them.</p>\n<p>I did all of grad school on this computer, including tons of Matlab and hundreds of pages of LaTeX, and it’s kind of sad to see it go.</p>\n",
 				"content_text": "Cleaning out and backing up my college/grad school MacBook Pro (15-inch Early 2008), and the nostalgia is strong in this one.\n\nSure, its 2.4GHz Core 2 Duo isn’t that impressive, and neither is its 4GB of DDR2 or 256GB GeForce 8600M, but it is weirdly performant on OS X 10.8.3, and the aesthetic is arguably more beautiful and indisputably more fun than current macOS.\n\nThe old-school 3D icons for Twitter, TextWrangler, and others are elegant, and maybe we should go back to them.\n\nI did all of grad school on this computer, including tons of Matlab and hundreds of pages of LaTeX, and it’s kind of sad to see it go.\n",
-				"date_published": "2023-06-12T05:46:57+10:00",
+				"date_published": "2023-06-11T14:46:57-05:00",
 				"url": "https://micro.jerrytowler.com/2023/06/11/cleaning-out-and.html"
 			},
 			{
 				"id": "http://jatowler.micro.blog/2023/06/07/in-corpus-christi.html",
 				
 				"content_html": "<p>In Corpus Christi for Rio Texas Annual Conference. Tried out Railroad Brewing Company right by the convention center. 📸</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In Corpus Christi for Rio Texas Annual Conference. Tried out Railroad Brewing Company right by the convention center. 📸\n\n<img src=\"uploads/2023/43d07e402c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-06-08T11:12:47+10:00",
+				"content_text": "In Corpus Christi for Rio Texas Annual Conference. Tried out Railroad Brewing Company right by the convention center. 📸\n\n<img src=\"https://jatowler.micro.blog/uploads/2023/43d07e402c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-07T20:12:47-05:00",
 				"url": "https://micro.jerrytowler.com/2023/06/07/in-corpus-christi.html",
 				"tags": ["photos","travel"]
 			},
@@ -649,8 +665,8 @@
 				"id": "http://jatowler.micro.blog/2023/05/30/felt-bad-that.html",
 				
 				"content_html": "<p>Felt bad that I didn’t get much done yesterday, so this picture is to remind me of what I did finish this weekend. Let’s get the short week started strong. 📸</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Felt bad that I didn’t get much done yesterday, so this picture is to remind me of what I did finish this weekend. Let’s get the short week started strong. 📸\n\n<img src=\"uploads/2023/6b76a697cf.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
-				"date_published": "2023-05-30T22:58:37+10:00",
+				"content_text": "Felt bad that I didn’t get much done yesterday, so this picture is to remind me of what I did finish this weekend. Let’s get the short week started strong. 📸\n\n<img src=\"https://jatowler.micro.blog/uploads/2023/6b76a697cf.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"date_published": "2023-05-30T07:58:37-05:00",
 				"url": "https://micro.jerrytowler.com/2023/05/30/felt-bad-that.html",
 				"tags": ["photos"]
 			},
@@ -659,7 +675,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780553588941\">The Lies of Locke Lamora</a> by Scott Lynch. Slow start for an amazing ending. Fun wordplay and enough mystery to hunt down the sequel. 📚</p>\n",
 				"content_text": "Finished reading: [The Lies of Locke Lamora](https://micro.blog/books/9780553588941) by Scott Lynch. Slow start for an amazing ending. Fun wordplay and enough mystery to hunt down the sequel. 📚\n",
-				"date_published": "2023-05-02T13:45:59+10:00",
+				"date_published": "2023-05-01T22:45:59-05:00",
 				"url": "https://micro.jerrytowler.com/2023/05/01/finished-reading-the.html",
 				"tags": ["books"]
 			},
@@ -667,8 +683,8 @@
 				"id": "http://jatowler.micro.blog/2023/04/29/pro-tip-when.html",
 				
 				"content_html": "<p>Pro tip: when the sky looks like this, the best time to leave work was half an hour ago. 📸</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Pro tip: when the sky looks like this, the best time to leave work was half an hour ago. 📸\n\n<img src=\"uploads/2023/5107b1e3d8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-04-29T23:31:47+10:00",
+				"content_text": "Pro tip: when the sky looks like this, the best time to leave work was half an hour ago. 📸\n\n<img src=\"https://jatowler.micro.blog/uploads/2023/5107b1e3d8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-04-29T08:31:47-05:00",
 				"url": "https://micro.jerrytowler.com/2023/04/29/pro-tip-when.html",
 				"tags": ["photos"]
 			},
@@ -677,7 +693,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781938570384\">The Frugal Wizard’s Handbook for Surviving Medieval England</a> by Brandon Sanderson. A fun, quick read. Pretty un-Sanderson. Seems like he was experimenting with style, similar to Tress, just not in the Cosmere. 📚</p>\n",
 				"content_text": "Finished reading: [The Frugal Wizard’s Handbook for Surviving Medieval England](https://micro.blog/books/9781938570384) by Brandon Sanderson. A fun, quick read. Pretty un-Sanderson. Seems like he was experimenting with style, similar to Tress, just not in the Cosmere. 📚\n",
-				"date_published": "2023-04-26T23:56:42+10:00",
+				"date_published": "2023-04-26T08:56:42-05:00",
 				"url": "https://micro.jerrytowler.com/2023/04/26/finished-reading-the.html",
 				"tags": ["books"]
 			},
@@ -686,7 +702,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781407034737\">Moving Pictures</a> by Terry Pratchett. Like “Pyramids”, an excuse for Pratchett to make a billion pop culture jokes in a row. Tons of fun. 📚</p>\n",
 				"content_text": "Finished reading: [Moving Pictures](https://micro.blog/books/9781407034737) by Terry Pratchett. Like “Pyramids”, an excuse for Pratchett to make a billion pop culture jokes in a row. Tons of fun. 📚\n",
-				"date_published": "2023-03-07T10:05:45+10:00",
+				"date_published": "2023-03-06T19:05:45-05:00",
 				"url": "https://micro.jerrytowler.com/2023/03/06/finished-reading-moving.html",
 				"tags": ["books"]
 			},
@@ -695,7 +711,7 @@
 				
 				"content_html": "<p>Finished watching: <em>Hidden Figures</em>. I’m so glad this movie exists. Epic women I’ve looked up to forever, especially Katherine Johnson, and now other people will know about them too. Not a movie for nerds—it’s about people and society and space, not technology—but awesome anyway.🍿</p>\n",
 				"content_text": "Finished watching: _Hidden Figures_. I’m so glad this movie exists. Epic women I’ve looked up to forever, especially Katherine Johnson, and now other people will know about them too. Not a movie for nerds—it’s about people and society and space, not technology—but awesome anyway.🍿\n",
-				"date_published": "2023-03-06T12:19:52+10:00",
+				"date_published": "2023-03-05T21:19:52-05:00",
 				"url": "https://micro.jerrytowler.com/2023/03/05/finished-watching-hidden.html"
 			},
 			{
@@ -703,7 +719,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780399181009\">Spinning Silver</a> by Naomi Novik. Wow, what a fun novel. I had no idea what was going on or what was going to happen. Definitely better than her <em>Uprooted</em>. Thanks to <a href=\"https://micro.blog/jsonbecker\">@jsonbecker</a> for saying exactly that and giving me the recommendation. 📚</p>\n",
 				"content_text": "Finished reading: [Spinning Silver](https://micro.blog/books/9780399181009) by Naomi Novik. Wow, what a fun novel. I had no idea what was going on or what was going to happen. Definitely better than her _Uprooted_. Thanks to [@jsonbecker](https://micro.blog/jsonbecker) for saying exactly that and giving me the recommendation. 📚\n",
-				"date_published": "2023-03-01T14:43:48+10:00",
+				"date_published": "2023-02-28T23:43:48-05:00",
 				"url": "https://micro.jerrytowler.com/2023/02/28/finished-reading-spinning.html",
 				"tags": ["books"]
 			},
@@ -712,7 +728,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780575099562\">The Wise Man&rsquo;s Fear</a> by Patrick Rothfuss. I’ve never read a book so full of hints but so devoid of answers. Also with such a powerful, but dumb, protagonist. I want Denna’s story so badly… which I guess puts me in good company. A book practically <em>made</em> for Reddit. 📚</p>\n",
 				"content_text": "Finished reading: [The Wise Man's Fear](https://micro.blog/books/9780575099562) by Patrick Rothfuss. I’ve never read a book so full of hints but so devoid of answers. Also with such a powerful, but dumb, protagonist. I want Denna’s story so badly… which I guess puts me in good company. A book practically *made* for Reddit. 📚\n",
-				"date_published": "2023-03-01T14:41:15+10:00",
+				"date_published": "2023-02-28T23:41:15-05:00",
 				"url": "https://micro.jerrytowler.com/2023/02/28/224115.html",
 				"tags": ["books"]
 			},
@@ -721,7 +737,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780756405892\">The Name of the Wind</a> by Patrick Rothfuss. Late to the party on this one. One of the most beautiful fantasy books I’ve ever read. Incredible command of language and myth and character. Also frustrating; I knew that going in, but I didn’t know just quite how. 📚</p>\n",
 				"content_text": "Finished reading: [The Name of the Wind](https://micro.blog/books/9780756405892) by Patrick Rothfuss. Late to the party on this one. One of the most beautiful fantasy books I’ve ever read. Incredible command of language and myth and character. Also frustrating; I knew that going in, but I didn’t know just quite how. 📚\n",
-				"date_published": "2023-03-01T14:35:17+10:00",
+				"date_published": "2023-02-28T23:35:17-05:00",
 				"url": "https://micro.jerrytowler.com/2023/02/28/finished-reading-the.html",
 				"tags": ["books"]
 			},
@@ -730,7 +746,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780575123151\">Eric</a> by Terry Pratchett. Just fun. Less effort than previous books, but more entertaining. Plus: Rincewind! Only problem is it’s very very short. 📚</p>\n",
 				"content_text": "Finished reading: [Eric](https://micro.blog/books/9780575123151) by Terry Pratchett. Just fun. Less effort than previous books, but more entertaining. Plus: Rincewind! Only problem is it’s very very short. 📚\n",
-				"date_published": "2023-02-20T13:22:14+10:00",
+				"date_published": "2023-02-19T22:22:14-05:00",
 				"url": "https://micro.jerrytowler.com/2023/02/19/finished-reading-eric.html",
 				"tags": ["books"]
 			},
@@ -739,7 +755,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780345522924\">League of Dragons</a> by Naomi Novik. Probably my favorite of these, which is nice because it’s last. Pacing worked out, some growth arcs concluded, and the inevitable future is hinted but not written. 📚</p>\n",
 				"content_text": "Finished reading: [League of Dragons](https://micro.blog/books/9780345522924) by Naomi Novik. Probably my favorite of these, which is nice because it’s last. Pacing worked out, some growth arcs concluded, and the inevitable future is hinted but not written. 📚\n",
-				"date_published": "2023-02-19T06:23:21+10:00",
+				"date_published": "2023-02-18T15:23:21-05:00",
 				"url": "https://micro.jerrytowler.com/2023/02/18/finished-reading-league.html",
 				"tags": ["books"]
 			},
@@ -748,7 +764,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593359617\">Blood of Tyrants</a> by Naomi Novik. I will never get used to the pacing of these books; and especially the ridiculously abrupt endings. Not even cliffhangers, just endings. 📚</p>\n",
 				"content_text": "Finished reading: [Blood of Tyrants](https://micro.blog/books/9780593359617) by Naomi Novik. I will never get used to the pacing of these books; and especially the ridiculously abrupt endings. Not even cliffhangers, just endings. 📚\n",
-				"date_published": "2023-02-15T16:53:14+10:00",
+				"date_published": "2023-02-15T01:53:14-05:00",
 				"url": "https://micro.jerrytowler.com/2023/02/15/finished-reading-blood.html",
 				"tags": ["books"]
 			},
@@ -757,7 +773,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780345522870\">Crucible of Gold</a> by Naomi Novik. Fantastic adventure in the Andes devolves to more boring British politics by the end. Novik loves the history of the Napoleonic wars too much, and it weakens the stories. 📚</p>\n",
 				"content_text": "Finished reading: [Crucible of Gold](https://micro.blog/books/9780345522870) by Naomi Novik. Fantastic adventure in the Andes devolves to more boring British politics by the end. Novik loves the history of the Napoleonic wars too much, and it weakens the stories. 📚\n",
-				"date_published": "2023-02-14T00:54:45+10:00",
+				"date_published": "2023-02-13T09:54:45-05:00",
 				"url": "https://micro.jerrytowler.com/2023/02/13/finished-reading-crucible.html",
 				"tags": ["books"]
 			},
@@ -766,7 +782,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780345521750\">Tongues of Serpents</a> by Naomi Novik. Unexpectedly appropriate for my long layover in Sydney. I like Laurence better as an explorer than soldier. More adventure, less British politics. 📚</p>\n",
 				"content_text": "Finished reading: [Tongues of Serpents](https://micro.blog/books/9780345521750) by Naomi Novik. Unexpectedly appropriate for my long layover in Sydney. I like Laurence better as an explorer than soldier. More adventure, less British politics. 📚\n",
-				"date_published": "2023-02-13T10:57:36+10:00",
+				"date_published": "2023-02-12T19:57:36-05:00",
 				"url": "https://micro.jerrytowler.com/2023/02/12/finished-reading-tongues.html",
 				"tags": ["books"]
 			},
@@ -775,7 +791,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780345507082\">Victory of Eagles</a> by Naomi Novik. Pacing finally feels good, and as a result I enjoyed this one more than the previous four. Feels like the world is changing, which is fun to watch. 📚</p>\n",
 				"content_text": "Finished reading: [Victory of Eagles](https://micro.blog/books/9780345507082) by Naomi Novik. Pacing finally feels good, and as a result I enjoyed this one more than the previous four. Feels like the world is changing, which is fun to watch. 📚\n",
-				"date_published": "2023-02-12T12:45:04+10:00",
+				"date_published": "2023-02-11T21:45:04-05:00",
 				"url": "https://micro.jerrytowler.com/2023/02/11/finished-reading-victory.html",
 				"tags": ["books"]
 			},
@@ -784,7 +800,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781938570346\">Tress of the Emerald Sea</a> by Brandon Sanderson. Tremendous effort and tons of fun. Lots of Cosmere elements together, and the joy of Hoid everywhere. I just wish he hadn’t tried so hard to sound like Terry Pratchett. (Recommended by <a href=\"https://micro.blog/manton\">@manton</a>) 📚</p>\n",
 				"content_text": "Finished reading: [Tress of the Emerald Sea](https://micro.blog/books/9781938570346) by Brandon Sanderson. Tremendous effort and tons of fun. Lots of Cosmere elements together, and the joy of Hoid everywhere. I just wish he hadn’t tried so hard to sound like Terry Pratchett. (Recommended by [@manton](https://micro.blog/manton)) 📚\n",
-				"date_published": "2023-02-11T18:01:07+10:00",
+				"date_published": "2023-02-11T03:01:07-05:00",
 				"url": "https://micro.jerrytowler.com/2023/02/11/finished-reading-tress.html",
 				"tags": ["books"]
 			},
@@ -793,7 +809,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781473200180\">Guards! Guards!</a> by Terry Pratchett. Probably my least favorite of the series so far. So many moving parts, and the jokes didn’t land for me. 📚</p>\n",
 				"content_text": "Finished reading: [Guards! Guards!](https://micro.blog/books/9781473200180) by Terry Pratchett. Probably my least favorite of the series so far. So many moving parts, and the jokes didn’t land for me. 📚\n",
-				"date_published": "2023-02-10T16:08:38+10:00",
+				"date_published": "2023-02-10T01:08:38-05:00",
 				"url": "https://micro.jerrytowler.com/2023/02/10/finished-reading-guards.html",
 				"tags": ["books"]
 			},
@@ -802,7 +818,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781473215290\">The Lost Metal</a> by Brandon Sanderson. I absolutely tore through this book. As usual, Sanderson’s organization awes me, although I couldn’t help but feel he tossed a little too much Cosmere lore at us in one book to prepare us for what’s coming. 📚</p>\n",
 				"content_text": "Finished reading: [The Lost Metal](https://micro.blog/books/9781473215290) by Brandon Sanderson. I absolutely tore through this book. As usual, Sanderson’s organization awes me, although I couldn’t help but feel he tossed a little too much Cosmere lore at us in one book to prepare us for what’s coming. 📚\n",
-				"date_published": "2023-02-07T21:38:47+10:00",
+				"date_published": "2023-02-07T06:38:47-05:00",
 				"url": "https://micro.jerrytowler.com/2023/02/07/finished-reading-the.html",
 				"tags": ["books"]
 			},
@@ -811,7 +827,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593359570\">Empire of Ivory</a> by Naomi Novik. More like a log of adventure than a novel. Temeraire and Laurence finally have a hard decision to make, although their expressed value system removes the tension entirely for the reader. Still a fun adventure though. 📚</p>\n",
 				"content_text": "Finished reading: [Empire of Ivory](https://micro.blog/books/9780593359570) by Naomi Novik. More like a log of adventure than a novel. Temeraire and Laurence finally have a hard decision to make, although their expressed value system removes the tension entirely for the reader. Still a fun adventure though. 📚\n",
-				"date_published": "2023-02-06T16:59:40+10:00",
+				"date_published": "2023-02-06T01:59:40-05:00",
 				"url": "https://micro.jerrytowler.com/2023/02/06/finished-reading-empire.html",
 				"tags": ["books"]
 			},
@@ -820,7 +836,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593359556\">Throne of Jade</a> by Naomi Novik. Seemingly totally independent from the first novel except the characters, another exploration into a world where dragons are rare but natural. The pacing is again weird, but the world entertaining enough to make up for it. 📚</p>\n",
 				"content_text": "Finished reading: [Throne of Jade](https://micro.blog/books/9780593359556) by Naomi Novik. Seemingly totally independent from the first novel except the characters, another exploration into a world where dragons are rare but natural. The pacing is again weird, but the world entertaining enough to make up for it. 📚\n",
-				"date_published": "2023-02-05T11:48:06+10:00",
+				"date_published": "2023-02-04T20:48:06-05:00",
 				"url": "https://micro.jerrytowler.com/2023/02/04/finished-reading-throne.html",
 				"tags": ["books"]
 			},
@@ -829,7 +845,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593359549\">His Majesty&rsquo;s Dragon</a> by Naomi Novik. Learning a new world is always fun, and Novik launches in as if England and France have always used dragon fleets in their wars. The climax is too long in coming though, and too short; similarly, the denouement is precipitous. 📚</p>\n",
 				"content_text": "Finished reading: [His Majesty's Dragon](https://micro.blog/books/9780593359549) by Naomi Novik. Learning a new world is always fun, and Novik launches in as if England and France have always used dragon fleets in their wars. The climax is too long in coming though, and too short; similarly, the denouement is precipitous. 📚\n",
-				"date_published": "2023-02-04T06:52:41+10:00",
+				"date_published": "2023-02-03T15:52:41-05:00",
 				"url": "https://micro.jerrytowler.com/2023/02/03/finished-reading-his.html",
 				"tags": ["books"]
 			},
@@ -838,7 +854,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780061020650\">Pyramids</a> by Terry Pratchett. Long train rides make these books fly by. Another one, like Wyrd Sisters, where Pratchett clearly enjoyed himself with puns and satire and camels. 📚</p>\n",
 				"content_text": "Finished reading: [Pyramids](https://micro.blog/books/9780061020650) by Terry Pratchett. Long train rides make these books fly by. Another one, like Wyrd Sisters, where Pratchett clearly enjoyed himself with puns and satire and camels. 📚\n",
-				"date_published": "2023-02-01T11:22:59+10:00",
+				"date_published": "2023-01-31T20:22:59-05:00",
 				"url": "https://micro.jerrytowler.com/2023/01/31/finished-reading-pyramids.html",
 				"tags": ["books"]
 			},
@@ -847,7 +863,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780062225733\">Wyrd Sisters</a> by Terry Pratchett. The first Discworld novel that actually made me laugh out loud. The Discworld is the same glorious place, but the words—powerful things—tickled me just right. I suspect I missed a lot more literature references than I got. 📚</p>\n",
 				"content_text": "Finished reading: [Wyrd Sisters](https://micro.blog/books/9780062225733) by Terry Pratchett. The first Discworld novel that actually made me laugh out loud. The Discworld is the same glorious place, but the words—powerful things—tickled me just right. I suspect I missed a lot more literature references than I got. 📚\n",
-				"date_published": "2023-01-30T12:28:36+10:00",
+				"date_published": "2023-01-29T21:28:36-05:00",
 				"url": "https://micro.jerrytowler.com/2023/01/29/finished-reading-wyrd.html",
 				"tags": ["books"]
 			},
@@ -856,7 +872,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781101885949\">The Bear and the Nightingale</a> by Katherine Arden. Takes a long time to get going, but spellbinding once there. Another winter fairy tale. Recommended by <a href=\"https://micro.blog/hollyhoneychurch\">@hollyhoneychurch</a> as a follow-up to Uprooted; good recommendation. 📚</p>\n",
 				"content_text": "Finished reading: [The Bear and the Nightingale](https://micro.blog/books/9781101885949) by Katherine Arden. Takes a long time to get going, but spellbinding once there. Another winter fairy tale. Recommended by [@hollyhoneychurch](https://micro.blog/hollyhoneychurch) as a follow-up to Uprooted; good recommendation. 📚\n",
-				"date_published": "2023-01-29T17:49:54+10:00",
+				"date_published": "2023-01-29T02:49:54-05:00",
 				"url": "https://micro.jerrytowler.com/2023/01/29/finished-reading-the.html",
 				"tags": ["books"]
 			},
@@ -865,7 +881,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780613572781\">Sourcery</a> by Terry Pratchett. The self-consistency of Discworld, despite the total lack of logic, amazes me every time. All of its legends and myths and prophecies are true, just never in ways the reader expects, yet somehow always in ways that blend comfortably with the overall chaos. 📚</p>\n",
 				"content_text": "Finished reading: [Sourcery](https://micro.blog/books/9780613572781) by Terry Pratchett. The self-consistency of Discworld, despite the total lack of logic, amazes me every time. All of its legends and myths and prophecies are true, just never in ways the reader expects, yet somehow always in ways that blend comfortably with the overall chaos. 📚\n",
-				"date_published": "2023-01-27T07:42:27+10:00",
+				"date_published": "2023-01-26T16:42:27-05:00",
 				"url": "https://micro.jerrytowler.com/2023/01/26/finished-reading-sourcery.html",
 				"tags": ["books"]
 			},
@@ -874,7 +890,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780552166621\">Mort</a> by Terry Pratchett. Death hires an apprentice so he can take some time off and experience life, and maybe find a husband for his daughter. All of those things happen, but as is common on Discworld, not exactly in the expected fashion. Rincewind cameo. 📚</p>\n",
 				"content_text": "Finished reading: [Mort](https://micro.blog/books/9780552166621) by Terry Pratchett. Death hires an apprentice so he can take some time off and experience life, and maybe find a husband for his daughter. All of those things happen, but as is common on Discworld, not exactly in the expected fashion. Rincewind cameo. 📚\n",
-				"date_published": "2023-01-26T09:38:26+10:00",
+				"date_published": "2023-01-25T18:38:26-05:00",
 				"url": "https://micro.jerrytowler.com/2023/01/25/finished-reading-mort.html",
 				"tags": ["books"]
 			},
@@ -883,7 +899,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780804179041\">Uprooted</a> by Naomi Novik. Starts as a twist on a fairy tale, ends as high fantasy. The finale is a bit more chaotic than you’d wish, but the whole thing is a good time. 95% for children, but very much meant for grown-ups. 📚</p>\n",
 				"content_text": "Finished reading: [Uprooted](https://micro.blog/books/9780804179041) by Naomi Novik. Starts as a twist on a fairy tale, ends as high fantasy. The finale is a bit more chaotic than you’d wish, but the whole thing is a good time. 95% for children, but very much meant for grown-ups. 📚\n",
-				"date_published": "2023-01-24T11:10:36+10:00",
+				"date_published": "2023-01-23T20:10:36-05:00",
 				"url": "https://micro.jerrytowler.com/2023/01/23/finished-reading-uprooted.html",
 				"tags": ["books"]
 			},
@@ -892,7 +908,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593158364\">The Golden Enclaves</a> by Naomi Novik. I absolutely devoured this book. It pays off the first book’s cliffhanger better than the second even tried to, and while the writing got a little cheaper the story exploded into awesome. 📚</p>\n",
 				"content_text": "Finished reading: [The Golden Enclaves](https://micro.blog/books/9780593158364) by Naomi Novik. I absolutely devoured this book. It pays off the first book’s cliffhanger better than the second even tried to, and while the writing got a little cheaper the story exploded into awesome. 📚\n",
-				"date_published": "2023-01-23T02:08:11+10:00",
+				"date_published": "2023-01-22T11:08:11-05:00",
 				"url": "https://micro.jerrytowler.com/2023/01/22/finished-reading-the.html",
 				"tags": ["books"]
 			},
@@ -901,7 +917,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593128879\">The Last Graduate</a> by Naomi Novik. More fun in the Scholomance. Cliffhanger from the previous novel doesn’t pay off, but a great read anyway. 📚</p>\n",
 				"content_text": "Finished reading: [The Last Graduate](https://micro.blog/books/9780593128879) by Naomi Novik. More fun in the Scholomance. Cliffhanger from the previous novel doesn’t pay off, but a great read anyway. 📚\n",
-				"date_published": "2023-01-22T10:30:45+10:00",
+				"date_published": "2023-01-21T19:30:45-05:00",
 				"url": "https://micro.jerrytowler.com/2023/01/21/finished-reading-the.html",
 				"tags": ["books"]
 			},
@@ -910,7 +926,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593128497\">A Deadly Education</a> by Naomi Novik. Clearly written for the Harry Potter set, but profoundly different and exciting and, helpfully, well-written. Immediately a favorite young adult novel. 📚</p>\n",
 				"content_text": "Finished reading: [A Deadly Education](https://micro.blog/books/9780593128497) by Naomi Novik. Clearly written for the Harry Potter set, but profoundly different and exciting and, helpfully, well-written. Immediately a favorite young adult novel. 📚\n",
-				"date_published": "2023-01-21T16:41:21+10:00",
+				"date_published": "2023-01-21T01:41:21-05:00",
 				"url": "https://micro.jerrytowler.com/2023/01/21/finished-reading-a.html",
 				"tags": ["books"]
 			},
@@ -919,7 +935,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781466862678\">The Bands of Mourning</a> by Brandon Sanderson. Concludes as expected, a surprisingly similar scene to <em>Hero of Ages</em>. I wish we’d seen Hoid more, but the tease of Kelsier at the end was worth it.📚</p>\n",
 				"content_text": "Finished reading: [The Bands of Mourning](https://micro.blog/books/9781466862678) by Brandon Sanderson. Concludes as expected, a surprisingly similar scene to _Hero of Ages_. I wish we’d seen Hoid more, but the tease of Kelsier at the end was worth it.📚\n",
-				"date_published": "2023-01-20T17:23:29+10:00",
+				"date_published": "2023-01-20T02:23:29-05:00",
 				"url": "https://micro.jerrytowler.com/2023/01/20/finished-reading-the.html",
 				"tags": ["books"]
 			},
@@ -928,7 +944,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781473208230\">Shadows of Self</a> by Brandon Sanderson. Beautiful, tragic, ending. Harsh cliffhanger, but didn’t leave me desperate for more Cosmere like most of this series does. 📚</p>\n",
 				"content_text": "Finished reading: [Shadows of Self](https://micro.blog/books/9781473208230) by Brandon Sanderson. Beautiful, tragic, ending. Harsh cliffhanger, but didn’t leave me desperate for more Cosmere like most of this series does. 📚\n",
-				"date_published": "2023-01-16T15:08:12+10:00",
+				"date_published": "2023-01-16T00:08:12-05:00",
 				"url": "https://micro.jerrytowler.com/2023/01/15/finished-reading-shadows.html",
 				"tags": ["books"]
 			},
@@ -937,7 +953,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780061804830\">Equal Rites</a> by Terry Pratchett. As fine a primer on headology as one could hope for. 📚</p>\n",
 				"content_text": "Finished reading: [Equal Rites](https://micro.blog/books/9780061804830) by Terry Pratchett. As fine a primer on headology as one could hope for. 📚\n",
-				"date_published": "2023-01-14T03:44:46+10:00",
+				"date_published": "2023-01-13T12:44:46-05:00",
 				"url": "https://micro.jerrytowler.com/2023/01/13/finished-reading-equal.html",
 				"tags": ["books"]
 			},
@@ -946,7 +962,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780061020704\">The Light Fantastic</a> by Terry Pratchett 📚</p>\n",
 				"content_text": "Finished reading: [The Light Fantastic](https://micro.blog/books/9780061020704) by Terry Pratchett 📚\n",
-				"date_published": "2023-01-09T16:51:04+10:00",
+				"date_published": "2023-01-09T01:51:04-05:00",
 				"url": "https://micro.jerrytowler.com/2023/01/09/finished-reading-the.html",
 				"tags": ["books"]
 			},
@@ -955,7 +971,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780062225672\">The Color of Magic</a> by Terry Pratchett 📚</p>\n",
 				"content_text": "Finished reading: [The Color of Magic](https://micro.blog/books/9780062225672) by Terry Pratchett 📚\n",
-				"date_published": "2023-01-09T08:32:42+10:00",
+				"date_published": "2023-01-08T17:32:42-05:00",
 				"url": "https://micro.jerrytowler.com/2023/01/08/finished-reading-the.html",
 				"tags": ["books"]
 			}
