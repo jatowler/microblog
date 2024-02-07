@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2024/02/07/finished-reading-hangmans.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781785653100\">Hangman&rsquo;s Gate (War of the Archons 2)</a> by R.S. Ford</p>\n<p>This world of forgotten gods where prayer and worship actually affect their powers continues to fascinate me, but unfortunately the writing doesn’t measure up to the story. Too many threads opened without closure, as if the author assumes you can just open the next book. It’s possible to do this well in a series, and many authors have—just not this one.</p>\n<p>Enjoyed the read, and I’ll probably pick up the next one, but I wish it had a better editor.</p>\n<p>📚</p>\n",
+				"content_text": "Finished reading: [Hangman's Gate (War of the Archons 2)](https://micro.blog/books/9781785653100) by R.S. Ford\n\nThis world of forgotten gods where prayer and worship actually affect their powers continues to fascinate me, but unfortunately the writing doesn’t measure up to the story. Too many threads opened without closure, as if the author assumes you can just open the next book. It’s possible to do this well in a series, and many authors have—just not this one.\n\nEnjoyed the read, and I’ll probably pick up the next one, but I wish it had a better editor.\n\n📚\n",
+				"date_published": "2024-02-07T13:58:21-06:00",
+				"url": "https://micro.jerrytowler.com/2024/02/07/finished-reading-hangmans.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2024/01/30/had-to-renew.html",
+				
+				"content_html": "<p>Had to renew my driver’s license in person today. Texas allows one renewal online, but today I had to brave the DMV. Or as Texas inexplicably calls it, DPS.</p>\n<p>It wasn’t Kafkaesque—it was actually quite easy once I found an office with an appointment—but the wait was worse than a doctor’s office. My 3:40 appointment wasn’t called until nearly 5pm, at which point it took less than ten minutes to complete.</p>\n<p>Oh well, I don’t need to do that again for a long time.</p>\n",
+				"content_text": "Had to renew my driver’s license in person today. Texas allows one renewal online, but today I had to brave the DMV. Or as Texas inexplicably calls it, DPS.\n\nIt wasn’t Kafkaesque—it was actually quite easy once I found an office with an appointment—but the wait was worse than a doctor’s office. My 3:40 appointment wasn’t called until nearly 5pm, at which point it took less than ten minutes to complete.\n\nOh well, I don’t need to do that again for a long time.\n",
+				"date_published": "2024-01-30T20:21:26-06:00",
+				"url": "https://micro.jerrytowler.com/2024/01/30/had-to-renew.html"
+			},
+			{
 				"id": "http://jatowler.micro.blog/2024/01/30/first-first-robotics.html",
 				"title": "First First Robotics",
 				"content_html": "<p>Last Saturday, I judged a First Tech Challenge for the first time. In fact, despite having been a professional roboticist since 2009, this event was my first interaction with any First competition.</p>\n<p>I shouldn’t have waited.</p>\n<p>The kids are excited and shockingly capable; the audience is wild; the challenge is fun; and I had an amazing time.</p>\n<p>I’m helping out with another one in two weeks—the awkwardly named “Semi-Area” competition. I’m looking forward to it.</p>\n",
@@ -44,7 +61,7 @@
 				"id": "http://jatowler.micro.blog/2024/01/23/last-night-i.html",
 				
 				"content_html": "<p>Last night, I entered all my upcoming trips into my Obsidian trips database. The year is getting crowded, and we haven&rsquo;t made it out of January yet. (I also haven&rsquo;t entered some known trips for the back half of the year; at least August, October, and December will all have at least one trip.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Last night, I entered all my upcoming trips into my Obsidian trips database. The year is getting crowded, and we haven't made it out of January yet. (I also haven't entered some known trips for the back half of the year; at least August, October, and December will all have at least one trip.)\n\n<img src=\"uploads/2024/2024-trip-table.png\" width=\"600\" height=\"189\" alt=\"\">\n",
+				"content_text": "Last night, I entered all my upcoming trips into my Obsidian trips database. The year is getting crowded, and we haven't made it out of January yet. (I also haven't entered some known trips for the back half of the year; at least August, October, and December will all have at least one trip.)\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/2024-trip-table.png\" width=\"600\" height=\"189\" alt=\"\">\n",
 				"date_published": "2024-01-23T17:11:46-06:00",
 				"url": "https://micro.jerrytowler.com/2024/01/23/last-night-i.html"
 			},
