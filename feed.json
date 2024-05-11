@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2024/05/11/a-first-for.html",
+				
+				"content_html": "<p>A first for me: a plane at a nearby gate is having a part <em>flown in</em> for maintenance. (Fortunately the origin city is very close, so that flight isn’t delayed by too much.)</p>\n",
+				"content_text": "A first for me: a plane at a nearby gate is having a part *flown in* for maintenance. (Fortunately the origin city is very close, so that flight isn’t delayed by too much.)\n",
+				"date_published": "2024-05-11T07:18:26-06:00",
+				"url": "https://micro.jerrytowler.com/2024/05/11/a-first-for.html"
+			},
+			{
 				"id": "http://jatowler.micro.blog/2024/04/08/third-space-coffee.html",
 				
 				"content_html": "<p>Third Space Coffee in Colorado Springs serves artisanal coffeeee flights. We had to get one… okay, we got three. ☕️</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
