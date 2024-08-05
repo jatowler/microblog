@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2024/08/04/my-crew-is.html",
+				
+				"content_html": "<p>My crew is about to start a new adventure, ironically immediately after <a href=\"https://micro.blog/TSindelar@zeppelin.flights\">@TSindelar@zeppelin.flights</a> and the TPK crew just finished it, seventy-four episodes and a thousand years later&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My crew is about to start a new adventure, ironically immediately after [@TSindelar@zeppelin.flights](https://micro.blog/TSindelar@zeppelin.flights) and the TPK crew just finished it, seventy-four episodes and a thousand years later...\n\n<img src=\"uploads/2024/d2f2482411.jpg\" width=\"450\" height=\"600\" alt=\"The hardcover version of “The Curse of Strahd” Dungeons and Dragons adventure.\">\n",
+				"date_published": "2024-08-04T20:02:16-04:00",
+				"url": "https://jerrytowler.com/2024/08/04/my-crew-is.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2024/08/02/i-finally-took.html",
+				
+				"content_html": "<p>I finally took the time to write a few more <a href=\"https://versenotes.org/newsletter/\">VerseNotes newsletters</a>. Each one takes a surprising amount of time considering that I&rsquo;ve had dozens of drafts written for ages. (ConvertKit&rsquo;s refusal to let me paste Markdown properly doesn&rsquo;t help.)</p>\n",
+				"content_text": "I finally took the time to write a few more [VerseNotes newsletters](https://versenotes.org/newsletter/). Each one takes a surprising amount of time considering that I've had dozens of drafts written for ages. (ConvertKit's refusal to let me paste Markdown properly doesn't help.)\n",
+				"date_published": "2024-08-02T23:26:04-04:00",
+				"url": "https://jerrytowler.com/2024/08/02/i-finally-took.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2024/07/30/finished-watching-deadpool.html",
+				
+				"content_html": "<p>Finished watching: <em>Deadpool and Wolverine</em>.</p>\n<p>Exactly as irreverent as you expect. Gratuitous violence, fourth wall breaks, some fantastic cameos of both actors and characters. All kinds of in-jokes. Unfortunately, a criminal paucity of Morena Baccarin.</p>\n<p>Not gonna win any Oscars, but tons of fun. 🍿</p>\n",
+				"content_text": "Finished watching: _Deadpool and Wolverine_.\n\nExactly as irreverent as you expect. Gratuitous violence, fourth wall breaks, some fantastic cameos of both actors and characters. All kinds of in-jokes. Unfortunately, a criminal paucity of Morena Baccarin.\n\nNot gonna win any Oscars, but tons of fun. 🍿\n",
+				"date_published": "2024-07-30T01:40:44-04:00",
+				"url": "https://jerrytowler.com/2024/07/30/finished-watching-deadpool.html"
+			},
+			{
 				"id": "http://jatowler.micro.blog/2024/07/30/finished-reading-assassins.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781984817853\">Assassin&rsquo;s Apprentice (The Illustrated Edition)</a> by Robin Hobb.</p>\n<p>I know I’m late to the Farseer trilogy/universe, but I really enjoyed this first installment. An unexplained Skill, a Wit, a Fool, more than one father figure, and a pretty classic fantasy setting.</p>\n<p>I can’t wait to get started on the next one. 📚</p>\n",
