@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2024/08/10/dinner-and-drinks.html",
+				
+				"content_html": "<p>Dinner and drinks tonight at Wasatch and Hopkins with Salt Lake City friends; the real adventure starts tomorrow.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Dinner and drinks tonight at Wasatch and Hopkins with Salt Lake City friends; the real adventure starts tomorrow.\n\n<img src=\"uploads/2024/e354abadda.jpg\" width=\"600\" height=\"450\" alt=\"Front door of Hopkins Brewing Company.\">\n",
+				"date_published": "2024-08-10T00:04:17-04:00",
+				"url": "https://jerrytowler.com/2024/08/10/dinner-and-drinks.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2024/08/09/heading-out-on.html",
+				
+				"content_html": "<p>Heading out on my first backpacking trip since before COVID. It’s only a few days on the trail despite needing to take a plane to get there.</p>\n<p>I’m a little bit nervous, but that’s what packing lists are for.</p>\n",
+				"content_text": "Heading out on my first backpacking trip since before COVID. It’s only a few days on the trail despite needing to take a plane to get there.\n\nI’m a little bit nervous, but that’s what packing lists are for.\n",
+				"date_published": "2024-08-09T08:18:17-04:00",
+				"url": "https://jerrytowler.com/2024/08/09/heading-out-on.html",
+				"tags": ["travel"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2024/08/06/so-far-this.html",
+				
+				"content_html": "<p>So far this week I’m in a cycle of not sleeping enough, then drinking too much caffeine so I can stay awake, and as a result not sleeping enough.</p>\n<p>Today is a good day to try something different.</p>\n",
+				"content_text": "So far this week I’m in a cycle of not sleeping enough, then drinking too much caffeine so I can stay awake, and as a result not sleeping enough.\n\nToday is a good day to try something different.\n",
+				"date_published": "2024-08-06T11:18:12-04:00",
+				"url": "https://jerrytowler.com/2024/08/06/so-far-this.html"
+			},
+			{
 				"id": "http://jatowler.micro.blog/2024/08/04/my-crew-is.html",
 				
 				"content_html": "<p>My crew is about to start a new adventure, ironically immediately after <a href=\"https://micro.blog/TSindelar@zeppelin.flights\">@TSindelar@zeppelin.flights</a> and the TPK crew just finished it, seventy-four episodes and a thousand years later&hellip;</p>\n<!-- raw HTML omitted -->\n",
