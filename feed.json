@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2024/08/26/my-bible-reading.html",
+				
+				"content_html": "<p>My Bible reading plan today started three new books: 1 Timothy, Proverbs, and Ezra. It feels like they should be more connected, but I think that’s just how the timing worked out.</p>\n<p>One observation is that they’re from three <strong>very</strong> different eras: Rome, David/Solomon, and Babylon.</p>\n<p>📖</p>\n",
+				"content_text": "My Bible reading plan today started three new books: 1 Timothy, Proverbs, and Ezra. It feels like they should be more connected, but I think that’s just how the timing worked out.\n\nOne observation is that they’re from three **very** different eras: Rome, David/Solomon, and Babylon.\n\n📖\n",
+				"date_published": "2024-08-26T10:23:45-04:00",
+				"url": "https://jerrytowler.com/2024/08/26/my-bible-reading.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2024/08/24/finished-watching-alien.html",
+				
+				"content_html": "<p>Finished watching: <em>Alien: Romulus</em>. I&rsquo;m not exactly a huge fan of the <em>Alien</em> franchise, but neither was this a particularly good installment. Parts of it were beautifully done, but most of it was unmotivated horror.</p>\n<p>And the last conflict in the waning minutes was gruesome and wholly unnecessary.</p>\n<p>Some incredible visuals, though. 🍿</p>\n",
+				"content_text": "Finished watching: _Alien: Romulus_. I'm not exactly a huge fan of the _Alien_ franchise, but neither was this a particularly good installment. Parts of it were beautifully done, but most of it was unmotivated horror.\n\nAnd the last conflict in the waning minutes was gruesome and wholly unnecessary.\n\nSome incredible visuals, though. 🍿\n",
+				"date_published": "2024-08-24T11:24:36-04:00",
+				"url": "https://jerrytowler.com/2024/08/24/finished-watching-alien.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2024/08/21/my-daily-exercise.html",
+				
+				"content_html": "<p>My daily exercise minutes reflects the season and the temperature somewhat cleanly.</p>\n<p>The tall spikes are all ski trips—yes, even into April—except the most recent, which was a backpacking trip.</p>\n<p>Relatedly, we’re less than a hundred days from the start of ski season!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My daily exercise minutes reflects the season and the temperature somewhat cleanly.\n\nThe tall spikes are all ski trips—yes, even into April—except the most recent, which was a backpacking trip.\n\nRelatedly, we’re less than a hundred days from the start of ski season!\n\n<img src=\"uploads/2024/f6136e197e.jpg\" width=\"600\" height=\"434\" alt=\"Apple Fitness chart of my daily exercise minutes declining from an average of 39/day from September to May to 28/day since then. Spikes in the winter months for ski trips, and only one spike since April for backpacking.\">\n",
+				"date_published": "2024-08-21T08:33:03-04:00",
+				"url": "https://jerrytowler.com/2024/08/21/my-daily-exercise.html"
+			},
+			{
 				"id": "http://jatowler.micro.blog/2024/08/20/watched-borderlands-last.html",
 				
 				"content_html": "<p>Watched <em>Borderlands</em> last Friday thanks to the Alamo Drafthouse pass. Not remotely worth seeing otherwise. Kind of a fun bubblegum summer action movie though. 🍿</p>\n",
@@ -42,7 +66,7 @@
 				"id": "http://jatowler.micro.blog/2024/08/10/stopped-in-snake.html",
 				
 				"content_html": "<p>Stopped in Snake River Brewing in Jackson on our way up to the campsite. I can now check off two more states on my record of <a href=\"https://jerrytowler.com/where-have-i-been/\">Where Have I Been</a>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Stopped in Snake River Brewing in Jackson on our way up to the campsite. I can now check off two more states on my record of [Where Have I Been](https://jerrytowler.com/where-have-i-been/).\n\n<img src=\"uploads/2024/6f08ae8a16.jpg\" width=\"450\" height=\"600\" alt=\"Old Snake River Brewing vat covered in stickers.\">\n",
+				"content_text": "Stopped in Snake River Brewing in Jackson on our way up to the campsite. I can now check off two more states on my record of [Where Have I Been](https://jerrytowler.com/where-have-i-been/).\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/6f08ae8a16.jpg\" width=\"450\" height=\"600\" alt=\"Old Snake River Brewing vat covered in stickers.\">\n",
 				"date_published": "2024-08-10T15:31:06-04:00",
 				"url": "https://jerrytowler.com/2024/08/10/stopped-in-snake.html"
 			},
