@@ -7,6 +7,39 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2024/09/24/today-my-morning.html",
+				
+				"content_html": "<p>Today my morning pages led me to sermon notes I took in 2018.</p>\n<p>That’s the whole point of PKM/Obsidian, but it’s not often that I get that kind of serendipity, so it’s delightful when it happens.</p>\n",
+				"content_text": "Today my morning pages led me to sermon notes I took in 2018.\n\nThat’s the whole point of PKM/Obsidian, but it’s not often that I get that kind of serendipity, so it’s delightful when it happens.\n",
+				"date_published": "2024-09-24T08:59:33-05:00",
+				"url": "https://jerrytowler.com/2024/09/24/today-my-morning.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2024/09/21/our-traditional-oktoberfest.html",
+				
+				"content_html": "<p>Our traditional Oktoberfest pumpkin beer tasting has begun!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Our traditional Oktoberfest pumpkin beer tasting has begun!\n\n<img src=\"uploads/2024/630de9bbcb.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-09-21T19:17:38-05:00",
+				"url": "https://jerrytowler.com/2024/09/21/our-traditional-oktoberfest.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2024/09/21/i-have-been.html",
+				
+				"content_html": "<p>I have been using a wireless keyboard at work and at home for years because I hate all the wires all over my desk. But since I got a new keyboard for my home office, I&rsquo;ve left it wired as an experiment, and the additional responsiveness is spectacular, although the cable still drives me nuts.</p>\n",
+				"content_text": "I have been using a wireless keyboard at work and at home for years because I hate all the wires all over my desk. But since I got a new keyboard for my home office, I've left it wired as an experiment, and the additional responsiveness is spectacular, although the cable still drives me nuts.\n",
+				"date_published": "2024-09-21T10:26:54-05:00",
+				"url": "https://jerrytowler.com/2024/09/21/i-have-been.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2024/09/19/all-the-times.html",
+				
+				"content_html": "<p>All the times I have read Esther, and today I realized for the first time that she was an orphan. Somehow the fact that Mordecai was raising her didn’t clue me in on that obvious implication until today.</p>\n<p>It’s not hidden! I’m just blind.</p>\n<p>Re-read your Bible. There’s treasure you haven’t seen.</p>\n",
+				"content_text": "All the times I have read Esther, and today I realized for the first time that she was an orphan. Somehow the fact that Mordecai was raising her didn’t clue me in on that obvious implication until today.\n\nIt’s not hidden! I’m just blind.\n\nRe-read your Bible. There’s treasure you haven’t seen.\n",
+				"date_published": "2024-09-19T08:46:53-05:00",
+				"url": "https://jerrytowler.com/2024/09/19/all-the-times.html",
+				"tags": ["versenotes"]
+			},
+			{
 				"id": "http://jatowler.micro.blog/2024/09/18/finished-reading-assassins.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780553897470\">Assassin&rsquo;s Quest</a> by Robin Hobb</p>\n<p>I cannot express my despair at the end of this book. As soon as I saw where the ending was headed, I didn&rsquo;t want to keep reading and nearly put the book down. Kudos to the author, I guess, but it is endlessly sad, and I am pretty angry. 📚</p>\n",
