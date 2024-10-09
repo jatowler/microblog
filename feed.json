@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2024/10/09/beer-and-cold.html",
+				
+				"content_html": "<p>Beer and cold cuts by the Duomo Milano is a great way to start this trip.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Beer and cold cuts by the Duomo Milano is a great way to start this trip.\n\n<img src=\"uploads/2024/76f5d36ddc.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/eb27f2080b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-10-09T06:18:00-05:00",
+				"url": "https://jerrytowler.com/2024/10/09/beer-and-cold.html",
+				"tags": ["travel"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2024/10/07/perfection-conlextions-solve.html",
+				
+				"content_html": "<p>Perfection?!</p>\n<blockquote>\n<p>Conlextions #394\n🟪🟦🟨🟩\n🟦🟦🟦🟦\n🟪🟪🟪🟪\n🟩🟩🟩🟩\n🟨🟨🟨🟨</p>\n</blockquote>\n<p>Solve Time: 1 minute, 27 seconds</p>\n",
+				"content_text": "Perfection?!\n\n> Conlextions #394\n🟪🟦🟨🟩\n🟦🟦🟦🟦\n🟪🟪🟪🟪\n🟩🟩🟩🟩\n🟨🟨🟨🟨\n\nSolve Time: 1 minute, 27 seconds\n",
+				"date_published": "2024-10-07T09:20:48-05:00",
+				"url": "https://jerrytowler.com/2024/10/07/perfection-conlextions-solve.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2024/10/06/it-was-bound.html",
+				
+				"content_html": "<p>It was bound to happen; today it did.</p>\n<p>Six Appeal #191</p>\n<p>I solved Six Appeal #191 in\n7 seconds!</p>\n<p>Real words guessed: 1 × 100 = 100\nRemaining guesses: 6 × 200 = 1200\nTime bonus: 293</p>\n<p>Total score: 1593</p>\n<p>⬜️⬜️⬜️⬜️⬜️⬜️ ✔️\n🟩🟩🟩🟩🟩🟩 ⭐</p>\n",
+				"content_text": "It was bound to happen; today it did.\n\nSix Appeal #191\n\nI solved Six Appeal #191 in \n7 seconds! \n\n Real words guessed: 1 × 100 = 100 \n Remaining guesses: 6 × 200 = 1200 \n Time bonus: 293 \n\n Total score: 1593 \n\n⬜️⬜️⬜️⬜️⬜️⬜️ ✔️\n🟩🟩🟩🟩🟩🟩 ⭐\n",
+				"date_published": "2024-10-06T09:44:06-05:00",
+				"url": "https://jerrytowler.com/2024/10/06/it-was-bound.html"
+			},
+			{
 				"id": "http://jatowler.micro.blog/2024/10/03/today-i-realized.html",
 				
 				"content_html": "<p>Today I realized that NYT Connections/<a href=\"https://micro.blog/lex\">@lex</a> Conlextions are basically iterated solitaire <a href=\"https://codenamesgame.com/\">Codenames</a>.</p>\n",
@@ -34,7 +59,7 @@
 				"id": "http://jatowler.micro.blog/2024/09/21/our-traditional-oktoberfest.html",
 				
 				"content_html": "<p>Our traditional Oktoberfest pumpkin beer tasting has begun!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Our traditional Oktoberfest pumpkin beer tasting has begun!\n\n<img src=\"uploads/2024/630de9bbcb.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Our traditional Oktoberfest pumpkin beer tasting has begun!\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/630de9bbcb.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-09-21T19:17:38-05:00",
 				"url": "https://jerrytowler.com/2024/09/21/our-traditional-oktoberfest.html"
 			},
