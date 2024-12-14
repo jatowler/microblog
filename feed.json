@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2024/12/14/we-designed-new.html",
+				
+				"content_html": "<p>We designed New Year&rsquo;s cards today (because we&rsquo;re too late for reliable Christmas cards). I am very happy with them.</p>\n<p>We&rsquo;re trying something new this year: having them addressed and shipped for us, because the next two weeks are way too chaotic this year to add that activity. Totally worth it.</p>\n",
+				"content_text": "We designed New Year's cards today (because we're too late for reliable Christmas cards). I am very happy with them.\r\n\r\nWe're trying something new this year: having them addressed and shipped for us, because the next two weeks are way too chaotic this year to add that activity. Totally worth it.\n",
+				"date_published": "2024-12-14T14:10:19-06:00",
+				"url": "https://jerrytowler.com/2024/12/14/we-designed-new.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2024/12/10/took-a-few.html",
+				
+				"content_html": "<p>Took a few days off to stay at a <a href=\"https://postcardcabins.com\">Postcard Cabins</a> cabin, which is a (<em>very</em>) tiny house with a campfire and some chairs. It&rsquo;s almost secluded enough to feel alone in the hill country. We had a great time, burned a lot of wood, made smores, and talked a lot about our plans and hopes for 2025.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Took a few days off to stay at a [Postcard Cabins](https://postcardcabins.com) cabin, which is a (_very_) tiny house with a campfire and some chairs. It's almost secluded enough to feel alone in the hill country. We had a great time, burned a lot of wood, made smores, and talked a lot about our plans and hopes for 2025.\n\n<img src=\"uploads/2024/img-4956.jpeg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/img-4988.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-12-10T19:54:56-06:00",
+				"url": "https://jerrytowler.com/2024/12/10/took-a-few.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2024/12/10/spent-the-last.html",
+				
+				"content_html": "<p>Spent the last afternoon of this mini-vacation writing summaries of psalms; I&rsquo;ve finally crossed the halfway point (all the way to Psalm 77). I might finish by New Year&rsquo;s after all.</p>\n",
+				"content_text": "Spent the last afternoon of this mini-vacation writing summaries of psalms; I've finally crossed the halfway point (all the way to Psalm 77). I might finish by New Year's after all.\n",
+				"date_published": "2024-12-10T19:49:59-06:00",
+				"url": "https://jerrytowler.com/2024/12/10/spent-the-last.html",
+				"tags": ["versenotes"]
+			},
+			{
 				"id": "http://jatowler.micro.blog/2024/12/07/my-primary-desk.html",
 				
 				"content_html": "<p>My primary desk for the last twenty years or so has been a door that I stained and added a fir border and collapsible legs. It gives me a huge workspace, and it reminds me of my grandfather, who helped me make it before I left for college. However, its surface is not perfectly even, so when I added a nice aluminum-frame mechanical keyboard a couple of weeks ago, the keyboard rocked.</p>\n<p>Today it occurred to me to ask my wife for some help, and she suggested a piece of felt under one of the legs. I put the felt under the whole thing, and it worked perfectly. Plus it looks kind of cool against the coiled cable.</p>\n<p>Yes, I know they make desk mats, but this solution was already sitting in our house.</p>\n<!-- raw HTML omitted -->\n",
@@ -54,7 +79,7 @@
 				"id": "http://jatowler.micro.blog/2024/10/27/the-hokies-and.html",
 				
 				"content_html": "<p>The Hokies and the Mustangs both won yesterday (even if the Mustangs win was maybe the ugliest I&rsquo;ve ever seen), and we hiked a few miles together this morning. Can&rsquo;t ask much more out of a weekend.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The Hokies and the Mustangs both won yesterday (even if the Mustangs win was maybe the ugliest I've ever seen), and we hiked a few miles together this morning. Can't ask much more out of a weekend.\n\n<img src=\"uploads/2024/099eacd1c5.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "The Hokies and the Mustangs both won yesterday (even if the Mustangs win was maybe the ugliest I've ever seen), and we hiked a few miles together this morning. Can't ask much more out of a weekend.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/099eacd1c5.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-10-27T13:37:01-06:00",
 				"url": "https://jerrytowler.com/2024/10/27/the-hokies-and.html"
 			},
