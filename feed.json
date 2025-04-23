@@ -7,10 +7,27 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2025/04/22/today-i-noticed-that-harvey.html",
+				
+				"content_html": "<p>Today I noticed that Harvey Guillén, who plays Guillermo on <em>What We Do In the Shadows</em>, plays a demon hacker in <em>The Good Place</em>. The demon hacker who finally gets into The Judge’s mainframe, no less.</p>\n<p>I do not often catch these things, so I am always delighted when I do.</p>\n",
+				"content_text": "Today I noticed that Harvey Guillén, who plays Guillermo on _What We Do In the Shadows_, plays a demon hacker in _The Good Place_. The demon hacker who finally gets into The Judge’s mainframe, no less.\n\nI do not often catch these things, so I am always delighted when I do.\n",
+				"date_published": "2025-04-22T22:08:04-06:00",
+				"url": "https://jerrytowler.com/2025/04/22/today-i-noticed-that-harvey.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2025/04/11/finished-reading-the-formula-by.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780063318632\">The Formula</a> by Joshua Robinson, Jonathan Clegg</p>\n<p>For a new fan, this book was a great history lesson of the business of F1 and the transformation since 2017 or so, culminating in the insanity of the inaugural Las Vegas Grand Prix.</p>\n<p>📚</p>\n",
+				"content_text": "Finished reading: [The Formula](https://micro.blog/books/9780063318632) by Joshua Robinson, Jonathan Clegg \n\nFor a new fan, this book was a great history lesson of the business of F1 and the transformation since 2017 or so, culminating in the insanity of the inaugural Las Vegas Grand Prix.\n\n📚\n",
+				"date_published": "2025-04-11T14:41:12-06:00",
+				"url": "https://jerrytowler.com/2025/04/11/finished-reading-the-formula-by.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://jatowler.micro.blog/2025/04/06/warning-fire-touch-burn-at.html",
 				
 				"content_html": "<p>Warning: fire + touch = burn.</p>\n<p>At Lazy Dog in Colorado Springs.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Warning: fire + touch = burn.\n\nAt Lazy Dog in Colorado Springs.\n\n<img src=\"uploads/2025/28b658397c.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"content_text": "Warning: fire + touch = burn.\n\nAt Lazy Dog in Colorado Springs.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2025/28b658397c.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
 				"date_published": "2025-04-06T17:27:20-06:00",
 				"url": "https://jerrytowler.com/2025/04/06/warning-fire-touch-burn-at.html"
 			},
@@ -26,7 +43,7 @@
 				"id": "http://jatowler.micro.blog/2025/03/27/inside-the-straight-to-ale.html",
 				
 				"content_html": "<p>Inside the Straight to Ale brewery at the aforementioned repurposed school is a monkey hanging on a rocket.</p>\n<p>That is all.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Inside the Straight to Ale brewery at the aforementioned repurposed school is a monkey hanging on a rocket.\n\nThat is all.\n\n<img src=\"uploads/2025/b3621a00f5.jpg\" width=\"600\" height=\"450\" alt=\"Stuffed monkey holding onto large model rocket hanging from the ceiling\">\n",
+				"content_text": "Inside the Straight to Ale brewery at the aforementioned repurposed school is a monkey hanging on a rocket.\n\nThat is all.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2025/b3621a00f5.jpg\" width=\"600\" height=\"450\" alt=\"Stuffed monkey holding onto large model rocket hanging from the ceiling\">\n",
 				"date_published": "2025-03-27T18:54:35-06:00",
 				"url": "https://jerrytowler.com/2025/03/27/inside-the-straight-to-ale.html"
 			},
@@ -51,7 +68,7 @@
 				"id": "http://jatowler.micro.blog/2025/02/16/i-missed-good-southern-food.html",
 				
 				"content_html": "<p>I missed good Southern food in San Antonio, and even more so now in Salt Lake City, so since I’m recruiting this week at Auburn, I have to take what I can get.</p>\n<p>It’s not Carolina, but it’ll do.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I missed good Southern food in San Antonio, and even more so now in Salt Lake City, so since I’m recruiting this week at Auburn, I have to take what I can get.\n\nIt’s not Carolina, but it’ll do.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2025/881c7c9dbe.jpg\" width=\"600\" height=\"450\" alt=\"Plate on a bar with pulled pork, smoked turkey, cole slaw, mac and cheese. Side plate of muffins, stein of IPA. As God intended.\">\n",
+				"content_text": "I missed good Southern food in San Antonio, and even more so now in Salt Lake City, so since I’m recruiting this week at Auburn, I have to take what I can get.\n\nIt’s not Carolina, but it’ll do.\n\n<img src=\"uploads/2025/881c7c9dbe.jpg\" width=\"600\" height=\"450\" alt=\"Plate on a bar with pulled pork, smoked turkey, cole slaw, mac and cheese. Side plate of muffins, stein of IPA. As God intended.\">\n",
 				"date_published": "2025-02-16T18:53:37-06:00",
 				"url": "https://jerrytowler.com/2025/02/16/i-missed-good-southern-food.html"
 			},
@@ -75,7 +92,7 @@
 				"id": "http://jatowler.micro.blog/2025/02/10/todays-apple-news-quartiles-puzzle.html",
 				
 				"content_html": "<p>Today’s Apple News Quartiles puzzle is full of NFL teams (sort of): Ravens, Bills, Rams, Chiefs, Lions, Eagles (“birds”)—did I miss any? #superbowl</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Today’s Apple News Quartiles puzzle is full of NFL teams (sort of): Ravens, Bills, Rams, Chiefs, Lions, Eagles (“birds”)—did I miss any? #superbowl\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2025/df789e2124.jpg\" width=\"600\" height=\"481\" alt=\"Solved Quartiles puzzle: cont/rav/en/tion, bi/ll/boa/rds, zil/li/on/aire, ext/ram/ari/tal, ch/ief/tai/ns.\">\n",
+				"content_text": "Today’s Apple News Quartiles puzzle is full of NFL teams (sort of): Ravens, Bills, Rams, Chiefs, Lions, Eagles (“birds”)—did I miss any? #superbowl\n\n<img src=\"uploads/2025/df789e2124.jpg\" width=\"600\" height=\"481\" alt=\"Solved Quartiles puzzle: cont/rav/en/tion, bi/ll/boa/rds, zil/li/on/aire, ext/ram/ari/tal, ch/ief/tai/ns.\">\n",
 				"date_published": "2025-02-09T09:06:49-06:00",
 				"url": "https://jerrytowler.com/2025/02/10/todays-apple-news-quartiles-puzzle.html"
 			},
@@ -163,7 +180,7 @@
 				"id": "http://jatowler.micro.blog/2025/02/01/nice-hike-up-mount-takao.html",
 				
 				"content_html": "<p>Nice hike up Mount Takao, about ninety minutes’ train ride west of Tokyo Station. Beautiful views, shrines, a temple, and a waterfall!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Nice hike up Mount Takao, about ninety minutes’ train ride west of Tokyo Station. Beautiful views, shrines, a temple, and a waterfall!\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2025/b0ffc78281.jpg\" width=\"337\" height=\"600\" alt=\"Laters of grey-green mountains. AllTrails stats: 2h30m, 5.8 miles, 1,463ft gain.\"><img src=\"https://cdn.uploads.micro.blog/1214/2025/2a20475aac.jpg\" width=\"600\" height=\"450\" alt=\"Selfie next to a bronze plaque taller than me indicating the height of the peak, 599.15 meters\">\n",
+				"content_text": "Nice hike up Mount Takao, about ninety minutes’ train ride west of Tokyo Station. Beautiful views, shrines, a temple, and a waterfall!\n\n<img src=\"uploads/2025/b0ffc78281.jpg\" width=\"337\" height=\"600\" alt=\"Laters of grey-green mountains. AllTrails stats: 2h30m, 5.8 miles, 1,463ft gain.\"><img src=\"uploads/2025/2a20475aac.jpg\" width=\"600\" height=\"450\" alt=\"Selfie next to a bronze plaque taller than me indicating the height of the peak, 599.15 meters\">\n",
 				"date_published": "2025-02-01T01:01:54-06:00",
 				"url": "https://jerrytowler.com/2025/02/01/nice-hike-up-mount-takao.html",
 				"tags": ["photos","travel"]
@@ -180,7 +197,7 @@
 				"id": "http://jatowler.micro.blog/2025/01/30/i-dont-usually-eat-conference.html",
 				
 				"content_html": "<p>I don’t usually eat conference food, but the opportunity to sit atop Tokyo Big Sight and eat ramen was too good to pass up.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I don’t usually eat conference food, but the opportunity to sit atop Tokyo Big Sight and eat ramen was too good to pass up.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2025/8ac8900445.jpg\" width=\"600\" height=\"450\" alt=\"A bowl of ramen and a small stein of beer on a tray on a bar in front of a window looking out onto a port on Tokyo Bay.\">\n",
+				"content_text": "I don’t usually eat conference food, but the opportunity to sit atop Tokyo Big Sight and eat ramen was too good to pass up.\n\n<img src=\"uploads/2025/8ac8900445.jpg\" width=\"600\" height=\"450\" alt=\"A bowl of ramen and a small stein of beer on a tray on a bar in front of a window looking out onto a port on Tokyo Bay.\">\n",
 				"date_published": "2025-01-30T23:04:57-06:00",
 				"url": "https://jerrytowler.com/2025/01/30/i-dont-usually-eat-conference.html",
 				"tags": ["photos","travel"]
@@ -197,7 +214,7 @@
 				"id": "http://jatowler.micro.blog/2025/01/15/on-the-way-home-from.html",
 				
 				"content_html": "<p>On the way home from Jackson Hole today, we accidentally found Grand Teton Brewing in Victor, Idaho, just over the pass from Wilson, Wyoming (where it turns out they started in 1988 as Wyoming’s first microbrewery).</p>\n<p>As we had no schedule for the day, of course we stopped.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "On the way home from Jackson Hole today, we accidentally found Grand Teton Brewing in Victor, Idaho, just over the pass from Wilson, Wyoming (where it turns out they started in 1988 as Wyoming’s first microbrewery).\n\nAs we had no schedule for the day, of course we stopped.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2025/5eac472c14.jpg\" width=\"600\" height=\"600\" alt=\"A wooden stave holding four tasting glasses half-full of beers.\">\n",
+				"content_text": "On the way home from Jackson Hole today, we accidentally found Grand Teton Brewing in Victor, Idaho, just over the pass from Wilson, Wyoming (where it turns out they started in 1988 as Wyoming’s first microbrewery).\n\nAs we had no schedule for the day, of course we stopped.\n\n<img src=\"uploads/2025/5eac472c14.jpg\" width=\"600\" height=\"600\" alt=\"A wooden stave holding four tasting glasses half-full of beers.\">\n",
 				"date_published": "2025-01-15T21:50:13-06:00",
 				"url": "https://jerrytowler.com/2025/01/15/on-the-way-home-from.html"
 			},
@@ -205,7 +222,7 @@
 				"id": "http://jatowler.micro.blog/2025/01/13/two-sort-of-opposite-pictures.html",
 				
 				"content_html": "<p>Two sort of opposite pictures from Jackson Hole today. One of a man made structure—a cute little cabin decorated with skis—on the side of a mountain; and the other a family of mule deer who decided our little townhouse complex was a good dinner spot.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Two sort of opposite pictures from Jackson Hole today. One of a man made structure—a cute little cabin decorated with skis—on the side of a mountain; and the other a family of mule deer who decided our little townhouse complex was a good dinner spot.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2025/9234909593.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1214/2025/1eae116e5c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Two sort of opposite pictures from Jackson Hole today. One of a man made structure—a cute little cabin decorated with skis—on the side of a mountain; and the other a family of mule deer who decided our little townhouse complex was a good dinner spot.\n\n<img src=\"uploads/2025/9234909593.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2025/1eae116e5c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-01-14T00:26:14-06:00",
 				"url": "https://jerrytowler.com/2025/01/13/two-sort-of-opposite-pictures.html",
 				"tags": ["photos","travel"]
@@ -214,7 +231,7 @@
 				"id": "http://jatowler.micro.blog/2025/01/12/last-summer-we-backpacked-in.html",
 				
 				"content_html": "<p>Last summer, we backpacked in Grand Teton National Park. Today is our first day skiing Jackson Hole. This is a great, and beautiful, part of the country.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Last summer, we backpacked in Grand Teton National Park. Today is our first day skiing Jackson Hole. This is a great, and beautiful, part of the country.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2025/b9f29cc108.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Last summer, we backpacked in Grand Teton National Park. Today is our first day skiing Jackson Hole. This is a great, and beautiful, part of the country.\n\n<img src=\"uploads/2025/b9f29cc108.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-01-12T19:56:55-06:00",
 				"url": "https://jerrytowler.com/2025/01/12/last-summer-we-backpacked-in.html",
 				"tags": ["photos","travel"]
@@ -223,7 +240,7 @@
 				"id": "http://jatowler.micro.blog/2025/01/09/i-assume-i-will-eventually.html",
 				
 				"content_html": "<p>I assume I will eventually stop taking pictures of the natural beauty of Salt Lake City, but I don’t predict it will be soon.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I assume I will eventually stop taking pictures of the natural beauty of Salt Lake City, but I don’t predict it will be soon.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2025/8f21ec0442.jpg\" width=\"600\" height=\"337\" alt=\"Mountain ridge with pink coloring on the peaks from the sunset.\">\n",
+				"content_text": "I assume I will eventually stop taking pictures of the natural beauty of Salt Lake City, but I don’t predict it will be soon.\n\n<img src=\"uploads/2025/8f21ec0442.jpg\" width=\"600\" height=\"337\" alt=\"Mountain ridge with pink coloring on the peaks from the sunset.\">\n",
 				"date_published": "2025-01-09T22:07:58-06:00",
 				"url": "https://jerrytowler.com/2025/01/09/i-assume-i-will-eventually.html",
 				"tags": ["photos"]
@@ -232,7 +249,7 @@
 				"id": "http://jatowler.micro.blog/2025/01/07/skiing-alta.html",
 				"title": "Skiing Alta",
 				"content_html": "<p>I haven&rsquo;t been to <a href=\"https://www.alta.com\">Alta</a> since the first time I came to Salt Lake City to ski several years ago. At the time, I was just re-learning how to ski 10 years after basically quitting cold turkey when I took a job in Texas after college.</p>\n<p>We went today, and it was glorious. No traffic, easy parking, nearly empty lift lines, zero snowboarders, and an amazing mountain to ski on.</p>\n<p>The thermometer says 8°F at the top of the Collins lift; it was cold, but it didn&rsquo;t feel like single digits. I&rsquo;ve been at Big Sky and Copper when it was single-digits, and I felt much warmer today.</p>\n<p>Now if only our Ikon pass gave us more than 7 days there&hellip;</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I haven't been to [Alta](https://www.alta.com) since the first time I came to Salt Lake City to ski several years ago. At the time, I was just re-learning how to ski 10 years after basically quitting cold turkey when I took a job in Texas after college.\n\nWe went today, and it was glorious. No traffic, easy parking, nearly empty lift lines, zero snowboarders, and an amazing mountain to ski on.\n\nThe thermometer says 8°F at the top of the Collins lift; it was cold, but it didn't feel like single digits. I've been at Big Sky and Copper when it was single-digits, and I felt much warmer today.\n\nNow if only our Ikon pass gave us more than 7 days there...\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2025/8665ee362f.jpg\" width=\"600\" height=\"600\" alt=\"Digital sign reading 8°, 4:20PM. Black diamond trail sign for High Traverse. In the background, snow on fir trees in front of a mountain valley colored by the setting sun but topped with gray clouds.\"><img src=\"https://cdn.uploads.micro.blog/1214/2025/042364a5fa.png\" width=\"276\" height=\"600\" alt=\"Ikon app stats for a day skiing at Alta. 10 lifts, 35 trails, 14 miles, 15,159 vertical feet. 63% blue runs, 37% black runs.\">\n",
+				"content_text": "I haven't been to [Alta](https://www.alta.com) since the first time I came to Salt Lake City to ski several years ago. At the time, I was just re-learning how to ski 10 years after basically quitting cold turkey when I took a job in Texas after college.\n\nWe went today, and it was glorious. No traffic, easy parking, nearly empty lift lines, zero snowboarders, and an amazing mountain to ski on.\n\nThe thermometer says 8°F at the top of the Collins lift; it was cold, but it didn't feel like single digits. I've been at Big Sky and Copper when it was single-digits, and I felt much warmer today.\n\nNow if only our Ikon pass gave us more than 7 days there...\n\n<img src=\"uploads/2025/8665ee362f.jpg\" width=\"600\" height=\"600\" alt=\"Digital sign reading 8°, 4:20PM. Black diamond trail sign for High Traverse. In the background, snow on fir trees in front of a mountain valley colored by the setting sun but topped with gray clouds.\"><img src=\"uploads/2025/042364a5fa.png\" width=\"276\" height=\"600\" alt=\"Ikon app stats for a day skiing at Alta. 10 lifts, 35 trails, 14 miles, 15,159 vertical feet. 63% blue runs, 37% black runs.\">\n",
 				"date_published": "2025-01-07T22:56:16-06:00",
 				"url": "https://jerrytowler.com/2025/01/07/skiing-alta.html",
 				"tags": ["photos"]
@@ -241,7 +258,7 @@
 				"id": "http://jatowler.micro.blog/2025/01/06/when-i-was-collecting-data.html",
 				
 				"content_html": "<p>When I was collecting data for <a href=\"https://jerrytowler.com/2025/01/04/review-health-and-fitness.html\">my 2024 health and fitness review</a>, I couldn&rsquo;t figure out how to see how many times I hit my daily exercise goal.</p>\n<p>Turns out it&rsquo;s in Trends→Exercise in the Fitness app, all the way at the bottom.</p>\n<p>Now I just need to remember that 364 days from now&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "When I was collecting data for [my 2024 health and fitness review](https://jerrytowler.com/2025/01/04/review-health-and-fitness.html), I couldn't figure out how to see how many times I hit my daily exercise goal.\r\n\r\nTurns out it's in Trends→Exercise in the Fitness app, all the way at the bottom.\r\n\r\nNow I just need to remember that 364 days from now...\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2025/screenshot-2025-01-06-at-4.40.28pm.png\" width=\"292\" height=\"124\" alt=\"Screenshot from iPhone Fitness app showing 98/365 and 17/90 exercise rings closed.\">\n",
+				"content_text": "When I was collecting data for [my 2024 health and fitness review](https://jerrytowler.com/2025/01/04/review-health-and-fitness.html), I couldn't figure out how to see how many times I hit my daily exercise goal.\r\n\r\nTurns out it's in Trends→Exercise in the Fitness app, all the way at the bottom.\r\n\r\nNow I just need to remember that 364 days from now...\n\n<img src=\"uploads/2025/screenshot-2025-01-06-at-4.40.28pm.png\" width=\"292\" height=\"124\" alt=\"Screenshot from iPhone Fitness app showing 98/365 and 17/90 exercise rings closed.\">\n",
 				"date_published": "2025-01-06T17:41:44-06:00",
 				"url": "https://jerrytowler.com/2025/01/06/when-i-was-collecting-data.html"
 			},
@@ -257,7 +274,7 @@
 				"id": "http://jatowler.micro.blog/2025/01/05/first-vert-of-the-season.html",
 				
 				"content_html": "<p>First vert of the season!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "First vert of the season!\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2025/d55e4ee795.jpg\" width=\"600\" height=\"450\" alt=\"Meera and Jerry in ski jackets and helmets in front of a snowy landscape at Solitude ski resort.\"><img src=\"https://cdn.uploads.micro.blog/1214/2025/54f690c875.png\" width=\"276\" height=\"600\" alt=\"IKON pass description of today’s skiing: 2,891 vertical feet over 3 lifts, 5 trails, 3.0 miles.\">\n",
+				"content_text": "First vert of the season!\n\n<img src=\"uploads/2025/d55e4ee795.jpg\" width=\"600\" height=\"450\" alt=\"Meera and Jerry in ski jackets and helmets in front of a snowy landscape at Solitude ski resort.\"><img src=\"uploads/2025/54f690c875.png\" width=\"276\" height=\"600\" alt=\"IKON pass description of today’s skiing: 2,891 vertical feet over 3 lifts, 5 trails, 3.0 miles.\">\n",
 				"date_published": "2025-01-05T18:06:43-06:00",
 				"url": "https://jerrytowler.com/2025/01/05/first-vert-of-the-season.html",
 				"tags": ["photos"]
@@ -266,7 +283,7 @@
 				"id": "http://jatowler.micro.blog/2025/01/04/apropos-of-doing-better-with.html",
 				
 				"content_html": "<p>Apropos of <a href=\"https://jerrytowler.com/2025/01/04/review-health-and-fitness.html\">doing better with physical health this year</a>, I managed to get three days into 2025 without a workout, until yesterday. Here&rsquo;s to way more of these this year!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Apropos of [doing better with physical health this year](https://jerrytowler.com/2025/01/04/review-health-and-fitness.html), I managed to get three days into 2025 without a workout, until yesterday. Here's to way more of these this year!\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2025/faad9835f4.jpg\" width=\"544\" height=\"600\" alt=\"\">\n",
+				"content_text": "Apropos of [doing better with physical health this year](https://jerrytowler.com/2025/01/04/review-health-and-fitness.html), I managed to get three days into 2025 without a workout, until yesterday. Here's to way more of these this year!\n\n<img src=\"uploads/2025/faad9835f4.jpg\" width=\"544\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-01-04T15:53:06-06:00",
 				"url": "https://jerrytowler.com/2025/01/04/apropos-of-doing-better-with.html"
 			},
@@ -331,8 +348,8 @@
 			{
 				"id": "http://jatowler.micro.blog/2024/12/31/fool-of-a.html",
 				
-				"content_html": "<p><strong>Fool</strong> of a…</p>\n<p><img src=\"https://cdn.uploads.micro.blog/1214/2024/8a436cb769.jpg\" alt=\"A weathered vintage sign for a store called Took and Johnnie’s features a drawing of Marilyn Monroe’s subway grate pose.\"></p>\n",
-				"content_text": "**Fool** of a…\n\n![A weathered vintage sign for a store called Took and Johnnie’s features a drawing of Marilyn Monroe’s subway grate pose.](https://cdn.uploads.micro.blog/1214/2024/8a436cb769.jpg)\n",
+				"content_html": "<p><strong>Fool</strong> of a…</p>\n<p><img src=\"https://jerrytowler.com/uploads/2024/8a436cb769.jpg\" alt=\"A weathered vintage sign for a store called Took and Johnnie’s features a drawing of Marilyn Monroe’s subway grate pose.\"></p>\n",
+				"content_text": "**Fool** of a…\n\n![A weathered vintage sign for a store called Took and Johnnie’s features a drawing of Marilyn Monroe’s subway grate pose.](https://jerrytowler.com/uploads/2024/8a436cb769.jpg)\n",
 				"date_published": "2024-12-31T16:10:24-06:00",
 				"url": "https://jerrytowler.com/2024/12/31/fool-of-a.html"
 			},
@@ -340,7 +357,7 @@
 				"id": "http://jatowler.micro.blog/2024/12/31/getting-some-coffee-and-wifi.html",
 				
 				"content_html": "<p>Getting some coffee and WiFi at Downshift Brewing in Ruidoso. Got a few hours of work in with a view of the river and some decorations being taken down.</p>\n<p>Hopefully we’ll be back later today to, uh, downshift from caffeine to alcohol; their beer is good too.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Getting some coffee and WiFi at Downshift Brewing in Ruidoso. Got a few hours of work in with a view of the river and some decorations being taken down.\n\nHopefully we’ll be back later today to, uh, downshift from caffeine to alcohol; their beer is good too.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/51f3bff65b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Getting some coffee and WiFi at Downshift Brewing in Ruidoso. Got a few hours of work in with a view of the river and some decorations being taken down.\n\nHopefully we’ll be back later today to, uh, downshift from caffeine to alcohol; their beer is good too.\n\n<img src=\"uploads/2024/51f3bff65b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-12-31T13:03:56-06:00",
 				"url": "https://jerrytowler.com/2024/12/31/getting-some-coffee-and-wifi.html",
 				"tags": ["photos"]
@@ -367,7 +384,7 @@
 				"id": "http://jatowler.micro.blog/2024/12/23/this-road-trip-has-given.html",
 				
 				"content_html": "<p>This road trip has given us the opportunity to compare many fried chicken chains across more than a thousand miles so far. We’ve hit Whataburger (I know), Popeye’s, and just now Bojangle’s for lunch.</p>\n<p>Best chicken: Popeye’s\nBest biscuit: Bojangle’s\nMost Texan: Whataburger\nWinner: us</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This road trip has given us the opportunity to compare many fried chicken chains across more than a thousand miles so far. We’ve hit Whataburger (I know), Popeye’s, and just now Bojangle’s for lunch.\n\nBest chicken: Popeye’s\nBest biscuit: Bojangle’s\nMost Texan: Whataburger\nWinner: us\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/f19988327c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "This road trip has given us the opportunity to compare many fried chicken chains across more than a thousand miles so far. We’ve hit Whataburger (I know), Popeye’s, and just now Bojangle’s for lunch.\n\nBest chicken: Popeye’s\nBest biscuit: Bojangle’s\nMost Texan: Whataburger\nWinner: us\n\n<img src=\"uploads/2024/f19988327c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-12-23T12:39:04-06:00",
 				"url": "https://jerrytowler.com/2024/12/23/this-road-trip-has-given.html",
 				"tags": ["photos","travel"]
@@ -418,7 +435,7 @@
 				"id": "http://jatowler.micro.blog/2024/12/10/took-a-few.html",
 				
 				"content_html": "<p>Took a few days off to stay at a <a href=\"https://postcardcabins.com\">Postcard Cabins</a> cabin, which is a (<em>very</em>) tiny house with a campfire and some chairs. It&rsquo;s almost secluded enough to feel alone in the hill country. We had a great time, burned a lot of wood, made smores, and talked a lot about our plans and hopes for 2025.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Took a few days off to stay at a [Postcard Cabins](https://postcardcabins.com) cabin, which is a (_very_) tiny house with a campfire and some chairs. It's almost secluded enough to feel alone in the hill country. We had a great time, burned a lot of wood, made smores, and talked a lot about our plans and hopes for 2025.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/img-4956.jpeg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1214/2024/img-4988.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Took a few days off to stay at a [Postcard Cabins](https://postcardcabins.com) cabin, which is a (_very_) tiny house with a campfire and some chairs. It's almost secluded enough to feel alone in the hill country. We had a great time, burned a lot of wood, made smores, and talked a lot about our plans and hopes for 2025.\n\n<img src=\"uploads/2024/img-4956.jpeg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/img-4988.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-12-10T19:54:56-06:00",
 				"url": "https://jerrytowler.com/2024/12/10/took-a-few.html",
 				"tags": ["photos"]
@@ -436,7 +453,7 @@
 				"id": "http://jatowler.micro.blog/2024/12/07/my-primary-desk.html",
 				
 				"content_html": "<p>My primary desk for the last twenty years or so has been a door that I stained and added a fir border and collapsible legs. It gives me a huge workspace, and it reminds me of my grandfather, who helped me make it before I left for college. However, its surface is not perfectly even, so when I added a nice aluminum-frame mechanical keyboard a couple of weeks ago, the keyboard rocked.</p>\n<p>Today it occurred to me to ask my wife for some help, and she suggested a piece of felt under one of the legs. I put the felt under the whole thing, and it worked perfectly. Plus it looks kind of cool against the coiled cable.</p>\n<p>Yes, I know they make desk mats, but this solution was already sitting in our house.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My primary desk for the last twenty years or so has been a door that I stained and added a fir border and collapsible legs. It gives me a huge workspace, and it reminds me of my grandfather, who helped me make it before I left for college. However, its surface is not perfectly even, so when I added a nice aluminum-frame mechanical keyboard a couple of weeks ago, the keyboard rocked.\r\n\r\nToday it occurred to me to ask my wife for some help, and she suggested a piece of felt under one of the legs. I put the felt under the whole thing, and it worked perfectly. Plus it looks kind of cool against the coiled cable.\r\n\r\nYes, I know they make desk mats, but this solution was already sitting in our house.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/img-4913.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "My primary desk for the last twenty years or so has been a door that I stained and added a fir border and collapsible legs. It gives me a huge workspace, and it reminds me of my grandfather, who helped me make it before I left for college. However, its surface is not perfectly even, so when I added a nice aluminum-frame mechanical keyboard a couple of weeks ago, the keyboard rocked.\r\n\r\nToday it occurred to me to ask my wife for some help, and she suggested a piece of felt under one of the legs. I put the felt under the whole thing, and it worked perfectly. Plus it looks kind of cool against the coiled cable.\r\n\r\nYes, I know they make desk mats, but this solution was already sitting in our house.\n\n<img src=\"uploads/2024/img-4913.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-12-07T11:12:18-06:00",
 				"url": "https://jerrytowler.com/2024/12/07/my-primary-desk.html",
 				"tags": ["photos"]
@@ -481,7 +498,7 @@
 				"id": "http://jatowler.micro.blog/2024/10/27/the-hokies-and.html",
 				
 				"content_html": "<p>The Hokies and the Mustangs both won yesterday (even if the Mustangs win was maybe the ugliest I&rsquo;ve ever seen), and we hiked a few miles together this morning. Can&rsquo;t ask much more out of a weekend.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The Hokies and the Mustangs both won yesterday (even if the Mustangs win was maybe the ugliest I've ever seen), and we hiked a few miles together this morning. Can't ask much more out of a weekend.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/099eacd1c5.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "The Hokies and the Mustangs both won yesterday (even if the Mustangs win was maybe the ugliest I've ever seen), and we hiked a few miles together this morning. Can't ask much more out of a weekend.\n\n<img src=\"uploads/2024/099eacd1c5.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-10-27T13:37:01-06:00",
 				"url": "https://jerrytowler.com/2024/10/27/the-hokies-and.html"
 			},
@@ -497,7 +514,7 @@
 				"id": "http://jatowler.micro.blog/2024/10/09/beer-and-cold.html",
 				
 				"content_html": "<p>Beer and cold cuts by the Duomo Milano is a great way to start this trip.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Beer and cold cuts by the Duomo Milano is a great way to start this trip.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/76f5d36ddc.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1214/2024/eb27f2080b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Beer and cold cuts by the Duomo Milano is a great way to start this trip.\n\n<img src=\"uploads/2024/76f5d36ddc.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/eb27f2080b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-10-09T05:18:00-06:00",
 				"url": "https://jerrytowler.com/2024/10/09/beer-and-cold.html",
 				"tags": ["travel"]
@@ -546,7 +563,7 @@
 				"id": "http://jatowler.micro.blog/2024/09/21/our-traditional-oktoberfest.html",
 				
 				"content_html": "<p>Our traditional Oktoberfest pumpkin beer tasting has begun!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Our traditional Oktoberfest pumpkin beer tasting has begun!\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/630de9bbcb.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Our traditional Oktoberfest pumpkin beer tasting has begun!\n\n<img src=\"uploads/2024/630de9bbcb.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-09-21T18:17:38-06:00",
 				"url": "https://jerrytowler.com/2024/09/21/our-traditional-oktoberfest.html",
 				"tags": ["photos"]
@@ -696,7 +713,7 @@
 				"id": "http://jatowler.micro.blog/2024/09/06/it-took-more.html",
 				
 				"content_html": "<p>It took more time than I wanted tonight, but book 3 is edited and ready to go. Even has a fun cover image made from a photograph I took in Montserrat, Spain.</p>\n<p>Six more books to go in this first batch.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It took more time than I wanted tonight, but book 3 is edited and ready to go. Even has a fun cover image made from a photograph I took in Montserrat, Spain.\n\nSix more books to go in this first batch.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/161baa9670.jpg\" width=\"600\" height=\"600\" alt=\"Lit candles on an altar in bright white, red, green, and blue. Stylized like looking through faceted glass.\">\n",
+				"content_text": "It took more time than I wanted tonight, but book 3 is edited and ready to go. Even has a fun cover image made from a photograph I took in Montserrat, Spain.\n\nSix more books to go in this first batch.\n\n<img src=\"uploads/2024/161baa9670.jpg\" width=\"600\" height=\"600\" alt=\"Lit candles on an altar in bright white, red, green, and blue. Stylized like looking through faceted glass.\">\n",
 				"date_published": "2024-09-05T23:00:45-06:00",
 				"url": "https://jerrytowler.com/2024/09/06/it-took-more.html"
 			},
@@ -730,7 +747,7 @@
 				"id": "http://jatowler.micro.blog/2024/09/05/today-is-the.html",
 				
 				"content_html": "<p>Today is the first time I’ve been on top of the leaderboard for any of the Lex.games, however briefly. I’m not signed in so you have to trust me, but I’m the “Undisclosed Strategist” with a time of 26 seconds.</p>\n<p>Which will inevitably be beaten, and probably soon.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Today is the first time I’ve been on top of the leaderboard for any of the Lex.games, however briefly. I’m not signed in so you have to trust me, but I’m the “Undisclosed Strategist” with a time of 26 seconds.\n\nWhich will inevitably be beaten, and probably soon.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/151d99f8ac.jpg\" width=\"466\" height=\"600\" alt=\"Leaderboard for Lexicogs #184, showing places 2–5 at 33 seconds and an “Undisclosed Strategist” with no time in first place.\">\n",
+				"content_text": "Today is the first time I’ve been on top of the leaderboard for any of the Lex.games, however briefly. I’m not signed in so you have to trust me, but I’m the “Undisclosed Strategist” with a time of 26 seconds.\n\nWhich will inevitably be beaten, and probably soon.\n\n<img src=\"uploads/2024/151d99f8ac.jpg\" width=\"466\" height=\"600\" alt=\"Leaderboard for Lexicogs #184, showing places 2–5 at 33 seconds and an “Undisclosed Strategist” with no time in first place.\">\n",
 				"date_published": "2024-09-05T07:38:07-06:00",
 				"url": "https://jerrytowler.com/2024/09/05/today-is-the.html"
 			},
@@ -798,7 +815,7 @@
 				"id": "http://jatowler.micro.blog/2024/08/31/could-hardly-ask.html",
 				
 				"content_html": "<p>Could hardly ask for a more perfect Saturday: football and beer with Meera at the lake.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Could hardly ask for a more perfect Saturday: football and beer with Meera at the lake.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/0f315e22af.jpg\" width=\"600\" height=\"464\" alt=\"An iPad showing VT at Vanderbilt on a table in front of a window looking out onto a lake with bright blue skies and clouds. Seltzer on one side, beer in a pint glass on the other. Score is 27-27, sorry Hokies.\">\n",
+				"content_text": "Could hardly ask for a more perfect Saturday: football and beer with Meera at the lake.\n\n<img src=\"uploads/2024/0f315e22af.jpg\" width=\"600\" height=\"464\" alt=\"An iPad showing VT at Vanderbilt on a table in front of a window looking out onto a lake with bright blue skies and clouds. Seltzer on one side, beer in a pint glass on the other. Score is 27-27, sorry Hokies.\">\n",
 				"date_published": "2024-08-31T14:28:14-06:00",
 				"url": "https://jerrytowler.com/2024/08/31/could-hardly-ask.html"
 			},
@@ -806,7 +823,7 @@
 				"id": "http://jatowler.micro.blog/2024/08/31/headed-up-to.html",
 				
 				"content_html": "<p>Headed up to the lake today for some big weekend plans: food and football. And pumpkin beers.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Headed up to the lake today for some big weekend plans: food and football. And pumpkin beers.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/4fb8b15685.jpg\" width=\"600\" height=\"600\" alt=\"A stack of three family-size boxes of Cheez-Its, a six-pack of Sam Adams Jack-O beer, and a six-pack of Dogfish Head Punkin Ale.\">\n",
+				"content_text": "Headed up to the lake today for some big weekend plans: food and football. And pumpkin beers.\n\n<img src=\"uploads/2024/4fb8b15685.jpg\" width=\"600\" height=\"600\" alt=\"A stack of three family-size boxes of Cheez-Its, a six-pack of Sam Adams Jack-O beer, and a six-pack of Dogfish Head Punkin Ale.\">\n",
 				"date_published": "2024-08-31T07:05:34-06:00",
 				"url": "https://jerrytowler.com/2024/08/31/headed-up-to.html"
 			},
@@ -829,8 +846,8 @@
 			{
 				"id": "http://jatowler.micro.blog/2024/08/30/tuck-has-found.html",
 				
-				"content_html": "<p>Tuck has found a new spot to sit while I&rsquo;m working from home or writing for myself.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/1214/2024/img-3977.jpeg\" alt=\"\"></p>\n",
-				"content_text": "Tuck has found a new spot to sit while I'm working from home or writing for myself.\r\n\r\n![](https://cdn.uploads.micro.blog/1214/2024/img-3977.jpeg)\n",
+				"content_html": "<p>Tuck has found a new spot to sit while I&rsquo;m working from home or writing for myself.</p>\n<p><img src=\"https://jerrytowler.com/uploads/2024/img-3977.jpeg\" alt=\"\"></p>\n",
+				"content_text": "Tuck has found a new spot to sit while I'm working from home or writing for myself.\r\n\r\n![](https://jerrytowler.com/uploads/2024/img-3977.jpeg)\n",
 				"date_published": "2024-08-30T16:05:31-06:00",
 				"url": "https://jerrytowler.com/2024/08/30/tuck-has-found.html"
 			},
@@ -838,7 +855,7 @@
 				"id": "http://jatowler.micro.blog/2024/08/29/tried-to-go.html",
 				
 				"content_html": "<p>Tried to go out to dinner with Meera tonight. Unfortunately, San Antonio.</p>\n<p>This ramen—from JY Ramen—was nearly inedible; Meera’s actually was, and therefore remains unphotographed.</p>\n<p>Experiment failed.</p>\n<p>Anybody have suggestions for actually good ramen in this city?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Tried to go out to dinner with Meera tonight. Unfortunately, San Antonio.\n\nThis ramen—from JY Ramen—was nearly inedible; Meera’s actually was, and therefore remains unphotographed.\n\nExperiment failed.\n\nAnybody have suggestions for actually good ramen in this city?\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/a348d031df.jpg\" width=\"450\" height=\"600\" alt=\"Ramen that looks pretty, with egg and mushrooms and seaweed, but tasted awful.\">\n",
+				"content_text": "Tried to go out to dinner with Meera tonight. Unfortunately, San Antonio.\n\nThis ramen—from JY Ramen—was nearly inedible; Meera’s actually was, and therefore remains unphotographed.\n\nExperiment failed.\n\nAnybody have suggestions for actually good ramen in this city?\n\n<img src=\"uploads/2024/a348d031df.jpg\" width=\"450\" height=\"600\" alt=\"Ramen that looks pretty, with egg and mushrooms and seaweed, but tasted awful.\">\n",
 				"date_published": "2024-08-29T19:08:37-06:00",
 				"url": "https://jerrytowler.com/2024/08/29/tried-to-go.html"
 			},
@@ -855,7 +872,7 @@
 				"id": "http://jatowler.micro.blog/2024/08/27/the-mornings-have.html",
 				
 				"content_html": "<p>The mornings have been blessedly cooler the past few days (although the humidity has remained in the high 80s) so I’ve been more willing to walk the whole neighborhood with the dog.</p>\n<p>I’m amused daily by the variation in tempo he chooses, whether I want a quick walk or not.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The mornings have been blessedly cooler the past few days (although the humidity has remained in the high 80s) so I’ve been more willing to walk the whole neighborhood with the dog.\n\nI’m amused daily by the variation in tempo he chooses, whether I want a quick walk or not.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/cf9391c77a.jpg\" width=\"301\" height=\"600\" alt=\"An Apple Fitness heatmap of my morning neighborhood walk. Don’t be creepy.\">\n",
+				"content_text": "The mornings have been blessedly cooler the past few days (although the humidity has remained in the high 80s) so I’ve been more willing to walk the whole neighborhood with the dog.\n\nI’m amused daily by the variation in tempo he chooses, whether I want a quick walk or not.\n\n<img src=\"uploads/2024/cf9391c77a.jpg\" width=\"301\" height=\"600\" alt=\"An Apple Fitness heatmap of my morning neighborhood walk. Don’t be creepy.\">\n",
 				"date_published": "2024-08-27T07:34:41-06:00",
 				"url": "https://jerrytowler.com/2024/08/27/the-mornings-have.html"
 			},
@@ -897,7 +914,7 @@
 				"id": "http://jatowler.micro.blog/2024/08/21/my-daily-exercise.html",
 				
 				"content_html": "<p>My daily exercise minutes reflects the season and the temperature somewhat cleanly.</p>\n<p>The tall spikes are all ski trips—yes, even into April—except the most recent, which was a backpacking trip.</p>\n<p>Relatedly, we’re less than a hundred days from the start of ski season!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My daily exercise minutes reflects the season and the temperature somewhat cleanly.\n\nThe tall spikes are all ski trips—yes, even into April—except the most recent, which was a backpacking trip.\n\nRelatedly, we’re less than a hundred days from the start of ski season!\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/f6136e197e.jpg\" width=\"600\" height=\"434\" alt=\"Apple Fitness chart of my daily exercise minutes declining from an average of 39/day from September to May to 28/day since then. Spikes in the winter months for ski trips, and only one spike since April for backpacking.\">\n",
+				"content_text": "My daily exercise minutes reflects the season and the temperature somewhat cleanly.\n\nThe tall spikes are all ski trips—yes, even into April—except the most recent, which was a backpacking trip.\n\nRelatedly, we’re less than a hundred days from the start of ski season!\n\n<img src=\"uploads/2024/f6136e197e.jpg\" width=\"600\" height=\"434\" alt=\"Apple Fitness chart of my daily exercise minutes declining from an average of 39/day from September to May to 28/day since then. Spikes in the winter months for ski trips, and only one spike since April for backpacking.\">\n",
 				"date_published": "2024-08-21T06:33:03-06:00",
 				"url": "https://jerrytowler.com/2024/08/21/my-daily-exercise.html"
 			},
@@ -913,7 +930,7 @@
 				"id": "http://jatowler.micro.blog/2024/08/17/the-saddest-widget.html",
 				
 				"content_html": "<p>The saddest widget</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The saddest widget\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/6602470d44.jpg\" width=\"548\" height=\"600\" alt=\"Empty Flighty widget reading “No Flights”\">\n",
+				"content_text": "The saddest widget\n\n<img src=\"uploads/2024/6602470d44.jpg\" width=\"548\" height=\"600\" alt=\"Empty Flighty widget reading “No Flights”\">\n",
 				"date_published": "2024-08-17T19:44:42-06:00",
 				"url": "https://jerrytowler.com/2024/08/17/the-saddest-widget.html"
 			},
@@ -937,7 +954,7 @@
 				"id": "http://jatowler.micro.blog/2024/08/10/stopped-in-snake.html",
 				
 				"content_html": "<p>Stopped in Snake River Brewing in Jackson on our way up to the campsite. I can now check off two more states on my record of <a href=\"https://jerrytowler.com/where-have-i-been/\">Where Have I Been</a>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Stopped in Snake River Brewing in Jackson on our way up to the campsite. I can now check off two more states on my record of [Where Have I Been](https://jerrytowler.com/where-have-i-been/).\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/6f08ae8a16.jpg\" width=\"450\" height=\"600\" alt=\"Old Snake River Brewing vat covered in stickers.\">\n",
+				"content_text": "Stopped in Snake River Brewing in Jackson on our way up to the campsite. I can now check off two more states on my record of [Where Have I Been](https://jerrytowler.com/where-have-i-been/).\n\n<img src=\"uploads/2024/6f08ae8a16.jpg\" width=\"450\" height=\"600\" alt=\"Old Snake River Brewing vat covered in stickers.\">\n",
 				"date_published": "2024-08-10T13:31:06-06:00",
 				"url": "https://jerrytowler.com/2024/08/10/stopped-in-snake.html"
 			},
@@ -945,7 +962,7 @@
 				"id": "http://jatowler.micro.blog/2024/08/10/dinner-and-drinks.html",
 				
 				"content_html": "<p>Dinner and drinks tonight at Wasatch and Hopkins with Salt Lake City friends; the real adventure starts tomorrow.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Dinner and drinks tonight at Wasatch and Hopkins with Salt Lake City friends; the real adventure starts tomorrow.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/e354abadda.jpg\" width=\"600\" height=\"450\" alt=\"Front door of Hopkins Brewing Company.\">\n",
+				"content_text": "Dinner and drinks tonight at Wasatch and Hopkins with Salt Lake City friends; the real adventure starts tomorrow.\n\n<img src=\"uploads/2024/e354abadda.jpg\" width=\"600\" height=\"450\" alt=\"Front door of Hopkins Brewing Company.\">\n",
 				"date_published": "2024-08-09T22:04:17-06:00",
 				"url": "https://jerrytowler.com/2024/08/10/dinner-and-drinks.html"
 			},
@@ -970,7 +987,7 @@
 				"id": "http://jatowler.micro.blog/2024/08/04/my-crew-is.html",
 				
 				"content_html": "<p>My crew is about to start a new adventure, ironically immediately after <a href=\"https://micro.blog/TSindelar@zeppelin.flights\">@TSindelar@zeppelin.flights</a> and the TPK crew just finished it, seventy-four episodes and a thousand years later&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My crew is about to start a new adventure, ironically immediately after [@TSindelar@zeppelin.flights](https://micro.blog/TSindelar@zeppelin.flights) and the TPK crew just finished it, seventy-four episodes and a thousand years later...\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/d2f2482411.jpg\" width=\"450\" height=\"600\" alt=\"The hardcover version of “The Curse of Strahd” Dungeons and Dragons adventure.\">\n",
+				"content_text": "My crew is about to start a new adventure, ironically immediately after [@TSindelar@zeppelin.flights](https://micro.blog/TSindelar@zeppelin.flights) and the TPK crew just finished it, seventy-four episodes and a thousand years later...\n\n<img src=\"uploads/2024/d2f2482411.jpg\" width=\"450\" height=\"600\" alt=\"The hardcover version of “The Curse of Strahd” Dungeons and Dragons adventure.\">\n",
 				"date_published": "2024-08-04T18:02:16-06:00",
 				"url": "https://jerrytowler.com/2024/08/04/my-crew-is.html"
 			},
@@ -1019,7 +1036,7 @@
 				"id": "http://jatowler.micro.blog/2024/07/19/in-summer-we.html",
 				
 				"content_html": "<p>In summer 2023, we couldn’t bear the heat in Texas, so we took two huge escape trips: one to Santiago, Chile, and one to Queenstown, New Zealand. As a result, I have snow skiing🎿 pictures like this one dated in August and September.</p>\n<p>Unfortunately, we stayed in the northern hemisphere this year, and I don’t think we will see any more snow in 2024 until winter.</p>\n<p>📸</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In summer 2023, we couldn’t bear the heat in Texas, so we took two huge escape trips: one to Santiago, Chile, and one to Queenstown, New Zealand. As a result, I have snow skiing🎿 pictures like this one dated in August and September.\n\nUnfortunately, we stayed in the northern hemisphere this year, and I don’t think we will see any more snow in 2024 until winter.\n\n📸\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/970e0796d1.jpg\" width=\"450\" height=\"600\" alt=\"Meera in a ski helmet and goggles drinking a beer.\">\n",
+				"content_text": "In summer 2023, we couldn’t bear the heat in Texas, so we took two huge escape trips: one to Santiago, Chile, and one to Queenstown, New Zealand. As a result, I have snow skiing🎿 pictures like this one dated in August and September.\n\nUnfortunately, we stayed in the northern hemisphere this year, and I don’t think we will see any more snow in 2024 until winter.\n\n📸\n\n<img src=\"uploads/2024/970e0796d1.jpg\" width=\"450\" height=\"600\" alt=\"Meera in a ski helmet and goggles drinking a beer.\">\n",
 				"date_published": "2024-07-19T06:59:07-06:00",
 				"url": "https://jerrytowler.com/2024/07/19/in-summer-we.html",
 				"tags": ["photos"]
@@ -1045,7 +1062,7 @@
 				"id": "http://jatowler.micro.blog/2024/07/17/the-atomium-in.html",
 				
 				"content_html": "<p>The <a href=\"https://www.atomium.be/\">Atomium</a> in Brussels is another one of those World’s Fair buildings (like the Eiffel Tower, but 69 years later) that looks cooler than it has any right to be.</p>\n<p>The inside is apparently some sort of digital art museum and cultural archive, but Meera and I didn’t have the time or the energy to tour it in between chocolate and beer tastings while we were in Brussels (July 2024). We almost always enjoy a good museum, but we really didn’t want to spend another day walking around inside when the outside looked like it did in the picture.</p>\n<p>So we took the metro out there, observed a super-cool building, then took the metro right back to Grand Place and sat down for a drink and a snack.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The [Atomium](https://www.atomium.be/) in Brussels is another one of those World’s Fair buildings (like the Eiffel Tower, but 69 years later) that looks cooler than it has any right to be.\n\nThe inside is apparently some sort of digital art museum and cultural archive, but Meera and I didn’t have the time or the energy to tour it in between chocolate and beer tastings while we were in Brussels (July 2024). We almost always enjoy a good museum, but we really didn’t want to spend another day walking around inside when the outside looked like it did in the picture.\n\nSo we took the metro out there, observed a super-cool building, then took the metro right back to Grand Place and sat down for a drink and a snack.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/05f72508f2.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"content_text": "The [Atomium](https://www.atomium.be/) in Brussels is another one of those World’s Fair buildings (like the Eiffel Tower, but 69 years later) that looks cooler than it has any right to be.\n\nThe inside is apparently some sort of digital art museum and cultural archive, but Meera and I didn’t have the time or the energy to tour it in between chocolate and beer tastings while we were in Brussels (July 2024). We almost always enjoy a good museum, but we really didn’t want to spend another day walking around inside when the outside looked like it did in the picture.\n\nSo we took the metro out there, observed a super-cool building, then took the metro right back to Grand Place and sat down for a drink and a snack.\n\n<img src=\"uploads/2024/05f72508f2.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
 				"date_published": "2024-07-17T07:00:10-06:00",
 				"url": "https://jerrytowler.com/2024/07/17/the-atomium-in.html",
 				"tags": ["photos","travel"]
@@ -1054,7 +1071,7 @@
 				"id": "http://jatowler.micro.blog/2024/07/14/my-microblog-is.html",
 				"title": "My Microblog Is Now My Only Blog",
 				"content_html": "<p>I converted <a href=\"https://jerrytowler.com\">my microblog</a> to be my primary home page.</p>\n<p>First, I converted my microblog to the Alpine theme. I love the aesthetics of the <a href=\"https://micro.blog/account/plugins/view/18\">Tufte theme</a> (<a href=\"https://github.com/pimoore/microdotblog-tufte\">GitHub</a>) I was using by <a href=\"https://micro.blog/pimoore\">@pimoore</a>, but it hasn&rsquo;t been updated in a while and Micro.blog has been adding features rapidly.</p>\n<p>I briefly flirted with <a href=\"https://micro.blog/mtt\">@mtt</a>’s <a href=\"https://micro.blog/account/plugins/view/96\">Tiny Theme</a> for its flexibility, but I like the out-of-the-box behavior of Alpine better.</p>\n<p>But if it was going to be my home page, I wanted it to be a little richer. <a href=\"https://micro.blog/manton\">@manton</a>&rsquo;s <a href=\"https://www.manton.org\">home page</a> is quite stark, which is probably what he wants: it drastically centers the microblog.</p>\n<p>But I wanted more.</p>\n<p>So I dug into the theme and made a few changes: I added a second column for photos posts (based on a category)<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>, which meant I had to add a little more space. By default, the column of posts is only <code>700px</code> wide; mine is <code>55em</code> wide.</p>\n<p>The attached picture is my previous home page, made using Jekyll’s Compass theme, for posterity.</p>\n<p>Two down.</p>\n<!-- raw HTML omitted -->\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>Of course, I&rsquo;m now loading two copies of every photo post because I haven&rsquo;t yet figured out how to exclude them from the main list.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
-				"content_text": "I converted [my microblog](https://jerrytowler.com) to be my primary home page.\n\nFirst, I converted my microblog to the Alpine theme. I love the aesthetics of the [Tufte theme](https://micro.blog/account/plugins/view/18) ([GitHub](https://github.com/pimoore/microdotblog-tufte)) I was using by [@pimoore](https://micro.blog/pimoore), but it hasn't been updated in a while and Micro.blog has been adding features rapidly.\n\nI briefly flirted with [@mtt](https://micro.blog/mtt)’s [Tiny Theme](https://micro.blog/account/plugins/view/96) for its flexibility, but I like the out-of-the-box behavior of Alpine better.\n\nBut if it was going to be my home page, I wanted it to be a little richer. [@manton](https://micro.blog/manton)'s [home page](https://www.manton.org) is quite stark, which is probably what he wants: it drastically centers the microblog.\n\nBut I wanted more.\n\nSo I dug into the theme and made a few changes: I added a second column for photos posts (based on a category)[^1], which meant I had to add a little more space. By default, the column of posts is only `700px` wide; mine is `55em` wide.\n\n[^1]: Of course, I'm now loading two copies of every photo post because I haven't yet figured out how to exclude them from the main list. \n\nThe attached picture is my previous home page, made using Jekyll’s Compass theme, for posterity.\n\nTwo down.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/image.png\" width=\"600\" height=\"208\" alt=\"\">\n",
+				"content_text": "I converted [my microblog](https://jerrytowler.com) to be my primary home page.\n\nFirst, I converted my microblog to the Alpine theme. I love the aesthetics of the [Tufte theme](https://micro.blog/account/plugins/view/18) ([GitHub](https://github.com/pimoore/microdotblog-tufte)) I was using by [@pimoore](https://micro.blog/pimoore), but it hasn't been updated in a while and Micro.blog has been adding features rapidly.\n\nI briefly flirted with [@mtt](https://micro.blog/mtt)’s [Tiny Theme](https://micro.blog/account/plugins/view/96) for its flexibility, but I like the out-of-the-box behavior of Alpine better.\n\nBut if it was going to be my home page, I wanted it to be a little richer. [@manton](https://micro.blog/manton)'s [home page](https://www.manton.org) is quite stark, which is probably what he wants: it drastically centers the microblog.\n\nBut I wanted more.\n\nSo I dug into the theme and made a few changes: I added a second column for photos posts (based on a category)[^1], which meant I had to add a little more space. By default, the column of posts is only `700px` wide; mine is `55em` wide.\n\n[^1]: Of course, I'm now loading two copies of every photo post because I haven't yet figured out how to exclude them from the main list. \n\nThe attached picture is my previous home page, made using Jekyll’s Compass theme, for posterity.\n\nTwo down.\n\n<img src=\"uploads/2024/image.png\" width=\"600\" height=\"208\" alt=\"\">\n",
 				"date_published": "2024-07-14T17:46:57-06:00",
 				"url": "https://jerrytowler.com/2024/07/14/my-microblog-is.html"
 			},
@@ -1078,7 +1095,7 @@
 				"id": "http://jatowler.micro.blog/2024/07/11/what-is-a.html",
 				
 				"content_html": "<p><a href=\"https://calnewport.com/on-ultra-processed-content/\">“What is a TikTok dance mash up if not a digital Dorito?”</a></p>\n<p>The hierarchy Newport builds up here seems to make sense, but I’m reminded of this Dilbert strip, which makes the point that the medium may encourage certain content, but doesn’t necessarily determine it.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[“What is a TikTok dance mash up if not a digital Dorito?”](https://calnewport.com/on-ultra-processed-content/)\n\nThe hierarchy Newport builds up here seems to make sense, but I’m reminded of this Dilbert strip, which makes the point that the medium may encourage certain content, but doesn’t necessarily determine it.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/80c39e6692.jpg\" width=\"600\" height=\"260\" alt=\"Dilbert comic\">\n",
+				"content_text": "[“What is a TikTok dance mash up if not a digital Dorito?”](https://calnewport.com/on-ultra-processed-content/)\n\nThe hierarchy Newport builds up here seems to make sense, but I’m reminded of this Dilbert strip, which makes the point that the medium may encourage certain content, but doesn’t necessarily determine it.\n\n<img src=\"uploads/2024/80c39e6692.jpg\" width=\"600\" height=\"260\" alt=\"Dilbert comic\">\n",
 				"date_published": "2024-07-11T07:03:56-06:00",
 				"url": "https://jerrytowler.com/2024/07/11/what-is-a.html"
 			},
@@ -1102,7 +1119,7 @@
 				"id": "http://jatowler.micro.blog/2024/07/06/by-far-my.html",
 				
 				"content_html": "<p>By far my favorite part of <a href=\"https://www.flightyapp.com/\">Flighty</a> is the Home Screen widget that tells you when your next flight is.</p>\n<p>We just got home yesterday from a week in Europe, and it tells me I only have to wait thirteen days until I’m back on the road.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "By far my favorite part of [Flighty](https://www.flightyapp.com/) is the Home Screen widget that tells you when your next flight is.\n\nWe just got home yesterday from a week in Europe, and it tells me I only have to wait thirteen days until I’m back on the road.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/2432a7bd84.jpg\" width=\"538\" height=\"587\" alt=\"Flighty widget showing a Delta flight to Atlanta in 13 days.\">\n",
+				"content_text": "By far my favorite part of [Flighty](https://www.flightyapp.com/) is the Home Screen widget that tells you when your next flight is.\n\nWe just got home yesterday from a week in Europe, and it tells me I only have to wait thirteen days until I’m back on the road.\n\n<img src=\"uploads/2024/2432a7bd84.jpg\" width=\"538\" height=\"587\" alt=\"Flighty widget showing a Delta flight to Atlanta in 13 days.\">\n",
 				"date_published": "2024-07-06T08:04:36-06:00",
 				"url": "https://jerrytowler.com/2024/07/06/by-far-my.html"
 			},
@@ -1119,7 +1136,7 @@
 				"id": "http://jatowler.micro.blog/2024/07/05/the-food-and.html",
 				
 				"content_html": "<p>The food and beer selection at CDG past immigration is criminally weak for a city that prides itself on food.</p>\n<p>Maybe they’re just upset I’m leaving?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The food and beer selection at CDG past immigration is criminally weak for a city that prides itself on food.\n\nMaybe they’re just upset I’m leaving?\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/fe14f16257.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "The food and beer selection at CDG past immigration is criminally weak for a city that prides itself on food.\n\nMaybe they’re just upset I’m leaving?\n\n<img src=\"uploads/2024/fe14f16257.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-07-05T05:47:50-06:00",
 				"url": "https://jerrytowler.com/2024/07/05/the-food-and.html",
 				"tags": ["photos","travel"]
@@ -1137,7 +1154,7 @@
 				"id": "http://jatowler.micro.blog/2024/06/28/vianden-castle-is.html",
 				
 				"content_html": "<p>Vianden Castle is a short but steep hike from the bus stop, but the views are excellent even before you get to tour the inside.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Vianden Castle is a short but steep hike from the bus stop, but the views are excellent even before you get to tour the inside.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/08d14088014f4dd299d9e0fa8164e5a9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Vianden Castle is a short but steep hike from the bus stop, but the views are excellent even before you get to tour the inside.\n\n<img src=\"uploads/2024/08d14088014f4dd299d9e0fa8164e5a9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-06-28T12:32:12-06:00",
 				"url": "https://jerrytowler.com/2024/06/28/vianden-castle-is.html",
 				"tags": ["photos","travel"]
@@ -1154,7 +1171,7 @@
 				"id": "http://jatowler.micro.blog/2024/06/23/i-have-apparently.html",
 				
 				"content_html": "<p>I have apparently arrived in Luxembourg 🇱🇺 on the <a href=\"https://monarchie.lu/en/head-state/national-day\">Grand Duke’s official birthday</a>. Unfortunately, all that was left when I arrived on the TGV from Paris was the aftermath.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I have apparently arrived in Luxembourg 🇱🇺 on the [Grand Duke’s official birthday](https://monarchie.lu/en/head-state/national-day). Unfortunately, all that was left when I arrived on the TGV from Paris was the aftermath.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/ee214afacb.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "I have apparently arrived in Luxembourg 🇱🇺 on the [Grand Duke’s official birthday](https://monarchie.lu/en/head-state/national-day). Unfortunately, all that was left when I arrived on the TGV from Paris was the aftermath.\n\n<img src=\"uploads/2024/ee214afacb.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-06-23T10:57:05-06:00",
 				"url": "https://jerrytowler.com/2024/06/23/i-have-apparently.html",
 				"tags": ["photos","travel"]
@@ -1197,7 +1214,7 @@
 				"id": "http://jatowler.micro.blog/2024/04/08/third-space-coffee.html",
 				
 				"content_html": "<p>Third Space Coffee in Colorado Springs serves artisanal coffeeee flights. We had to get one… okay, we got three. ☕️</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Third Space Coffee in Colorado Springs serves artisanal coffeeee flights. We had to get one… okay, we got three. ☕️ \n\n\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/6758318f52.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1214/2024/bf7571e302.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1214/2024/00a1de9820.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Third Space Coffee in Colorado Springs serves artisanal coffeeee flights. We had to get one… okay, we got three. ☕️ \n\n\n\n<img src=\"uploads/2024/6758318f52.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/bf7571e302.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/00a1de9820.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-04-08T16:17:05-06:00",
 				"url": "https://jerrytowler.com/2024/04/08/third-space-coffee.html",
 				"tags": ["photos","travel"]
@@ -1206,7 +1223,7 @@
 				"id": "http://jatowler.micro.blog/2024/04/06/today-was-the.html",
 				
 				"content_html": "<p>Today was the last day of the ski season for us. We didn’t track every day, but we tracked most of them, and for a pair of engineers who live in Texas, we had a pretty good year. 🎿</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Today was the last day of the ski season for us. We didn’t track every day, but we tracked most of them, and for a pair of engineers who live in Texas, we had a pretty good year. 🎿 \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/43ddd16839.jpg\" width=\"600\" height=\"567\" alt=\"\">\n",
+				"content_text": "Today was the last day of the ski season for us. We didn’t track every day, but we tracked most of them, and for a pair of engineers who live in Texas, we had a pretty good year. 🎿 \n\n<img src=\"uploads/2024/43ddd16839.jpg\" width=\"600\" height=\"567\" alt=\"\">\n",
 				"date_published": "2024-04-06T00:29:27-06:00",
 				"url": "https://jerrytowler.com/2024/04/06/today-was-the.html"
 			},
@@ -1214,7 +1231,7 @@
 				"id": "http://jatowler.micro.blog/2024/04/04/i-think-we.html",
 				
 				"content_html": "<p>I think we found our <a href=\"https://micro.jerrytowler.com/2024/02/18/expanded-the-photo.html\">wall photo</a> for this trip! 🎿</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I think we found our [wall photo](https://micro.jerrytowler.com/2024/02/18/expanded-the-photo.html) for this trip! 🎿 \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/7d7f557dc1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "I think we found our [wall photo](https://micro.jerrytowler.com/2024/02/18/expanded-the-photo.html) for this trip! 🎿 \n\n<img src=\"uploads/2024/7d7f557dc1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-04T18:34:38-06:00",
 				"url": "https://jerrytowler.com/2024/04/04/i-think-we.html",
 				"tags": ["photos","travel"]
@@ -1223,7 +1240,7 @@
 				"id": "http://jatowler.micro.blog/2024/04/04/sometimes-the-naming.html",
 				
 				"content_html": "<p>Sometimes the naming of ski runs is a delicate matter, full of nuance and wordplay and even history.</p>\n<p>And sometimes a black diamond from the top of the mountain is just called KABOOM. 🎿</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sometimes the naming of ski runs is a delicate matter, full of nuance and wordplay and even history.\n\nAnd sometimes a black diamond from the top of the mountain is just called KABOOM. 🎿 \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/315f2ead79.jpg\" width=\"600\" height=\"337\" alt=\"Meera on skis on top of Copper Mountain in front of the sign for the KABOOM black diamond run.\">\n",
+				"content_text": "Sometimes the naming of ski runs is a delicate matter, full of nuance and wordplay and even history.\n\nAnd sometimes a black diamond from the top of the mountain is just called KABOOM. 🎿 \n\n<img src=\"uploads/2024/315f2ead79.jpg\" width=\"600\" height=\"337\" alt=\"Meera on skis on top of Copper Mountain in front of the sign for the KABOOM black diamond run.\">\n",
 				"date_published": "2024-04-04T09:57:01-06:00",
 				"url": "https://jerrytowler.com/2024/04/04/sometimes-the-naming.html"
 			},
@@ -1231,7 +1248,7 @@
 				"id": "http://jatowler.micro.blog/2024/04/03/meera-skis-like.html",
 				
 				"content_html": "<p>Meera skis like a girl. By which I mean, she had 2,000 feet more vert than we did today.🎿</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Meera skis like a girl. By which I mean, she had 2,000 feet more vert than we did today.🎿 \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/897ef9bdbc.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Meera skis like a girl. By which I mean, she had 2,000 feet more vert than we did today.🎿 \n\n<img src=\"uploads/2024/897ef9bdbc.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-03T19:11:41-06:00",
 				"url": "https://jerrytowler.com/2024/04/03/meera-skis-like.html",
 				"tags": ["photos","travel"]
@@ -1240,7 +1257,7 @@
 				"id": "http://jatowler.micro.blog/2024/04/03/our-first-day.html",
 				
 				"content_html": "<p>Our first day this trip at Copper was exactly as beautiful as expected, if a bit warm. We spent all day on the eastern side of the mountain, taking the Super Bee lift over and over.</p>\n<p>We even did a couple of double blacks off the back side of the mountain. I love being able to tackle harder slopes.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Our first day this trip at Copper was exactly as beautiful as expected, if a bit warm. We spent all day on the eastern side of the mountain, taking the Super Bee lift over and over.\n\nWe even did a couple of double blacks off the back side of the mountain. I love being able to tackle harder slopes.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/be6846db18.jpg\" width=\"600\" height=\"450\" alt=\"Meera celebrating on skis in front of clear blue skies.\">\n",
+				"content_text": "Our first day this trip at Copper was exactly as beautiful as expected, if a bit warm. We spent all day on the eastern side of the mountain, taking the Super Bee lift over and over.\n\nWe even did a couple of double blacks off the back side of the mountain. I love being able to tackle harder slopes.\n\n<img src=\"uploads/2024/be6846db18.jpg\" width=\"600\" height=\"450\" alt=\"Meera celebrating on skis in front of clear blue skies.\">\n",
 				"date_published": "2024-04-03T09:34:38-06:00",
 				"url": "https://jerrytowler.com/2024/04/03/our-first-day.html"
 			},
@@ -1248,7 +1265,7 @@
 				"id": "http://jatowler.micro.blog/2024/04/02/todays-the-first.html",
 				
 				"content_html": "<p>Today’s the first day of the last (planned) ski trip of the season. The sun is bright, although the sky is partially clouded, and it snowed last night.</p>\n<p>It’s going to be a good week. 🎿</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Today’s the first day of the last (planned) ski trip of the season. The sun is bright, although the sky is partially clouded, and it snowed last night.\n\nIt’s going to be a good week. 🎿 \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/152004fc4c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Today’s the first day of the last (planned) ski trip of the season. The sun is bright, although the sky is partially clouded, and it snowed last night.\n\nIt’s going to be a good week. 🎿 \n\n<img src=\"uploads/2024/152004fc4c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-04-02T08:04:16-06:00",
 				"url": "https://jerrytowler.com/2024/04/02/todays-the-first.html"
 			},
@@ -1265,7 +1282,7 @@
 				"id": "http://jatowler.micro.blog/2024/02/18/expanded-the-photo.html",
 				
 				"content_html": "<p>Expanded the photo wall today to include our trips to Munich, Zermatt, Big Sky (Montana), and Solitude (Utah). I love seeing all our big trips together at a glance.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Expanded the photo wall today to include our trips to Munich, Zermatt, Big Sky (Montana), and Solitude (Utah). I love seeing all our big trips together at a glance.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/7bdd6516161143afb4e6a20fee05d373.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Expanded the photo wall today to include our trips to Munich, Zermatt, Big Sky (Montana), and Solitude (Utah). I love seeing all our big trips together at a glance.\n\n<img src=\"uploads/2024/7bdd6516161143afb4e6a20fee05d373.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-02-18T01:31:01-06:00",
 				"url": "https://jerrytowler.com/2024/02/18/expanded-the-photo.html"
 			},
@@ -1324,7 +1341,7 @@
 				"id": "http://jatowler.micro.blog/2024/01/23/last-night-i.html",
 				
 				"content_html": "<p>Last night, I entered all my upcoming trips into my Obsidian trips database. The year is getting crowded, and we haven&rsquo;t made it out of January yet. (I also haven&rsquo;t entered some known trips for the back half of the year; at least August, October, and December will all have at least one trip.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Last night, I entered all my upcoming trips into my Obsidian trips database. The year is getting crowded, and we haven't made it out of January yet. (I also haven't entered some known trips for the back half of the year; at least August, October, and December will all have at least one trip.)\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2024/2024-trip-table.png\" width=\"600\" height=\"189\" alt=\"\">\n",
+				"content_text": "Last night, I entered all my upcoming trips into my Obsidian trips database. The year is getting crowded, and we haven't made it out of January yet. (I also haven't entered some known trips for the back half of the year; at least August, October, and December will all have at least one trip.)\n\n<img src=\"uploads/2024/2024-trip-table.png\" width=\"600\" height=\"189\" alt=\"\">\n",
 				"date_published": "2024-01-23T17:11:46-06:00",
 				"url": "https://jerrytowler.com/2024/01/23/last-night-i.html"
 			},
@@ -1415,7 +1432,7 @@
 				"id": "http://jatowler.micro.blog/2023/09/26/two-more-fall.html",
 				
 				"content_html": "<p>Two more fall beers tonight:</p>\n<ul>\n<li>Altstadt Okt</li>\n<li>Samuel Adams Jack-O</li>\n</ul>\n<p>🎃🍻</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Two more fall beers tonight:\r\n\r\n* Altstadt Okt\r\n* Samuel Adams Jack-O\r\n\r\n🎃🍻\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/8277ab00-9bfb-41d6-a3f0-1a08b60009f1-1-105-c.jpeg\" width=\"450\" height=\"600\" alt=\"Two beer bottles on a table: Altstadt Okt and Samuel Adams Jack-O\">\n",
+				"content_text": "Two more fall beers tonight:\r\n\r\n* Altstadt Okt\r\n* Samuel Adams Jack-O\r\n\r\n🎃🍻\n\n<img src=\"uploads/2023/8277ab00-9bfb-41d6-a3f0-1a08b60009f1-1-105-c.jpeg\" width=\"450\" height=\"600\" alt=\"Two beer bottles on a table: Altstadt Okt and Samuel Adams Jack-O\">\n",
 				"date_published": "2023-09-26T20:47:22-06:00",
 				"url": "https://jerrytowler.com/2023/09/26/two-more-fall.html"
 			},
@@ -1423,7 +1440,7 @@
 				"id": "http://jatowler.micro.blog/2023/09/25/every-year-my.html",
 				
 				"content_html": "<p>Every year, my wife and I grab as many pumpkin/yam/märzen/oktoberfests as we can and do a little home tasting. The selection at our local H-E-B this year is shockingly good, so I have a lot to post. I’ll make it a full page later; for now, just a picture from night one. 🎃 🍻</p>\n<ul>\n<li>Rogue Pumpkin Patch Ale</li>\n<li>Freetail Oktoberfiesta</li>\n<li>Tucher Festbier</li>\n<li>Karbach Karbachtoberfest</li>\n<li>Real Ale Oktoberfest</li>\n<li>Voodoo Ranger Atomic Pumpkin</li>\n</ul>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Every year, my wife and I grab as many pumpkin/yam/märzen/oktoberfests as we can and do a little home tasting. The selection at our local H-E-B this year is shockingly good, so I have a lot to post. I’ll make it a full page later; for now, just a picture from night one. 🎃 🍻 \n\n* Rogue Pumpkin Patch Ale\n* Freetail Oktoberfiesta\n* Tucher Festbier\n* Karbach Karbachtoberfest\n* Real Ale Oktoberfest\n* Voodoo Ranger Atomic Pumpkin\n\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/f02f79f362.jpg\" width=\"600\" height=\"449\" alt=\"Six cans of beer poured into twelve plastic tasting cups, all arranged in three triangles on a wooden coffee table:&10;&10;* Rogue Pumpkin Patch Ale&10;* Freetail Oktoberfiesta&10;* Tucher Festbier&10;* Karbach Karbachtoberfest&10;* Real Ale Oktoberfest&10;* Voodoo Ranger Atomic Pumpkin&10;&10;&10;\">\n",
+				"content_text": "Every year, my wife and I grab as many pumpkin/yam/märzen/oktoberfests as we can and do a little home tasting. The selection at our local H-E-B this year is shockingly good, so I have a lot to post. I’ll make it a full page later; for now, just a picture from night one. 🎃 🍻 \n\n* Rogue Pumpkin Patch Ale\n* Freetail Oktoberfiesta\n* Tucher Festbier\n* Karbach Karbachtoberfest\n* Real Ale Oktoberfest\n* Voodoo Ranger Atomic Pumpkin\n\n\n<img src=\"uploads/2023/f02f79f362.jpg\" width=\"600\" height=\"449\" alt=\"Six cans of beer poured into twelve plastic tasting cups, all arranged in three triangles on a wooden coffee table:&10;&10;* Rogue Pumpkin Patch Ale&10;* Freetail Oktoberfiesta&10;* Tucher Festbier&10;* Karbach Karbachtoberfest&10;* Real Ale Oktoberfest&10;* Voodoo Ranger Atomic Pumpkin&10;&10;&10;\">\n",
 				"date_published": "2023-09-24T18:21:31-06:00",
 				"url": "https://jerrytowler.com/2023/09/25/every-year-my.html"
 			},
@@ -1431,7 +1448,7 @@
 				"id": "http://jatowler.micro.blog/2023/09/24/not-a-good.html",
 				
 				"content_html": "<p>Not a good day for football in our house. Nice of Apple News to sum up the day so conveniently though… 🏈</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Not a good day for football in our house. Nice of Apple News to sum up the day so conveniently though… 🏈 \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/30d6df28c5.jpg\" width=\"600\" height=\"492\" alt=\"College football scores for VT-Marshall (17-24) and SMU-TCU (17-34).\">\n",
+				"content_text": "Not a good day for football in our house. Nice of Apple News to sum up the day so conveniently though… 🏈 \n\n<img src=\"uploads/2023/30d6df28c5.jpg\" width=\"600\" height=\"492\" alt=\"College football scores for VT-Marshall (17-24) and SMU-TCU (17-34).\">\n",
 				"date_published": "2023-09-23T18:16:37-06:00",
 				"url": "https://jerrytowler.com/2023/09/24/not-a-good.html"
 			},
@@ -1465,7 +1482,7 @@
 				"id": "http://jatowler.micro.blog/2023/09/11/im-a-day.html",
 				
 				"content_html": "<p>I’m a day late to the <strong>cycle</strong> photo <a href=\"https://micro.blog/challenges\">@challenges</a> but I’m going to post this anyway since I’m enjoying these photo challenges and it’s actually a nice shot of Melbourne from across the lake in Albert Park.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I’m a day late to the **cycle** photo [@challenges](https://micro.blog/challenges) but I’m going to post this anyway since I’m enjoying these photo challenges and it’s actually a nice shot of Melbourne from across the lake in Albert Park.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/5fc2a984aa.jpg\" width=\"600\" height=\"600\" alt=\"A little boy on a bicycle on the shore of Albert Park Lake with the skyline of Melbourne in the background.\">\n",
+				"content_text": "I’m a day late to the **cycle** photo [@challenges](https://micro.blog/challenges) but I’m going to post this anyway since I’m enjoying these photo challenges and it’s actually a nice shot of Melbourne from across the lake in Albert Park.\n\n<img src=\"uploads/2023/5fc2a984aa.jpg\" width=\"600\" height=\"600\" alt=\"A little boy on a bicycle on the shore of Albert Park Lake with the skyline of Melbourne in the background.\">\n",
 				"date_published": "2023-09-11T07:58:39-06:00",
 				"url": "https://jerrytowler.com/2023/09/11/im-a-day.html"
 			},
@@ -1473,7 +1490,7 @@
 				"id": "http://jatowler.micro.blog/2023/09/10/i-wanted-to.html",
 				
 				"content_html": "<p>I wanted to make a joke about “<a href=\"https://english.stackexchange.com/questions/74737/what-is-the-origin-of-the-phrase-two-nations-divided-by-a-common-language\">divided by a common <strong>language</strong></a>”, but “this escalator is being rested” is such a great replacement for “down for maintenance” that I’ll just leave it at that.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I wanted to make a joke about “[divided by a common **language**](https://english.stackexchange.com/questions/74737/what-is-the-origin-of-the-phrase-two-nations-divided-by-a-common-language)”, but “this escalator is being rested” is such a great replacement for “down for maintenance” that I’ll just leave it at that.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/306a84e8e4.jpg\" width=\"600\" height=\"449\" alt=\"Top of an escalator blocked by an orange bar with a blue flag reading in white letters, “Not currently in use, this escalator is being rested.” The flag also has an escalator icon with a thought bubble filled with Z’s.\">\n",
+				"content_text": "I wanted to make a joke about “[divided by a common **language**](https://english.stackexchange.com/questions/74737/what-is-the-origin-of-the-phrase-two-nations-divided-by-a-common-language)”, but “this escalator is being rested” is such a great replacement for “down for maintenance” that I’ll just leave it at that.\n\n<img src=\"uploads/2023/306a84e8e4.jpg\" width=\"600\" height=\"449\" alt=\"Top of an escalator blocked by an orange bar with a blue flag reading in white letters, “Not currently in use, this escalator is being rested.” The flag also has an escalator icon with a thought bubble filled with Z’s.\">\n",
 				"date_published": "2023-09-09T15:00:50-06:00",
 				"url": "https://jerrytowler.com/2023/09/10/i-wanted-to.html"
 			},
@@ -1489,7 +1506,7 @@
 				"id": "http://jatowler.micro.blog/2023/09/09/leaving-queenstown-yesterday.html",
 				
 				"content_html": "<p>Leaving Queenstown yesterday, Meera snapped one of the best sea-earth-sky <strong>yonder</strong> photos I’ve ever seen. Plane-window photos never work, but New Zealand is so picturesque it didn’t matter. 📸</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Leaving Queenstown yesterday, Meera snapped one of the best sea-earth-sky **yonder** photos I’ve ever seen. Plane-window photos never work, but New Zealand is so picturesque it didn’t matter. 📸 \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/265f368214.jpg\" width=\"600\" height=\"600\" alt=\"A New Zealand fjord. Blue water in the middle, green mountains on both sides, a full horizon of snow-capped peaks in the distance, and a plane engine in the lower-right.\">\n",
+				"content_text": "Leaving Queenstown yesterday, Meera snapped one of the best sea-earth-sky **yonder** photos I’ve ever seen. Plane-window photos never work, but New Zealand is so picturesque it didn’t matter. 📸 \n\n<img src=\"uploads/2023/265f368214.jpg\" width=\"600\" height=\"600\" alt=\"A New Zealand fjord. Blue water in the middle, green mountains on both sides, a full horizon of snow-capped peaks in the distance, and a plane engine in the lower-right.\">\n",
 				"date_published": "2023-09-08T08:21:10-06:00",
 				"url": "https://jerrytowler.com/2023/09/09/leaving-queenstown-yesterday.html",
 				"tags": ["photos"]
@@ -1507,7 +1524,7 @@
 				"id": "http://jatowler.micro.blog/2023/09/07/during-our-stop.html",
 				
 				"content_html": "<p>During our stop in Glenorchy yesterday, we encountered some surprisingly <strong>well</strong>-dressed travelers on the shore of Lake Wakatipu.</p>\n<p>We assume they were there for wedding pictures or something similar, because Glenorchy’s not exactly a formalwear kind of town. 📸</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "During our stop in Glenorchy yesterday, we encountered some surprisingly **well**-dressed travelers on the shore of Lake Wakatipu.\n\nWe assume they were there for wedding pictures or something similar, because Glenorchy’s not exactly a formalwear kind of town. 📸\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/65e3ddace0ce47099a5d2b3c24b0ac26.jpg\" width=\"600\" height=\"600\" alt=\"A well-dressed man and woman walk on a pebble beach in front of a lake. He is wearing a formal black vest and white shirt, and she is wearing a white shirt and stunning red-and-gold long skirt.\">\n",
+				"content_text": "During our stop in Glenorchy yesterday, we encountered some surprisingly **well**-dressed travelers on the shore of Lake Wakatipu.\n\nWe assume they were there for wedding pictures or something similar, because Glenorchy’s not exactly a formalwear kind of town. 📸\n\n<img src=\"uploads/2023/65e3ddace0ce47099a5d2b3c24b0ac26.jpg\" width=\"600\" height=\"600\" alt=\"A well-dressed man and woman walk on a pebble beach in front of a lake. He is wearing a formal black vest and white shirt, and she is wearing a white shirt and stunning red-and-gold long skirt.\">\n",
 				"date_published": "2023-09-06T15:24:11-06:00",
 				"url": "https://jerrytowler.com/2023/09/07/during-our-stop.html",
 				"tags": ["photos"]
@@ -1516,7 +1533,7 @@
 				"id": "http://jatowler.micro.blog/2023/09/07/we-are-flying.html",
 				
 				"content_html": "<p>We are flying back from Queenstown today, but for the life of me I can’t figure out why.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We are flying back from Queenstown today, but for the life of me I can’t figure out why.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/71e749b63d254f2fa28efa23db07018d.jpg\" width=\"345\" height=\"600\" alt=\"San Antonio Express News headline: &quot;San Antonio to hit 100 for the 70th day this year, but relief from heat possible early next week&quot;\">\n",
+				"content_text": "We are flying back from Queenstown today, but for the life of me I can’t figure out why.\n\n<img src=\"uploads/2023/71e749b63d254f2fa28efa23db07018d.jpg\" width=\"345\" height=\"600\" alt=\"San Antonio Express News headline: &quot;San Antonio to hit 100 for the 70th day this year, but relief from heat possible early next week&quot;\">\n",
 				"date_published": "2023-09-06T15:16:38-06:00",
 				"url": "https://jerrytowler.com/2023/09/07/we-are-flying.html"
 			},
@@ -1524,7 +1541,7 @@
 				"id": "http://jatowler.micro.blog/2023/09/06/its-a-day.html",
 				
 				"content_html": "<p>It’s a day late, but on our adventures this afternoon we found the <em>actual</em> <strong>forest</strong> used for Lothlórien, between Glenorchy and Paradise. 👋 <a href=\"https://micro.blog/jean\">@jean</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It’s a day late, but on our adventures this afternoon we found the _actual_ **forest** used for Lothlórien, between Glenorchy and Paradise. 👋 [@jean](https://micro.blog/jean)\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/3c4b59e5b0.jpg\" alt=\"Dense forest of tall trees with sparse leaves, but the forest is so deep the entire scene is green and brown. Literally the forest used for Lothlórien in the movies.\"/>\n",
+				"content_text": "It’s a day late, but on our adventures this afternoon we found the _actual_ **forest** used for Lothlórien, between Glenorchy and Paradise. 👋 [@jean](https://micro.blog/jean)\n\n<img src=\"uploads/2023/3c4b59e5b0.jpg\" alt=\"Dense forest of tall trees with sparse leaves, but the forest is so deep the entire scene is green and brown. Literally the forest used for Lothlórien in the movies.\"/>\n",
 				"date_published": "2023-09-06T03:30:24-06:00",
 				"url": "https://jerrytowler.com/2023/09/06/its-a-day.html"
 			},
@@ -1532,7 +1549,7 @@
 				"id": "http://jatowler.micro.blog/2023/09/05/visiting-rhyme-x.html",
 				
 				"content_html": "<p>Visiting Rhyme x Reason brewery in Wanaka, New Zealand, tonight, they had some spectacular murals on the walls. Apparently painted by employees, who are allegedly paid entirely in beer.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Visiting Rhyme x Reason brewery in Wanaka, New Zealand, tonight, they had some spectacular murals on the walls. Apparently painted by employees, who are allegedly paid entirely in beer.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/0fbc319b91.jpg\" width=\"450\" height=\"600\" alt=\"A wall mural painted above a doorway. The mural is easily 20 feet square of a cartoon man’s head wearing a yellow toboggan, his tongue snaking the length of his head to the right and up. Purple spheres and hops form the background.\"><img src=\"https://cdn.uploads.micro.blog/1214/2023/eb757999bd.jpg\" width=\"450\" height=\"600\" alt=\"Meera sits on a bench in front of a wall mural. An orange planet/moon with bands like Jupiter is orbited by three gigantic green hops. A simple black cloud is overlaid on the planetoid.\"><img src=\"https://cdn.uploads.micro.blog/1214/2023/d00b211298.jpg\" width=\"450\" height=\"600\" alt=\"Two wall murals behind brewery vats. The left, a black planet orbited by giant hops. The right, Mario bursting through the wall, surrounded by hops, with the letters RxR in the bottom-left.\">\n",
+				"content_text": "Visiting Rhyme x Reason brewery in Wanaka, New Zealand, tonight, they had some spectacular murals on the walls. Apparently painted by employees, who are allegedly paid entirely in beer.\n\n<img src=\"uploads/2023/0fbc319b91.jpg\" width=\"450\" height=\"600\" alt=\"A wall mural painted above a doorway. The mural is easily 20 feet square of a cartoon man’s head wearing a yellow toboggan, his tongue snaking the length of his head to the right and up. Purple spheres and hops form the background.\"><img src=\"uploads/2023/eb757999bd.jpg\" width=\"450\" height=\"600\" alt=\"Meera sits on a bench in front of a wall mural. An orange planet/moon with bands like Jupiter is orbited by three gigantic green hops. A simple black cloud is overlaid on the planetoid.\"><img src=\"uploads/2023/d00b211298.jpg\" width=\"450\" height=\"600\" alt=\"Two wall murals behind brewery vats. The left, a black planet orbited by giant hops. The right, Mario bursting through the wall, surrounded by hops, with the letters RxR in the bottom-left.\">\n",
 				"date_published": "2023-09-05T02:51:13-06:00",
 				"url": "https://jerrytowler.com/2023/09/05/visiting-rhyme-x.html"
 			},
@@ -1540,7 +1557,7 @@
 				"id": "http://jatowler.micro.blog/2023/09/05/driving-around-lake.html",
 				
 				"content_html": "<p>Driving around Lake Wanaka, New Zealand, this morning, it just screamed <em>Lord of the Rings</em>. Here you have the <strong>forest</strong> of Lothlórien, the Misty Mountains, and everywhere a hobbit could go (and back again).</p>\n<p>(Not pictured: we climbed a waterfall.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Driving around Lake Wanaka, New Zealand, this morning, it just screamed *Lord of the Rings*. Here you have the **forest** of Lothlórien, the Misty Mountains, and everywhere a hobbit could go (and back again).\n\n(Not pictured: we climbed a waterfall.)\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/e09a6ce8a30d42ea84e933f9d2b4f548.jpg\" width=\"600\" height=\"142\" alt=\"Panorama of Lake Wanaka, New Zealand. Evergreen forest on the lakeshore, snowcapped alpine mountains in the distance.\">\n",
+				"content_text": "Driving around Lake Wanaka, New Zealand, this morning, it just screamed *Lord of the Rings*. Here you have the **forest** of Lothlórien, the Misty Mountains, and everywhere a hobbit could go (and back again).\n\n(Not pictured: we climbed a waterfall.)\n\n<img src=\"uploads/2023/e09a6ce8a30d42ea84e933f9d2b4f548.jpg\" width=\"600\" height=\"142\" alt=\"Panorama of Lake Wanaka, New Zealand. Evergreen forest on the lakeshore, snowcapped alpine mountains in the distance.\">\n",
 				"date_published": "2023-09-05T00:19:50-06:00",
 				"url": "https://jerrytowler.com/2023/09/05/driving-around-lake.html"
 			},
@@ -1548,7 +1565,7 @@
 				"id": "http://jatowler.micro.blog/2023/09/04/skied-coronet-peak.html",
 				
 				"content_html": "<p>Skied Coronet Peak today. That obviously calls for an après-ski New Zealand-native Ginger Bear in an <strong>orange</strong> can.</p>\n<p>Okay, it’s orange and maroon, but as a Hokie, I approve anyway.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Skied Coronet Peak today. That obviously calls for an après-ski New Zealand-native Ginger Bear in an **orange** can.\n\nOkay, it’s orange and maroon, but as a Hokie, I approve anyway.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/1c41c40f71074076b2f847dac0788a11.jpg\" width=\"450\" height=\"600\" alt=\"Meera in a white ski helmet and reflective purple ski goggles in front of a snow-covered mountain drinking a Ginger Bear from an orange and maroon can.\">\n",
+				"content_text": "Skied Coronet Peak today. That obviously calls for an après-ski New Zealand-native Ginger Bear in an **orange** can.\n\nOkay, it’s orange and maroon, but as a Hokie, I approve anyway.\n\n<img src=\"uploads/2023/1c41c40f71074076b2f847dac0788a11.jpg\" width=\"450\" height=\"600\" alt=\"Meera in a white ski helmet and reflective purple ski goggles in front of a snow-covered mountain drinking a Ginger Bear from an orange and maroon can.\">\n",
 				"date_published": "2023-09-04T00:58:16-06:00",
 				"url": "https://jerrytowler.com/2023/09/04/skied-coronet-peak.html"
 			},
@@ -1556,7 +1573,7 @@
 				"id": "http://jatowler.micro.blog/2023/09/03/wave-to-the.html",
 				"title": "Wave to the Pelican on the Outer Banks",
 				"content_html": "<p>In 2019, we went to the Outer Banks for Meera’s birthday. We visited from Corolla all the way down to Okracoke, taking in beaches and lighthouses and sand and sun.</p>\n<p>Meera and I are not good at relaxing vacations. We’re always skiing or hiking or visiting museums or monuments. But on this trip, we spent an entire day at the beach, and I was able to be still long enough to take some great photos, including this one of a pelican above a crashing wave.</p>\n<p>We should go back. If only RDU weren’t so far from the beach…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In 2019, we went to the Outer Banks for Meera’s birthday. We visited from Corolla all the way down to Okracoke, taking in beaches and lighthouses and sand and sun.\n\nMeera and I are not good at relaxing vacations. We’re always skiing or hiking or visiting museums or monuments. But on this trip, we spent an entire day at the beach, and I was able to be still long enough to take some great photos, including this one of a pelican above a crashing wave.\n\nWe should go back. If only RDU weren’t so far from the beach…\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/d8b6cbafb2.jpg\" width=\"600\" height=\"450\" alt=\"A pelican soars, wings outstretched, over a fiercely crashing wave. Brilliant white foam, deep blue sea, and sky blue horizon band the background.\">\n",
+				"content_text": "In 2019, we went to the Outer Banks for Meera’s birthday. We visited from Corolla all the way down to Okracoke, taking in beaches and lighthouses and sand and sun.\n\nMeera and I are not good at relaxing vacations. We’re always skiing or hiking or visiting museums or monuments. But on this trip, we spent an entire day at the beach, and I was able to be still long enough to take some great photos, including this one of a pelican above a crashing wave.\n\nWe should go back. If only RDU weren’t so far from the beach…\n\n<img src=\"uploads/2023/d8b6cbafb2.jpg\" width=\"600\" height=\"450\" alt=\"A pelican soars, wings outstretched, over a fiercely crashing wave. Brilliant white foam, deep blue sea, and sky blue horizon band the background.\">\n",
 				"date_published": "2023-09-03T01:45:30-06:00",
 				"url": "https://jerrytowler.com/2023/09/03/wave-to-the.html",
 				"tags": ["photos","travel"]
@@ -1565,7 +1582,7 @@
 				"id": "http://jatowler.micro.blog/2023/09/03/we-flew-from.html",
 				
 				"content_html": "<p>We flew from Melbourne to Queenstown today, so I had to dig into days past for something precious for today’s challenge photo. My time alone each morning with coffee and words is indeed <strong>precious</strong> to me; this one occurred on Melbourne’s South Wharf last Monday morning.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We flew from Melbourne to Queenstown today, so I had to dig into days past for something precious for today’s challenge photo. My time alone each morning with coffee and words is indeed **precious** to me; this one occurred on Melbourne’s South Wharf last Monday morning.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/fa0dfb5710074fa0a92b1f79ff13427b.jpg\" width=\"600\" height=\"600\" alt=\"A double espresso shot in a too-large Vittoria coffee tasse, on a saucer with a spoon.\">\n",
+				"content_text": "We flew from Melbourne to Queenstown today, so I had to dig into days past for something precious for today’s challenge photo. My time alone each morning with coffee and words is indeed **precious** to me; this one occurred on Melbourne’s South Wharf last Monday morning.\n\n<img src=\"uploads/2023/fa0dfb5710074fa0a92b1f79ff13427b.jpg\" width=\"600\" height=\"600\" alt=\"A double espresso shot in a too-large Vittoria coffee tasse, on a saucer with a spoon.\">\n",
 				"date_published": "2023-09-03T01:33:41-06:00",
 				"url": "https://jerrytowler.com/2023/09/03/we-flew-from.html"
 			},
@@ -1582,7 +1599,7 @@
 				"id": "http://jatowler.micro.blog/2023/09/02/on-the-way.html",
 				
 				"content_html": "<p>On the way back from visiting <a href=\"https://www.westsidealeworks.com.au/\">Westside Ale Works</a> in South Melbourne today, we saw these three huge cranes on the same apartment complex. Coming from Texas, it’s refreshing to see rapid high-density housing <strong>buildup</strong>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "On the way back from visiting [Westside Ale Works](https://www.westsidealeworks.com.au/) in South Melbourne today, we saw these three huge cranes on the same apartment complex. Coming from Texas, it’s refreshing to see rapid high-density housing **buildup**.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/22bad0e314.jpg\" width=\"450\" height=\"600\" alt=\"Three red and white tower cranes atop apartments buildings being constructed. The cranes read “Creating Possibilitirs. Graystar: the global leader in rental housing.” Dayglo green sedan in the foreground.\">\n",
+				"content_text": "On the way back from visiting [Westside Ale Works](https://www.westsidealeworks.com.au/) in South Melbourne today, we saw these three huge cranes on the same apartment complex. Coming from Texas, it’s refreshing to see rapid high-density housing **buildup**.\n\n<img src=\"uploads/2023/22bad0e314.jpg\" width=\"450\" height=\"600\" alt=\"Three red and white tower cranes atop apartments buildings being constructed. The cranes read “Creating Possibilitirs. Graystar: the global leader in rental housing.” Dayglo green sedan in the foreground.\">\n",
 				"date_published": "2023-09-02T03:46:10-06:00",
 				"url": "https://jerrytowler.com/2023/09/02/on-the-way.html",
 				"tags": ["photos","travel"]
@@ -1591,7 +1608,7 @@
 				"id": "http://jatowler.micro.blog/2023/09/02/165902.html",
 				"title": "Riverwalk After Christmas",
 				"content_html": "<p>In 2019, we hosted Christmas at our house in San Antonio. My family flew or drove from the east coast (yes, it’s a 24-hour drive), and Meera’s drove down from the lake (a much-more-sensible <em>one</em>-hour drive).</p>\n<p>The day after Christmas for us is always a chance to get outside. December 23 is often a travel day; Christmas Eve is full of cooking and wrapping and worship; and Christmas is full of eating and unwrapping and family. At that point, everybody needs a break and some fresh air.</p>\n<p>So of course we had to take them down to the Riverwalk, where we apparently convinced them to take this very nice picture of just the two of us.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In 2019, we hosted Christmas at our house in San Antonio. My family flew or drove from the east coast (yes, it’s a 24-hour drive), and Meera’s drove down from the lake (a much-more-sensible *one*-hour drive).\n\nThe day after Christmas for us is always a chance to get outside. December 23 is often a travel day; Christmas Eve is full of cooking and wrapping and worship; and Christmas is full of eating and unwrapping and family. At that point, everybody needs a break and some fresh air.\n\nSo of course we had to take them down to the Riverwalk, where we apparently convinced them to take this very nice picture of just the two of us.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/c6e74e1a98.jpg\" width=\"449\" height=\"600\" alt=\"Portrait-mode photo of me and Meera in front of poinsettias and the San Antonio river.\">\n",
+				"content_text": "In 2019, we hosted Christmas at our house in San Antonio. My family flew or drove from the east coast (yes, it’s a 24-hour drive), and Meera’s drove down from the lake (a much-more-sensible *one*-hour drive).\n\nThe day after Christmas for us is always a chance to get outside. December 23 is often a travel day; Christmas Eve is full of cooking and wrapping and worship; and Christmas is full of eating and unwrapping and family. At that point, everybody needs a break and some fresh air.\n\nSo of course we had to take them down to the Riverwalk, where we apparently convinced them to take this very nice picture of just the two of us.\n\n<img src=\"uploads/2023/c6e74e1a98.jpg\" width=\"449\" height=\"600\" alt=\"Portrait-mode photo of me and Meera in front of poinsettias and the San Antonio river.\">\n",
 				"date_published": "2023-09-02T00:59:02-06:00",
 				"url": "https://jerrytowler.com/2023/09/02/165902.html"
 			},
@@ -1599,7 +1616,7 @@
 				"id": "http://jatowler.micro.blog/2023/09/01/on-a-wineandpenguins.html",
 				
 				"content_html": "<p>On a wine-and-penguins tour on Phillip Island, we found this abstract tiling of <a href=\"https://en.wikipedia.org/wiki/Eudyptula_novaehollandiae\">Australian little penguins</a> near the jetty in Cowes. Looking forward to seeing real ones later today!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "On a wine-and-penguins tour on Phillip Island, we found this abstract tiling of [Australian little penguins](https://en.wikipedia.org/wiki/Eudyptula_novaehollandiae) near the jetty in Cowes. Looking forward to seeing real ones later today!\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/67127af4fff541d6b743cca9840107aa.jpg\" width=\"600\" height=\"600\" alt=\"Mosaic of ceramic tiles set in cement, three Australian little penguins made of black, white, blue, green, and orange pieces on a yellow background.\">\n",
+				"content_text": "On a wine-and-penguins tour on Phillip Island, we found this abstract tiling of [Australian little penguins](https://en.wikipedia.org/wiki/Eudyptula_novaehollandiae) near the jetty in Cowes. Looking forward to seeing real ones later today!\n\n<img src=\"uploads/2023/67127af4fff541d6b743cca9840107aa.jpg\" width=\"600\" height=\"600\" alt=\"Mosaic of ceramic tiles set in cement, three Australian little penguins made of black, white, blue, green, and orange pieces on a yellow background.\">\n",
 				"date_published": "2023-08-31T23:53:56-06:00",
 				"url": "https://jerrytowler.com/2023/09/01/on-a-wineandpenguins.html"
 			},
@@ -1616,7 +1633,7 @@
 				"id": "http://jatowler.micro.blog/2023/08/28/hot-chocolate-and.html",
 				"title": "Hot Chocolate and Churros at Barcelona’s Granja M. Viader",
 				"content_html": "<p>In September 2021, we spent a couple of days in Barcelona on our way back from Minorca and Mallorca. We had read that a favorite local breakfast spot was <a href=\"https://americansinbarcelona.com/granja-viader/\">Granja M. Viader</a>. Usually, that means there’s a line of tourists out the door, and Meera and I are almost always unwilling to wait in a line like that.</p>\n<!-- raw HTML omitted -->\n<p>However, this day, the line was practically nonexistent (probably because tourists hadn’t yet come back after COVID), and we slipped in for a breakfast of hot chocolate and churros.</p>\n<!-- raw HTML omitted -->\n<p>Two things stood out from this visit:</p>\n<ol>\n<li>The hot chocolate was in fact thick warmed chocolate to dip the churros in. Those familiar with Spanish or Mexican culture are rolling their eyes, but this treat was new to me.</li>\n<li>This restaurant has been serving this food for <strong>150 years</strong>. Incredible longevity for a breakfast spot.</li>\n</ol>\n<p>When we travel, I’m always torn between visiting the famous spots and being too much of a tourist. In this case, we threaded the needle perfectly and got an amazing unexpected breakfast. ✈️ 🗺️ 🇪🇸</p>\n",
-				"content_text": "In September 2021, we spent a couple of days in Barcelona on our way back from Minorca and Mallorca. We had read that a favorite local breakfast spot was [Granja M. Viader](https://americansinbarcelona.com/granja-viader/). Usually, that means there’s a line of tourists out the door, and Meera and I are almost always unwilling to wait in a line like that.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/media.jpg\" width=\"600\" height=\"449\" alt=\"A few people walk past the outside of Granja M. Viader. A window display shows chocolates, jams, and wines for sale.\">\n\nHowever, this day, the line was practically nonexistent (probably because tourists hadn’t yet come back after COVID), and we slipped in for a breakfast of hot chocolate and churros.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/d0465226d8.jpg\" width=\"600\" height=\"522\" alt=\"A cup of hot chocolate, churros, and other pastries I can’t name.\">\n\nTwo things stood out from this visit:\n\n1. The hot chocolate was in fact thick warmed chocolate to dip the churros in. Those familiar with Spanish or Mexican culture are rolling their eyes, but this treat was new to me.\n2. This restaurant has been serving this food for **150 years**. Incredible longevity for a breakfast spot.\n\nWhen we travel, I’m always torn between visiting the famous spots and being too much of a tourist. In this case, we threaded the needle perfectly and got an amazing unexpected breakfast. ✈️ 🗺️ 🇪🇸 \n",
+				"content_text": "In September 2021, we spent a couple of days in Barcelona on our way back from Minorca and Mallorca. We had read that a favorite local breakfast spot was [Granja M. Viader](https://americansinbarcelona.com/granja-viader/). Usually, that means there’s a line of tourists out the door, and Meera and I are almost always unwilling to wait in a line like that.\n\n<img src=\"uploads/2023/media.jpg\" width=\"600\" height=\"449\" alt=\"A few people walk past the outside of Granja M. Viader. A window display shows chocolates, jams, and wines for sale.\">\n\nHowever, this day, the line was practically nonexistent (probably because tourists hadn’t yet come back after COVID), and we slipped in for a breakfast of hot chocolate and churros.\n\n<img src=\"uploads/2023/d0465226d8.jpg\" width=\"600\" height=\"522\" alt=\"A cup of hot chocolate, churros, and other pastries I can’t name.\">\n\nTwo things stood out from this visit:\n\n1. The hot chocolate was in fact thick warmed chocolate to dip the churros in. Those familiar with Spanish or Mexican culture are rolling their eyes, but this treat was new to me.\n2. This restaurant has been serving this food for **150 years**. Incredible longevity for a breakfast spot.\n\nWhen we travel, I’m always torn between visiting the famous spots and being too much of a tourist. In this case, we threaded the needle perfectly and got an amazing unexpected breakfast. ✈️ 🗺️ 🇪🇸 \n",
 				"date_published": "2023-08-27T18:10:00-06:00",
 				"url": "https://jerrytowler.com/2023/08/28/hot-chocolate-and.html",
 				"tags": ["photos","travel"]
@@ -1660,7 +1677,7 @@
 				"id": "http://jatowler.micro.blog/2023/08/25/sailboatlings-at-port.html",
 				"title": "Sailboatlings at Port d’Andratx",
 				"content_html": "<p>In November 2021, Meera and I were itching to get traveling again. We had had our shots, waited past all the international quarantines, and it was time to go again.</p>\n<p>We chose to visit Minorca and Mallorca because we had enjoyed Barcelona so much a few years prior, and we wanted to go back but experience something new.</p>\n<!-- raw HTML omitted -->\n<p>While we stayed in Sóller for our time on Mallorca, one of our favorite days was driving up the coast to Port d’Andratx to visit the lighthouses and see the sailboats at the port.</p>\n<p>The wealthy neighborhoods didn’t make it easy, but we did manage to park the car and do some hiking on the hills overlooking the port before going down for dinner and a closer look.</p>\n<!-- raw HTML omitted -->\n<p>We were lucky enough to catch a class of sailors out training, and they kindly passed in front of the lighthouse like ducklings following their mother so I could catch this photo from the docks. ✈️⛵️🇪🇸</p>\n<!-- raw HTML omitted -->",
-				"content_text": "In November 2021, Meera and I were itching to get traveling again. We had had our shots, waited past all the international quarantines, and it was time to go again.\n\nWe chose to visit Minorca and Mallorca because we had enjoyed Barcelona so much a few years prior, and we wanted to go back but experience something new.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/c608ececb2514f59b6ea2cf8c80af477.jpg\" width=\"600\" height=\"600\" alt=\"Photo of me and Meera in front of Far de la Mola lighthouse, a thin tower on a cliff with wide horizontal bands of black and white and a bright red top.\" style=\"height: auto;\" class=\"sunlit_image\" />\n\n<!--more-->\n\nWhile we stayed in Sóller for our time on Mallorca, one of our favorite days was driving up the coast to Port d’Andratx to visit the lighthouses and see the sailboats at the port.\n\nThe wealthy neighborhoods didn’t make it easy, but we did manage to park the car and do some hiking on the hills overlooking the port before going down for dinner and a closer look.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/69f6f657ecee41999e5c1bd86537b71e.jpg\" width=\"600\" height=\"450\" alt=\"Port d'Andratx lighthouse, a squat all-brown lighthouse on the end of a long jetty/breakwater stretching halfway across the harbor mouth, seen from the cliffs above the port. Only its red cap stands out from the background.\" style=\"height: auto;\" class=\"sunlit_image\" />\n\nWe were lucky enough to catch a class of sailors out training, and they kindly passed in front of the lighthouse like ducklings following their mother so I could catch this photo from the docks. ✈️⛵️🇪🇸\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/e5361a315482455397cb9cdbca8ad774.jpg\" width=\"600\" height=\"337\" alt=\"Six single-person sailboats pass in a line in front of the Port d'Andratx lighthouse, seen from water level, following a seventh boat farther left behind the end of the jetty, separated from the pack.\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"content_text": "In November 2021, Meera and I were itching to get traveling again. We had had our shots, waited past all the international quarantines, and it was time to go again.\n\nWe chose to visit Minorca and Mallorca because we had enjoyed Barcelona so much a few years prior, and we wanted to go back but experience something new.\n\n<img src=\"uploads/2023/c608ececb2514f59b6ea2cf8c80af477.jpg\" width=\"600\" height=\"600\" alt=\"Photo of me and Meera in front of Far de la Mola lighthouse, a thin tower on a cliff with wide horizontal bands of black and white and a bright red top.\" style=\"height: auto;\" class=\"sunlit_image\" />\n\n<!--more-->\n\nWhile we stayed in Sóller for our time on Mallorca, one of our favorite days was driving up the coast to Port d’Andratx to visit the lighthouses and see the sailboats at the port.\n\nThe wealthy neighborhoods didn’t make it easy, but we did manage to park the car and do some hiking on the hills overlooking the port before going down for dinner and a closer look.\n\n<img src=\"uploads/2023/69f6f657ecee41999e5c1bd86537b71e.jpg\" width=\"600\" height=\"450\" alt=\"Port d'Andratx lighthouse, a squat all-brown lighthouse on the end of a long jetty/breakwater stretching halfway across the harbor mouth, seen from the cliffs above the port. Only its red cap stands out from the background.\" style=\"height: auto;\" class=\"sunlit_image\" />\n\nWe were lucky enough to catch a class of sailors out training, and they kindly passed in front of the lighthouse like ducklings following their mother so I could catch this photo from the docks. ✈️⛵️🇪🇸\n\n<img src=\"uploads/2023/e5361a315482455397cb9cdbca8ad774.jpg\" width=\"600\" height=\"337\" alt=\"Six single-person sailboats pass in a line in front of the Port d'Andratx lighthouse, seen from water level, following a seventh boat farther left behind the end of the jetty, separated from the pack.\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
 				"date_published": "2023-08-25T07:34:20-06:00",
 				"url": "https://jerrytowler.com/2023/08/25/sailboatlings-at-port.html",
 				"tags": ["photos","travel"]
@@ -1669,7 +1686,7 @@
 				"id": "http://jatowler.micro.blog/2023/08/24/in-this-picture.html",
 				"title": "In This Picture, the Hail Hasn’t Started Yet",
 				"content_html": "<p>What if you went to Versailles as part of your honeymoon, but it absolutely poured that day in November 2017, and all of your pictures were of you and your brand new spouse soaking wet?</p>\n<p>On the plus side, I snuck this jacket into my luggage as a surprise gift for Meera when we got there, so she was both cuter and more comfortable than I was.</p>\n<p>Note, as usual, the red backpack straps over the sport coat; I am the essence of class. ✈️ 🇫🇷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "What if you went to Versailles as part of your honeymoon, but it absolutely poured that day in November 2017, and all of your pictures were of you and your brand new spouse soaking wet?\n\nOn the plus side, I snuck this jacket into my luggage as a surprise gift for Meera when we got there, so she was both cuter and more comfortable than I was.\n\nNote, as usual, the red backpack straps over the sport coat; I am the essence of class. ✈️ 🇫🇷 \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/cfc06d0313.jpg\" width=\"600\" height=\"450\" alt=\"Meera and me in front of one of the giant golden gates at Versailles on a rainy day. Meera is wearing a black jacket with a hood trimmed in fake fur; I am wearing a sport coat with no hood and a red backpack.\">\n",
+				"content_text": "What if you went to Versailles as part of your honeymoon, but it absolutely poured that day in November 2017, and all of your pictures were of you and your brand new spouse soaking wet?\n\nOn the plus side, I snuck this jacket into my luggage as a surprise gift for Meera when we got there, so she was both cuter and more comfortable than I was.\n\nNote, as usual, the red backpack straps over the sport coat; I am the essence of class. ✈️ 🇫🇷 \n\n<img src=\"uploads/2023/cfc06d0313.jpg\" width=\"600\" height=\"450\" alt=\"Meera and me in front of one of the giant golden gates at Versailles on a rainy day. Meera is wearing a black jacket with a hood trimmed in fake fur; I am wearing a sport coat with no hood and a red backpack.\">\n",
 				"date_published": "2023-08-24T06:49:10-06:00",
 				"url": "https://jerrytowler.com/2023/08/24/in-this-picture.html",
 				"tags": ["photos","travel"]
@@ -1686,7 +1703,7 @@
 				"id": "http://jatowler.micro.blog/2023/08/23/lighthouses-and-roses.html",
 				"title": "Lighthouses and Roses",
 				"content_html": "<p>In June 2013, I was on a business trip to Mountain View. I had never been to California before, so I spent as much of my free time exploring as I could.</p>\n<p>I drove down to Santa Cruz, and I saw the Breakwater Lighthouse.</p>\n<!-- raw HTML omitted -->\n<p>Then I went west to Pigeon Point Light Station near Pescadero.</p>\n<!-- raw HTML omitted -->\n<p>But despite my love of lighthouses, the vast majority of the photos I took that week—with my disappointing-in-retrospect iPhone 4 camera—were from the San Jose Municipal Rose Garden, which is a thing that exists. Some of them even turned out pretty good!</p>\n<!-- raw HTML omitted -->",
-				"content_text": "In June 2013, I was on a business trip to Mountain View. I had never been to California before, so I spent as much of my free time exploring as I could.\n\n<!--more-->\n\nI drove down to Santa Cruz, and I saw the Breakwater Lighthouse.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/6768ada19a.jpg\" width=\"600\" height=\"448\" alt=\"A traditional white lighthouse with green trim on the end of a rocky breakwater curving to the left. The lighthouse has no house, just a door. A person stands on the jacks-shaped cement forms at the end of the breakwater.\">\n\nThen I went west to Pigeon Point Light Station near Pescadero.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/b0b30b57c1.jpg\" width=\"600\" height=\"448\" alt=\"A traditional white lighthouse, faded and spotted with rust, atop a house with a gabled roof and two chimneys. An empty bench looks out onto the ocean, while an empty sand parking lot and overcast sky complete the gloomy picture.\">\n\nBut despite my love of lighthouses, the vast majority of the photos I took that week—with my disappointing-in-retrospect iPhone 4 camera—were from the San Jose Municipal Rose Garden, which is a thing that exists. Some of them even turned out pretty good!\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/9168c373d3.jpg\" width=\"600\" height=\"448\" alt=\"Two giant, bright pink roses with petals unfurled\">\n",
+				"content_text": "In June 2013, I was on a business trip to Mountain View. I had never been to California before, so I spent as much of my free time exploring as I could.\n\n<!--more-->\n\nI drove down to Santa Cruz, and I saw the Breakwater Lighthouse.\n\n<img src=\"uploads/2023/6768ada19a.jpg\" width=\"600\" height=\"448\" alt=\"A traditional white lighthouse with green trim on the end of a rocky breakwater curving to the left. The lighthouse has no house, just a door. A person stands on the jacks-shaped cement forms at the end of the breakwater.\">\n\nThen I went west to Pigeon Point Light Station near Pescadero.\n\n<img src=\"uploads/2023/b0b30b57c1.jpg\" width=\"600\" height=\"448\" alt=\"A traditional white lighthouse, faded and spotted with rust, atop a house with a gabled roof and two chimneys. An empty bench looks out onto the ocean, while an empty sand parking lot and overcast sky complete the gloomy picture.\">\n\nBut despite my love of lighthouses, the vast majority of the photos I took that week—with my disappointing-in-retrospect iPhone 4 camera—were from the San Jose Municipal Rose Garden, which is a thing that exists. Some of them even turned out pretty good!\n\n<img src=\"uploads/2023/9168c373d3.jpg\" width=\"600\" height=\"448\" alt=\"Two giant, bright pink roses with petals unfurled\">\n",
 				"date_published": "2023-08-23T08:15:50-06:00",
 				"url": "https://jerrytowler.com/2023/08/23/lighthouses-and-roses.html",
 				"tags": ["photos","travel"]
@@ -1695,7 +1712,7 @@
 				"id": "http://jatowler.micro.blog/2023/08/22/do-not-gather.html",
 				"title": "Do Not Gather Firewood",
 				"content_html": "<p>In 2017, we camped in Garner State Park with some friends and took a brief hike the next day.</p>\n<p>You’re not permitted to use local “found” firewood, so one of the people with us brought a truck bed full of huge branches we spent a long time chopping into firewood on which to cook a very nice pot of camp chili.</p>\n<p>Food you work for is supposed to taste better, but I mostly remember the work and the time, not so much the food. Even as I type I wonder if maybe the food was fajitas… 🏕️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In 2017, we camped in Garner State Park with some friends and took a brief hike the next day.\n\nYou’re not permitted to use local “found” firewood, so one of the people with us brought a truck bed full of huge branches we spent a long time chopping into firewood on which to cook a very nice pot of camp chili.\n\nFood you work for is supposed to taste better, but I mostly remember the work and the time, not so much the food. Even as I type I wonder if maybe the food was fajitas… 🏕️ \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/1131e64c45.jpg\" width=\"600\" height=\"450\" alt=\"A sparse tree with twisted branches on a hillside overlooking grasslands under a blue sky.\">\n",
+				"content_text": "In 2017, we camped in Garner State Park with some friends and took a brief hike the next day.\n\nYou’re not permitted to use local “found” firewood, so one of the people with us brought a truck bed full of huge branches we spent a long time chopping into firewood on which to cook a very nice pot of camp chili.\n\nFood you work for is supposed to taste better, but I mostly remember the work and the time, not so much the food. Even as I type I wonder if maybe the food was fajitas… 🏕️ \n\n<img src=\"uploads/2023/1131e64c45.jpg\" width=\"600\" height=\"450\" alt=\"A sparse tree with twisted branches on a hillside overlooking grasslands under a blue sky.\">\n",
 				"date_published": "2023-08-22T20:51:43-06:00",
 				"url": "https://jerrytowler.com/2023/08/22/do-not-gather.html",
 				"tags": ["photos","travel"]
@@ -1704,7 +1721,7 @@
 				"id": "http://jatowler.micro.blog/2023/08/21/waterfall-gully-features.html",
 				"title": "Waterfall Gully Features A Waterfall In A Gully",
 				"content_html": "<p>In August 2016, I was in Adelaide for a business trip. Okay, I was in Woomera for a business trip, but I had taken a week of vacation on the end of the trip to explore Adelaide.</p>\n<p>One day I decided to hike up Mount Lofty. Okay, I decided to walk to Mount Lofty from Adelaide and then climb up it.</p>\n<p>The trek took me past a place called Waterfall Gully, which is a… gully… with a waterfall. Australians have the best names: Mount Lofty, Waterfall Gully.</p>\n<!-- raw HTML omitted -->\n<p>The hike up was quite challenging: 1,000m up in a 5,000m hike. But I kept getting passed by trailrunners getting their vertical 5k in. It was embarrassing. (It didn’t help that the only boots I had with me were steel-toe safety boots.)</p>\n<p>After reaching the top, I tried to walk back to Adelaide, but I was exhausted, so I stopped for a pizza and called an Uber. ✈️ 🍕</p>\n",
-				"content_text": "In August 2016, I was in Adelaide for a business trip. Okay, I was in Woomera for a business trip, but I had taken a week of vacation on the end of the trip to explore Adelaide.\n\nOne day I decided to hike up Mount Lofty. Okay, I decided to walk to Mount Lofty from Adelaide and then climb up it.\n\nThe trek took me past a place called Waterfall Gully, which is a… gully… with a waterfall. Australians have the best names: Mount Lofty, Waterfall Gully.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/a0e3face3c.jpg\" width=\"450\" height=\"600\" alt=\"Selfie of me in front of Waterfall Gully’s titular waterfall.\">\n\nThe hike up was quite challenging: 1,000m up in a 5,000m hike. But I kept getting passed by trailrunners getting their vertical 5k in. It was embarrassing. (It didn’t help that the only boots I had with me were steel-toe safety boots.)\n\nAfter reaching the top, I tried to walk back to Adelaide, but I was exhausted, so I stopped for a pizza and called an Uber. ✈️ 🍕\n",
+				"content_text": "In August 2016, I was in Adelaide for a business trip. Okay, I was in Woomera for a business trip, but I had taken a week of vacation on the end of the trip to explore Adelaide.\n\nOne day I decided to hike up Mount Lofty. Okay, I decided to walk to Mount Lofty from Adelaide and then climb up it.\n\nThe trek took me past a place called Waterfall Gully, which is a… gully… with a waterfall. Australians have the best names: Mount Lofty, Waterfall Gully.\n\n<img src=\"uploads/2023/a0e3face3c.jpg\" width=\"450\" height=\"600\" alt=\"Selfie of me in front of Waterfall Gully’s titular waterfall.\">\n\nThe hike up was quite challenging: 1,000m up in a 5,000m hike. But I kept getting passed by trailrunners getting their vertical 5k in. It was embarrassing. (It didn’t help that the only boots I had with me were steel-toe safety boots.)\n\nAfter reaching the top, I tried to walk back to Adelaide, but I was exhausted, so I stopped for a pizza and called an Uber. ✈️ 🍕\n",
 				"date_published": "2023-08-21T20:33:22-06:00",
 				"url": "https://jerrytowler.com/2023/08/21/waterfall-gully-features.html",
 				"tags": ["photos","travel"]
@@ -1713,7 +1730,7 @@
 				"id": "http://jatowler.micro.blog/2023/08/20/switzerland-in-a.html",
 				"title": "Switzerland In A Week (Sort Of)",
 				"content_html": "<p>Back in 2018, I had a business trip to Thun, Switzerland. Meera and I decided to make a vacation of it. Over the course of a week, we visited Thun, Interlaken, Gimmelwald, Zermatt, St. Moritz, and Zurich.</p>\n<!-- raw HTML omitted -->\n<p>In Zurich, we were unwilling to pay for a chocolate tour, so we found a review online that listed the places they went and did the tour on our own. One of the places was of course the Sprüngli shop, where we learned about Luxemburgerli, which are basically colorful mini-macarons.</p>\n<!-- raw HTML omitted -->\n<p>Finally, the requisite selfie where I&rsquo;m wearing the same Osprey Daylite Plus I&rsquo;m wearing in nearly every travel photo taken of me in the last ten years. ✈️🌍</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Back in 2018, I had a business trip to Thun, Switzerland. Meera and I decided to make a vacation of it. Over the course of a week, we visited Thun, Interlaken, Gimmelwald, Zermatt, St. Moritz, and Zurich.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/d666900ce3.jpg\" width=\"450\" height=\"600\" alt=\"Photo of Meera taking a photo of waterfalls (not pictured)\">\n\nIn Zurich, we were unwilling to pay for a chocolate tour, so we found a review online that listed the places they went and did the tour on our own. One of the places was of course the Sprüngli shop, where we learned about Luxemburgerli, which are basically colorful mini-macarons.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/a7c78bf3ec.jpg\" width=\"600\" height=\"600\" alt=\"Photo of a bright red and green Luxemburgerli with white filling, with a bite taken out of it.\">\n\nFinally, the requisite selfie where I'm wearing the same Osprey Daylite Plus I'm wearing in nearly every travel photo taken of me in the last ten years. ✈️🌍\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/aea72c6cc6.jpg\" width=\"600\" height=\"600\" alt=\"Photo of Meera and me on the Limmat with the Zurich Rathaus in the background.\">\n",
+				"content_text": "Back in 2018, I had a business trip to Thun, Switzerland. Meera and I decided to make a vacation of it. Over the course of a week, we visited Thun, Interlaken, Gimmelwald, Zermatt, St. Moritz, and Zurich.\n\n<img src=\"uploads/2023/d666900ce3.jpg\" width=\"450\" height=\"600\" alt=\"Photo of Meera taking a photo of waterfalls (not pictured)\">\n\nIn Zurich, we were unwilling to pay for a chocolate tour, so we found a review online that listed the places they went and did the tour on our own. One of the places was of course the Sprüngli shop, where we learned about Luxemburgerli, which are basically colorful mini-macarons.\n\n<img src=\"uploads/2023/a7c78bf3ec.jpg\" width=\"600\" height=\"600\" alt=\"Photo of a bright red and green Luxemburgerli with white filling, with a bite taken out of it.\">\n\nFinally, the requisite selfie where I'm wearing the same Osprey Daylite Plus I'm wearing in nearly every travel photo taken of me in the last ten years. ✈️🌍\n\n<img src=\"uploads/2023/aea72c6cc6.jpg\" width=\"600\" height=\"600\" alt=\"Photo of Meera and me on the Limmat with the Zurich Rathaus in the background.\">\n",
 				"date_published": "2023-08-20T20:55:51-06:00",
 				"url": "https://jerrytowler.com/2023/08/20/switzerland-in-a.html",
 				"tags": ["photos","travel"]
@@ -1730,7 +1747,7 @@
 				"id": "http://jatowler.micro.blog/2023/08/19/the-secondmostridiculous-hike.html",
 				"title": "The Second-Most-Ridiculous Hike We’ve Ever Taken",
 				"content_html": "<p>In 2019, my wife and I joined another couple for <a href=\"https://savvyhedgehog.com/backpacking-colorados-san-juan-mountains/\">a backpacking trip</a> in the San Juan Mountains of south-central Colorado. On the way back, we stopped for a day at my in-law’s condo in Ruidoso, New Mexico to recover a bit. But instead of resting and recuperating from a challenging hike, we decided to go for <em>another</em> hike in the nearby Lincoln National Forest.</p>\n<p>Okay, this one is entirely my fault.</p>\n<p>I thought, hey, without 30–40 pounds on our backs, how hard could it be?</p>\n<p>But the day was hot and the trail had depressingly little shade, so halfway through, I snapped this picture of us in front of Grindstone Lake, and we turned around and went home.</p>\n<!-- raw HTML omitted -->\n<p>As I remember, dinner that night was pizza from <a href=\"https://caferio.pizza\">Cafe Rio Pizza</a> and beer from <a href=\"https://losthikerbrewing.com\">Lost Hiker Brewing Company</a>. As it should be. 🏕️🍺🍕</p>\n",
-				"content_text": "In 2019, my wife and I joined another couple for [a backpacking trip](https://savvyhedgehog.com/backpacking-colorados-san-juan-mountains/) in the San Juan Mountains of south-central Colorado. On the way back, we stopped for a day at my in-law’s condo in Ruidoso, New Mexico to recover a bit. But instead of resting and recuperating from a challenging hike, we decided to go for *another* hike in the nearby Lincoln National Forest.\n\nOkay, this one is entirely my fault.\n\nI thought, hey, without 30–40 pounds on our backs, how hard could it be?\n\nBut the day was hot and the trail had depressingly little shade, so halfway through, I snapped this picture of us in front of Grindstone Lake, and we turned around and went home.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/b1d471202f.jpg\" width=\"600\" height=\"450\" alt=\"Selfie of my wife and me in front of Grindstone Lake on a very sunny day.\">\n\nAs I remember, dinner that night was pizza from [Cafe Rio Pizza](https://caferio.pizza) and beer from [Lost Hiker Brewing Company](https://losthikerbrewing.com). As it should be. 🏕️🍺🍕\n",
+				"content_text": "In 2019, my wife and I joined another couple for [a backpacking trip](https://savvyhedgehog.com/backpacking-colorados-san-juan-mountains/) in the San Juan Mountains of south-central Colorado. On the way back, we stopped for a day at my in-law’s condo in Ruidoso, New Mexico to recover a bit. But instead of resting and recuperating from a challenging hike, we decided to go for *another* hike in the nearby Lincoln National Forest.\n\nOkay, this one is entirely my fault.\n\nI thought, hey, without 30–40 pounds on our backs, how hard could it be?\n\nBut the day was hot and the trail had depressingly little shade, so halfway through, I snapped this picture of us in front of Grindstone Lake, and we turned around and went home.\n\n<img src=\"uploads/2023/b1d471202f.jpg\" width=\"600\" height=\"450\" alt=\"Selfie of my wife and me in front of Grindstone Lake on a very sunny day.\">\n\nAs I remember, dinner that night was pizza from [Cafe Rio Pizza](https://caferio.pizza) and beer from [Lost Hiker Brewing Company](https://losthikerbrewing.com). As it should be. 🏕️🍺🍕\n",
 				"date_published": "2023-08-19T09:29:36-06:00",
 				"url": "https://jerrytowler.com/2023/08/19/the-secondmostridiculous-hike.html",
 				"tags": ["photos","travel"]
@@ -1747,7 +1764,7 @@
 				"id": "http://jatowler.micro.blog/2023/08/15/the-picture.html",
 				"title": "The Picture",
 				"content_html": "<p>Some friends and I were talking about <em>The Picture</em>—the one you’re proudest of, the one you always want to show people, the one that makes you wonder if maybe you’re actually a photographer after all.</p>\n<p>I’ve taken some pretty pictures, but I think the best one I’ve ever taken is of a couple I don’t know and never met, on the beach of Lake Wakatipu in Queenstown, New Zealand. I hope they don’t mind, and I hope if they ever come across this post, they’ll appreciate how perfect their moment was (and say hi!). ✈️ 🗺️ 🇳🇿</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Some friends and I were talking about _The Picture_—the one you’re proudest of, the one you always want to show people, the one that makes you wonder if maybe you’re actually a photographer after all.\n\nI’ve taken some pretty pictures, but I think the best one I’ve ever taken is of a couple I don’t know and never met, on the beach of Lake Wakatipu in Queenstown, New Zealand. I hope they don’t mind, and I hope if they ever come across this post, they’ll appreciate how perfect their moment was (and say hi!). ✈️ 🗺️ 🇳🇿\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/8b10869749.jpg\" width=\"600\" height=\"450\" alt=\"A young woman rests her head on a young man’s shoulder as they watch the sunset over Lake Wakatipu.\">\n",
+				"content_text": "Some friends and I were talking about _The Picture_—the one you’re proudest of, the one you always want to show people, the one that makes you wonder if maybe you’re actually a photographer after all.\n\nI’ve taken some pretty pictures, but I think the best one I’ve ever taken is of a couple I don’t know and never met, on the beach of Lake Wakatipu in Queenstown, New Zealand. I hope they don’t mind, and I hope if they ever come across this post, they’ll appreciate how perfect their moment was (and say hi!). ✈️ 🗺️ 🇳🇿\n\n<img src=\"uploads/2023/8b10869749.jpg\" width=\"600\" height=\"450\" alt=\"A young woman rests her head on a young man’s shoulder as they watch the sunset over Lake Wakatipu.\">\n",
 				"date_published": "2023-08-15T08:09:18-06:00",
 				"url": "https://jerrytowler.com/2023/08/15/the-picture.html",
 				"tags": ["photos","travel"]
@@ -1773,7 +1790,7 @@
 				"id": "http://jatowler.micro.blog/2023/08/12/we-realized-on.html",
 				
 				"content_html": "<p>We realized on day 3 of skiing that our skis were conveniently RGB-colored and of graduated lengths, so we posed them for a group shot.</p>\n<!-- raw HTML omitted -->\n<p>Then I took a candid going up one of the lifts.</p>\n<!-- raw HTML omitted -->\n<p>And of course we couldn’t let the boots feel left out, even though they’re less colorful. 🎿</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We realized on day 3 of skiing that our skis were conveniently RGB-colored and of graduated lengths, so we posed them for a group shot.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/7ff510dfd0844061b7d35afa6551715d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n\nThen I took a candid going up one of the lifts.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/98abe78f39ae4b1293e5c8dc02dce670.jpg\" width=\"450\" height=\"600\" alt=\"\">\n\nAnd of course we couldn’t let the boots feel left out, even though they’re less colorful. 🎿 \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/b91ece883ad54471b5bc54c076fd2d9a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "We realized on day 3 of skiing that our skis were conveniently RGB-colored and of graduated lengths, so we posed them for a group shot.\n\n<img src=\"uploads/2023/7ff510dfd0844061b7d35afa6551715d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n\nThen I took a candid going up one of the lifts.\n\n<img src=\"uploads/2023/98abe78f39ae4b1293e5c8dc02dce670.jpg\" width=\"450\" height=\"600\" alt=\"\">\n\nAnd of course we couldn’t let the boots feel left out, even though they’re less colorful. 🎿 \n\n<img src=\"uploads/2023/b91ece883ad54471b5bc54c076fd2d9a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-08-12T18:29:56-06:00",
 				"url": "https://jerrytowler.com/2023/08/12/we-realized-on.html",
 				"tags": ["photos","travel"]
@@ -1782,7 +1799,7 @@
 				"id": "http://jatowler.micro.blog/2023/08/10/went-to-bed.html",
 				
 				"content_html": "<p>Went to bed excited for overnight snowfall to improve skiing conditions. Woke up to exactly half my wish granted: almost 7” of accumulation, but whiteout conditions this morning. ⛷️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Went to bed excited for overnight snowfall to improve skiing conditions. Woke up to exactly half my wish granted: almost 7” of accumulation, but whiteout conditions this morning. ⛷️ \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/88d8697d02.jpg\" width=\"600\" height=\"449\" alt=\"Picture of an apartment window looking out onto whiteout conditions due to snow.\">\n",
+				"content_text": "Went to bed excited for overnight snowfall to improve skiing conditions. Woke up to exactly half my wish granted: almost 7” of accumulation, but whiteout conditions this morning. ⛷️ \n\n<img src=\"uploads/2023/88d8697d02.jpg\" width=\"600\" height=\"449\" alt=\"Picture of an apartment window looking out onto whiteout conditions due to snow.\">\n",
 				"date_published": "2023-08-10T07:11:42-06:00",
 				"url": "https://jerrytowler.com/2023/08/10/went-to-bed.html",
 				"tags": ["photos","travel"]
@@ -1865,7 +1882,7 @@
 				"id": "http://jatowler.micro.blog/2023/07/22/my-yoga-app.html",
 				
 				"content_html": "<p><a href=\"https://www.downdogapp.com\">My yoga app</a> introduced me to a new pose tonight: <a href=\"https://www.yogajournal.com/poses/locust-pose/\">locust pose</a>. I&rsquo;m reasonably certain you can see it in my heart rate just after the two-thirds mark. 🧘‍♂️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[My yoga app](https://www.downdogapp.com) introduced me to a new pose tonight: [locust pose](https://www.yogajournal.com/poses/locust-pose/). I'm reasonably certain you can see it in my heart rate just after the two-thirds mark. 🧘‍♂️\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/db3f6aaa19.jpg\" width=\"600\" height=\"92\" alt=\"\">\n",
+				"content_text": "[My yoga app](https://www.downdogapp.com) introduced me to a new pose tonight: [locust pose](https://www.yogajournal.com/poses/locust-pose/). I'm reasonably certain you can see it in my heart rate just after the two-thirds mark. 🧘‍♂️\n\n<img src=\"uploads/2023/db3f6aaa19.jpg\" width=\"600\" height=\"92\" alt=\"\">\n",
 				"date_published": "2023-07-22T19:35:47-06:00",
 				"url": "https://jerrytowler.com/2023/07/22/my-yoga-app.html"
 			},
@@ -1915,7 +1932,7 @@
 				"id": "http://jatowler.micro.blog/2023/07/10/my-first-ios.html",
 				"title": "My First iOS Apps",
 				"content_html": "<p>Today, <a href=\"https://mstdn.social/@pschiller/110690395011183022\">Phil Schiller celebrated the 15th anniversary of the iOS App Store</a>, and many people posted the first apps they downloaded. Here are mine.</p>\n<ul>\n<li>AIM</li>\n<li>Google Earth</li>\n<li>Mocha VNC Lite</li>\n<li>BJCP Styles<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup></li>\n<li>Holy Bible <sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup></li>\n<li>Cocktails - The Original<sup id=\"fnref:3\"><a href=\"#fn:3\" class=\"footnote-ref\" role=\"doc-noteref\">3</a></sup></li>\n<li>Mantis Bible Study<sup id=\"fnref:4\"><a href=\"#fn:4\" class=\"footnote-ref\" role=\"doc-noteref\">4</a></sup></li>\n<li>Bible (YouVersion)<sup id=\"fnref:5\"><a href=\"#fn:5\" class=\"footnote-ref\" role=\"doc-noteref\">5</a></sup></li>\n</ul>\n<!-- raw HTML omitted -->\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>Beer Judge Certification Program, all about different styles of beers and how to evaluate them. Inspired by my undergrad courses in fermented beverages.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\" role=\"doc-endnote\">\n<p>I don&rsquo;t even remember this Bible app. I&rsquo;ve used the YouVersion app almost every day since October 27, 2008.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:3\" role=\"doc-endnote\">\n<p>I&rsquo;m sensing a theme.&#160;<a href=\"#fnref:3\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:4\" role=\"doc-endnote\">\n<p>I&rsquo;m sensing another theme.&#160;<a href=\"#fnref:4\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:5\" role=\"doc-endnote\">\n<p>I have used this app more than any other, with the possible exception of Apple&rsquo;s Messages app.&#160;<a href=\"#fnref:5\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>",
-				"content_text": "Today, [Phil Schiller celebrated the 15th anniversary of the iOS App Store](https://mstdn.social/@pschiller/110690395011183022), and many people posted the first apps they downloaded. Here are mine.\n\n<!--more-->\n\n* AIM\n* Google Earth\n* Mocha VNC Lite\n* BJCP Styles[^beer]\n* Holy Bible [^bible]\n* Cocktails - The Original[^cocktails]\n* Mantis Bible Study[^mantis]\n* Bible (YouVersion)[^youversion]\n\n[^beer]: Beer Judge Certification Program, all about different styles of beers and how to evaluate them. Inspired by my undergrad courses in fermented beverages.\n[^bible]: I don't even remember this Bible app. I've used the YouVersion app almost every day since October 27, 2008.\n[^cocktails]: I'm sensing a theme.\n[^mantis]: I'm sensing another theme.\n[^youversion]: I have used this app more than any other, with the possible exception of Apple's Messages app.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/image.jpg\" width=\"276\" height=\"600\" alt=\"My first eight app downloads, all on October 27, 2008: AIM, Google Earth, Mocha VNC Lite, BJCP Styles, Holy Bible, Cocktails - The Original, Mantis Bible Study, Bible. The Facebook app logo is just barely peeking from the top.\">\n",
+				"content_text": "Today, [Phil Schiller celebrated the 15th anniversary of the iOS App Store](https://mstdn.social/@pschiller/110690395011183022), and many people posted the first apps they downloaded. Here are mine.\n\n<!--more-->\n\n* AIM\n* Google Earth\n* Mocha VNC Lite\n* BJCP Styles[^beer]\n* Holy Bible [^bible]\n* Cocktails - The Original[^cocktails]\n* Mantis Bible Study[^mantis]\n* Bible (YouVersion)[^youversion]\n\n[^beer]: Beer Judge Certification Program, all about different styles of beers and how to evaluate them. Inspired by my undergrad courses in fermented beverages.\n[^bible]: I don't even remember this Bible app. I've used the YouVersion app almost every day since October 27, 2008.\n[^cocktails]: I'm sensing a theme.\n[^mantis]: I'm sensing another theme.\n[^youversion]: I have used this app more than any other, with the possible exception of Apple's Messages app.\n\n<img src=\"uploads/2023/image.jpg\" width=\"276\" height=\"600\" alt=\"My first eight app downloads, all on October 27, 2008: AIM, Google Earth, Mocha VNC Lite, BJCP Styles, Holy Bible, Cocktails - The Original, Mantis Bible Study, Bible. The Facebook app logo is just barely peeking from the top.\">\n",
 				"date_published": "2023-07-10T21:47:37-06:00",
 				"url": "https://jerrytowler.com/2023/07/10/my-first-ios.html"
 			},
@@ -1939,7 +1956,7 @@
 				"id": "http://jatowler.micro.blog/2023/07/01/ive-been-obsessed.html",
 				"title": "I Made a Swift Game",
 				"content_html": "<p>I&rsquo;ve been obsessed with Demonin&rsquo;s <a href=\"https://demonin.com/games/arrayGame/\">Array Game</a> since Andy Baio <a href=\"https://waxy.org/2023/06/array-game/\">linked to it</a> a month ago.</p>\n<p>After getting effectively to the current endgame (there&rsquo;s no real end, but at some point there&rsquo;s no &ldquo;next upgrade&rdquo;), it occurred to me that the simplicity of the game was ideal for me to try learning Swift again.</p>\n<p>I dove all the way into Swift and SwiftUI, first using <a href=\"https://www.apple.com/swift/playgrounds/\">Swift Playgrounds</a> and then Xcode directly. It&rsquo;s amazing how quickly a simple app can come together using all these tools and the crazy-fast <a href=\"https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop\">REPL</a> that is Playgrounds.</p>\n<p>Here&rsquo;s a video of the first level as of today.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I've been obsessed with Demonin's [Array Game](https://demonin.com/games/arrayGame/) since Andy Baio [linked to it](https://waxy.org/2023/06/array-game/) a month ago.\n\nAfter getting effectively to the current endgame (there's no real end, but at some point there's no \"next upgrade\"), it occurred to me that the simplicity of the game was ideal for me to try learning Swift again.\n\nI dove all the way into Swift and SwiftUI, first using [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) and then Xcode directly. It's amazing how quickly a simple app can come together using all these tools and the crazy-fast [REPL](https://en.wikipedia.org/wiki/Read–eval–print_loop) that is Playgrounds.\n\nHere's a video of the first level as of today.\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/1214/2023/video.mov\" width=\"640\" height=\"1388\" poster=\"https://jerrytowler.com/uploads/2023/82f6aae94b.png\" preload=\"none\"></video>\n",
+				"content_text": "I've been obsessed with Demonin's [Array Game](https://demonin.com/games/arrayGame/) since Andy Baio [linked to it](https://waxy.org/2023/06/array-game/) a month ago.\n\nAfter getting effectively to the current endgame (there's no real end, but at some point there's no \"next upgrade\"), it occurred to me that the simplicity of the game was ideal for me to try learning Swift again.\n\nI dove all the way into Swift and SwiftUI, first using [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) and then Xcode directly. It's amazing how quickly a simple app can come together using all these tools and the crazy-fast [REPL](https://en.wikipedia.org/wiki/Read–eval–print_loop) that is Playgrounds.\n\nHere's a video of the first level as of today.\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://jerrytowler.com/uploads/2023/video.mov\" width=\"640\" height=\"1388\" poster=\"https://jerrytowler.com/uploads/2023/82f6aae94b.png\" preload=\"none\"></video>\n",
 				"date_published": "2023-07-01T15:48:54-06:00",
 				"url": "https://jerrytowler.com/2023/07/01/ive-been-obsessed.html"
 			},
@@ -1947,7 +1964,7 @@
 				"id": "http://jatowler.micro.blog/2023/07/01/i-just-accidentally.html",
 				
 				"content_html": "<p>I just accidentally used the <a href=\"https://support.apple.com/en-us/HT212757\">Universal Control</a> feature built into macOS Ventura. I had set up my work MacBook Pro next to the monitor for my personal Mac mini, where I used to keep my laptop when it was connected to this monitor. So I naturally just hauled the cursor beyond the side of the screen, and it <em>magically</em> kept going onto the laptop screen!</p>\n<p>It took me several seconds to figure out that something special had happened and that my cursor had jumped from one machine to the other.</p>\n<p>Something weird: how did it know which side of my monitor the laptop was on? It could guess by choosing the direction you try to move your cursor, exactly like I did, but it&rsquo;s still absolutely delightful.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I just accidentally used the [Universal Control](https://support.apple.com/en-us/HT212757) feature built into macOS Ventura. I had set up my work MacBook Pro next to the monitor for my personal Mac mini, where I used to keep my laptop when it was connected to this monitor. So I naturally just hauled the cursor beyond the side of the screen, and it *magically* kept going onto the laptop screen!\r\n\r\nIt took me several seconds to figure out that something special had happened and that my cursor had jumped from one machine to the other.\r\n\r\nSomething weird: how did it know which side of my monitor the laptop was on? It could guess by choosing the direction you try to move your cursor, exactly like I did, but it's still absolutely delightful.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/screenshot-2023-07-01-at-2.18.57-pm.png\" width=\"600\" height=\"115\" alt=\"Screenshot of the System Settings control that allows the magic I just witnessed.\r&10;\r&10;It says, &quot;Push through the edge of a display to connect a nearby Mac or iPad. \r&10;Allow the pointer to connect to a nearby Mac or iPad by pushing against the edge of a display.&quot;\">\n",
+				"content_text": "I just accidentally used the [Universal Control](https://support.apple.com/en-us/HT212757) feature built into macOS Ventura. I had set up my work MacBook Pro next to the monitor for my personal Mac mini, where I used to keep my laptop when it was connected to this monitor. So I naturally just hauled the cursor beyond the side of the screen, and it *magically* kept going onto the laptop screen!\r\n\r\nIt took me several seconds to figure out that something special had happened and that my cursor had jumped from one machine to the other.\r\n\r\nSomething weird: how did it know which side of my monitor the laptop was on? It could guess by choosing the direction you try to move your cursor, exactly like I did, but it's still absolutely delightful.\n\n<img src=\"uploads/2023/screenshot-2023-07-01-at-2.18.57-pm.png\" width=\"600\" height=\"115\" alt=\"Screenshot of the System Settings control that allows the magic I just witnessed.\r&10;\r&10;It says, &quot;Push through the edge of a display to connect a nearby Mac or iPad. \r&10;Allow the pointer to connect to a nearby Mac or iPad by pushing against the edge of a display.&quot;\">\n",
 				"date_published": "2023-07-01T13:21:10-06:00",
 				"url": "https://jerrytowler.com/2023/07/01/i-just-accidentally.html"
 			},
@@ -1955,7 +1972,7 @@
 				"id": "http://jatowler.micro.blog/2023/07/01/gave-a-bunch.html",
 				
 				"content_html": "<p>Gave a bunch of stuff back to Apple today. These computers got both Meera and me through college and grad school, and it’s time to let go.</p>\n<p>The white iPod (3rd gen, I think) was a birthday present when I turned 17 or 18; the iPods Touch tided me over until Verizon got the iPhone, and that iPhone 5s is still the best design ever made.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Gave a bunch of stuff back to Apple today. These computers got both Meera and me through college and grad school, and it’s time to let go.\n\nThe white iPod (3rd gen, I think) was a birthday present when I turned 17 or 18; the iPods Touch tided me over until Verizon got the iPhone, and that iPhone 5s is still the best design ever made. \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/aeb3162567864cfdadcc8155bd01958f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Gave a bunch of stuff back to Apple today. These computers got both Meera and me through college and grad school, and it’s time to let go.\n\nThe white iPod (3rd gen, I think) was a birthday present when I turned 17 or 18; the iPods Touch tided me over until Verizon got the iPhone, and that iPhone 5s is still the best design ever made. \n\n<img src=\"uploads/2023/aeb3162567864cfdadcc8155bd01958f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-07-01T10:41:30-06:00",
 				"url": "https://jerrytowler.com/2023/07/01/gave-a-bunch.html",
 				"tags": ["photos"]
@@ -1964,7 +1981,7 @@
 				"id": "http://jatowler.micro.blog/2023/06/25/makeshift-parfait-at.html",
 				
 				"content_html": "<p>Makeshift parfait at the BOS (Logan) Admiral’s Club this morning waiting for our flight back to Austin. 📸</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Makeshift parfait at the BOS (Logan) Admiral’s Club this morning waiting for our flight back to Austin. 📸\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/1c0dcbcab1db42eb8b0d63961e6a2f26.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Makeshift parfait at the BOS (Logan) Admiral’s Club this morning waiting for our flight back to Austin. 📸\n\n<img src=\"uploads/2023/1c0dcbcab1db42eb8b0d63961e6a2f26.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-06-25T17:48:41-06:00",
 				"url": "https://jerrytowler.com/2023/06/25/makeshift-parfait-at.html",
 				"tags": ["photos","travel"]
@@ -1973,7 +1990,7 @@
 				"id": "http://jatowler.micro.blog/2023/06/24/brunch-at-in.html",
 				
 				"content_html": "<p>Brunch at In A Pickle in Waltham ahead of a wedding yesterday afternoon. Hot honey chicken and waffles, pumpkin bread French toast, and coffee. Perfect.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Brunch at In A Pickle in Waltham ahead of a wedding yesterday afternoon. Hot honey chicken and waffles, pumpkin bread French toast, and coffee. Perfect. \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/6f95f90a4c8347128b9e10168c284a18.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Brunch at In A Pickle in Waltham ahead of a wedding yesterday afternoon. Hot honey chicken and waffles, pumpkin bread French toast, and coffee. Perfect. \n\n<img src=\"uploads/2023/6f95f90a4c8347128b9e10168c284a18.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-06-24T15:13:11-06:00",
 				"url": "https://jerrytowler.com/2023/06/24/brunch-at-in.html",
 				"tags": ["photos","travel"]
@@ -1990,7 +2007,7 @@
 				"id": "http://jatowler.micro.blog/2023/06/19/mostly-final-desk.html",
 				
 				"content_html": "<p>Mostly final desk setup, shown here during a video conference we were both attending (on the iPad). The room looks mostly the same, except it has real curtains now and more stuff on the shelves. And we don’t use it nearly as often—we’re in the office more often than not.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Mostly final desk setup, shown here during a video conference we were both attending (on the iPad). The room looks mostly the same, except it has real curtains now and more stuff on the shelves. And we don’t use it nearly as often—we’re in the office more often than not. \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/934132e5e631433985e6fa17ecd307f9.jpg\" width=\"600\" height=\"534\" alt=\"\">\n",
+				"content_text": "Mostly final desk setup, shown here during a video conference we were both attending (on the iPad). The room looks mostly the same, except it has real curtains now and more stuff on the shelves. And we don’t use it nearly as often—we’re in the office more often than not. \n\n<img src=\"uploads/2023/934132e5e631433985e6fa17ecd307f9.jpg\" width=\"600\" height=\"534\" alt=\"\">\n",
 				"date_published": "2023-06-19T21:45:47-06:00",
 				"url": "https://jerrytowler.com/2023/06/19/mostly-final-desk.html",
 				"tags": ["photos"]
@@ -1999,7 +2016,7 @@
 				"id": "http://jatowler.micro.blog/2023/06/18/our-other-earlycovid.html",
 				
 				"content_html": "<p>Our other early-COVID desk, set up not in the office but the guest bedroom. Like everyone else, my wife and I spent too much time on videoconferences to sit in the same room, so we were fortunate to have space to spread out like this. Same monitor, different laptop and stand. No K’nex.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Our other early-COVID desk, set up not in the office but the guest bedroom. Like everyone else, my wife and I spent too much time on videoconferences to sit in the same room, so we were fortunate to have space to spread out like this. Same monitor, different laptop and stand. No K’nex. \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/60031f33ead74c0f80a25bc2d3411ed9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Our other early-COVID desk, set up not in the office but the guest bedroom. Like everyone else, my wife and I spent too much time on videoconferences to sit in the same room, so we were fortunate to have space to spread out like this. Same monitor, different laptop and stand. No K’nex. \n\n<img src=\"uploads/2023/60031f33ead74c0f80a25bc2d3411ed9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-06-18T17:28:56-06:00",
 				"url": "https://jerrytowler.com/2023/06/18/our-other-earlycovid.html",
 				"tags": ["photos"]
@@ -2008,7 +2025,7 @@
 				"id": "http://jatowler.micro.blog/2023/06/17/standing-desk-evolution.html",
 				
 				"content_html": "<p>Standing desk evolution, a few weeks in COVID. At this point, we still had the blinds open to remind us what “outside” looked like. It still kind of felt like vacation, not yet like the terrifying pandemic it turned out to be. (It did, and still does, make me wish I were indie.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Standing desk evolution, a few weeks in COVID. At this point, we still had the blinds open to remind us what “outside” looked like. It still kind of felt like vacation, not yet like the terrifying pandemic it turned out to be. (It did, and still does, make me wish I were indie.) \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/d5327209be634458bfa6a4ffb48ceb60.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Standing desk evolution, a few weeks in COVID. At this point, we still had the blinds open to remind us what “outside” looked like. It still kind of felt like vacation, not yet like the terrifying pandemic it turned out to be. (It did, and still does, make me wish I were indie.) \n\n<img src=\"uploads/2023/d5327209be634458bfa6a4ffb48ceb60.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-06-17T17:14:39-06:00",
 				"url": "https://jerrytowler.com/2023/06/17/standing-desk-evolution.html",
 				"tags": ["photos"]
@@ -2017,7 +2034,7 @@
 				"id": "http://jatowler.micro.blog/2023/06/16/our-home-office.html",
 				
 				"content_html": "<p>Our home office desk before COVID. Made of an old kitchen table and K’nex, naturally. 📸</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Our home office desk before COVID. Made of an old kitchen table and K’nex, naturally. 📸\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/7c911f55a2f440948c93e25ff9e2ebe4.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Our home office desk before COVID. Made of an old kitchen table and K’nex, naturally. 📸\n\n<img src=\"uploads/2023/7c911f55a2f440948c93e25ff9e2ebe4.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-06-16T18:24:18-06:00",
 				"url": "https://jerrytowler.com/2023/06/16/our-home-office.html",
 				"tags": ["photos"]
@@ -2026,7 +2043,7 @@
 				"id": "http://jatowler.micro.blog/2023/06/15/day-three-of.html",
 				
 				"content_html": "<p>Day three of desk pictures. This one is an actual working desk of mine from my first apartment in San Antonio after grad school. It looks so much like my grad school desk in my Blackburg apartment I first guessed that&rsquo;s what it was before looking at the location info.</p>\n<p>Almost every element in this photo tells a story, at least to me. Maybe that would also make a good series of posts.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day three of desk pictures. This one is an actual working desk of mine from my first apartment in San Antonio after grad school. It looks so much like my grad school desk in my Blackburg apartment I first guessed that's what it was before looking at the location info.\n\nAlmost every element in this photo tells a story, at least to me. Maybe that would also make a good series of posts. \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/124830f3a8.jpeg\" width=\"600\" height=\"448\" alt=\"A desk made out of a door, covered in equipment: laptop, hard drives, speakers, turntables, lamp, working papers, notebooks, office supplies... it's a mess.\">\n",
+				"content_text": "Day three of desk pictures. This one is an actual working desk of mine from my first apartment in San Antonio after grad school. It looks so much like my grad school desk in my Blackburg apartment I first guessed that's what it was before looking at the location info.\n\nAlmost every element in this photo tells a story, at least to me. Maybe that would also make a good series of posts. \n\n<img src=\"uploads/2023/124830f3a8.jpeg\" width=\"600\" height=\"448\" alt=\"A desk made out of a door, covered in equipment: laptop, hard drives, speakers, turntables, lamp, working papers, notebooks, office supplies... it's a mess.\">\n",
 				"date_published": "2023-06-15T10:20:06-06:00",
 				"url": "https://jerrytowler.com/2023/06/15/day-three-of.html",
 				"tags": ["photos"]
@@ -2035,7 +2052,7 @@
 				"id": "http://jatowler.micro.blog/2023/06/14/yesterdays-desk-post.html",
 				
 				"content_html": "<p>Yesterday’s desk post made me think of other interesting writing desks I’ve encountered.</p>\n<p>This one is from our house in Sóller, Majorca, Spain, from November 2021.</p>\n<p>An iPad instead of a MacBook because this was a vacation, not a business trip.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Yesterday’s desk post made me think of other interesting writing desks I’ve encountered.\n\nThis one is from our house in Sóller, Majorca, Spain, from November 2021.\n\nAn iPad instead of a MacBook because this was a vacation, not a business trip. \n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/d464f10ada.jpg\" width=\"600\" height=\"450\" alt=\"Black-and-white photo of a wooden writing desk made of an old sewing machine, topped by an iPad, keyboard, water bottle, and wine glass.\">\n",
+				"content_text": "Yesterday’s desk post made me think of other interesting writing desks I’ve encountered.\n\nThis one is from our house in Sóller, Majorca, Spain, from November 2021.\n\nAn iPad instead of a MacBook because this was a vacation, not a business trip. \n\n<img src=\"uploads/2023/d464f10ada.jpg\" width=\"600\" height=\"450\" alt=\"Black-and-white photo of a wooden writing desk made of an old sewing machine, topped by an iPad, keyboard, water bottle, and wine glass.\">\n",
 				"date_published": "2023-06-14T18:52:17-06:00",
 				"url": "https://jerrytowler.com/2023/06/14/yesterdays-desk-post.html",
 				"tags": ["photos","travel"]
@@ -2044,7 +2061,7 @@
 				"id": "http://jatowler.micro.blog/2023/06/13/my-workspace-at.html",
 				
 				"content_html": "<p>My workspace at Hotel Bellevue in Cazaubon, France, a few weeks ago. I love the aesthetic, but it made me feel like I should be writing a novel instead of PowerPoint slides. 📸</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My workspace at Hotel Bellevue in Cazaubon, France, a few weeks ago. I love the aesthetic, but it made me feel like I should be writing a novel instead of PowerPoint slides. 📸\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/fb69cf316b.jpg\" width=\"600\" height=\"449\" alt=\"Photo of a small wooden writing desk dominated by a MacBook Pro and over-ear headphones.\">\n",
+				"content_text": "My workspace at Hotel Bellevue in Cazaubon, France, a few weeks ago. I love the aesthetic, but it made me feel like I should be writing a novel instead of PowerPoint slides. 📸\n\n<img src=\"uploads/2023/fb69cf316b.jpg\" width=\"600\" height=\"449\" alt=\"Photo of a small wooden writing desk dominated by a MacBook Pro and over-ear headphones.\">\n",
 				"date_published": "2023-06-13T19:21:22-06:00",
 				"url": "https://jerrytowler.com/2023/06/13/my-workspace-at.html",
 				"tags": ["photos","travel"]
@@ -2061,7 +2078,7 @@
 				"id": "http://jatowler.micro.blog/2023/06/07/in-corpus-christi.html",
 				
 				"content_html": "<p>In Corpus Christi for Rio Texas Annual Conference. Tried out Railroad Brewing Company right by the convention center. 📸</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In Corpus Christi for Rio Texas Annual Conference. Tried out Railroad Brewing Company right by the convention center. 📸\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/43d07e402c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "In Corpus Christi for Rio Texas Annual Conference. Tried out Railroad Brewing Company right by the convention center. 📸\n\n<img src=\"uploads/2023/43d07e402c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-06-07T19:12:47-06:00",
 				"url": "https://jerrytowler.com/2023/06/07/in-corpus-christi.html",
 				"tags": ["photos","travel"]
@@ -2070,7 +2087,7 @@
 				"id": "http://jatowler.micro.blog/2023/05/30/felt-bad-that.html",
 				
 				"content_html": "<p>Felt bad that I didn’t get much done yesterday, so this picture is to remind me of what I did finish this weekend. Let’s get the short week started strong. 📸</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Felt bad that I didn’t get much done yesterday, so this picture is to remind me of what I did finish this weekend. Let’s get the short week started strong. 📸\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/6b76a697cf.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"content_text": "Felt bad that I didn’t get much done yesterday, so this picture is to remind me of what I did finish this weekend. Let’s get the short week started strong. 📸\n\n<img src=\"uploads/2023/6b76a697cf.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
 				"date_published": "2023-05-30T06:58:37-06:00",
 				"url": "https://jerrytowler.com/2023/05/30/felt-bad-that.html",
 				"tags": ["photos"]
@@ -2088,7 +2105,7 @@
 				"id": "http://jatowler.micro.blog/2023/04/29/pro-tip-when.html",
 				
 				"content_html": "<p>Pro tip: when the sky looks like this, the best time to leave work was half an hour ago. 📸</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Pro tip: when the sky looks like this, the best time to leave work was half an hour ago. 📸\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2023/5107b1e3d8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Pro tip: when the sky looks like this, the best time to leave work was half an hour ago. 📸\n\n<img src=\"uploads/2023/5107b1e3d8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-04-29T07:31:47-06:00",
 				"url": "https://jerrytowler.com/2023/04/29/pro-tip-when.html",
 				"tags": ["photos"]
