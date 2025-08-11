@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2025/08/11/not-what-i-expected-from.html",
+				
+				"content_html": "<p>Not what I expected from a post called “Ask the Algorithm”, but cleverly conceived and executed, and definitely funny.</p>\n<p><a href=\"https://mathwithbaddrawings.com/2025/08/11/ask-the-algorithm/\">Ask the Algorithm – Math with Bad Drawings</a></p>\n",
+				"content_text": "Not what I expected from a post called “Ask the Algorithm”, but cleverly conceived and executed, and definitely funny.\n\n[Ask the Algorithm – Math with Bad Drawings](https://mathwithbaddrawings.com/2025/08/11/ask-the-algorithm/)\n",
+				"date_published": "2025-08-11T13:49:53-06:00",
+				"url": "https://jerrytowler.com/2025/08/11/not-what-i-expected-from.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2025/08/09/i-should-put-more-pretty.html",
+				
+				"content_html": "<p>I should put more pretty pictures on the Internet. Here’s a beautifully clear shot of the mountains over the middle school where I walked Tuck yesterday. I love that I can see mountains now on our walks. #nofilter, as the kids used to say.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I should put more pretty pictures on the Internet. Here’s a beautifully clear shot of the mountains over the middle school where I walked Tuck yesterday. I love that I can see mountains now on our walks. #nofilter, as the kids used to say.\n\n<img src=\"uploads/2025/9dcf8bded0.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"date_published": "2025-08-09T08:45:19-06:00",
+				"url": "https://jerrytowler.com/2025/08/09/i-should-put-more-pretty.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2025/08/08/trying-goaccess-for-website-traffic.html",
+				"title": "Trying GoAccess for Website Traffic Analysis",
+				"content_html": "<p>I&rsquo;m playing with alternatives to Google Analytics, because I pretty much only look at one or two charts.</p>\n<p>First try: <a href=\"https://goaccess.io/\">GoAccess</a>.</p>\n<p>It lives on your server and reads the <code>nginx</code> logs directly and produces very nice graphs. There&rsquo;s a live terminal interface or you can produce HTML files. It even tries to segment out crawlers for you (but it doesn&rsquo;t subtract them from your visitor count, so you have to do some mental math).</p>\n<p><em>Update: there is an <code>--ignore-crawlers</code> command-line option, but I don&rsquo;t want to <strong>ignore</strong> them, just <strong>segregate</strong> them. It&rsquo;s interesting to see what bots are hitting and when and how much.</em></p>\n<p>Biggest irritation so far: since the generated HTML page does no date filtering at all, you have to filter at the command line. Fortunately, the manual gives you specific <a href=\"https://goaccess.io/man#examples\">examples</a> of how to do that, so I&rsquo;ve written a script and set up a <code>cron</code> job to produce HTML pages for the last 1, 7, 30, 90, and 365 days (yes, five different HTML pages) and put them somewhere I can look at them.</p>\n<p>I&rsquo;ll leave this enabled for a while and see how I like it. Next up: <a href=\"https://plausible.io/self-hosted-web-analytics\">Plausible&rsquo;s free (self-hosted) tier</a>.</p>\n",
+				"content_text": "I'm playing with alternatives to Google Analytics, because I pretty much only look at one or two charts.\n\nFirst try: [GoAccess](https://goaccess.io/).\n\nIt lives on your server and reads the `nginx` logs directly and produces very nice graphs. There's a live terminal interface or you can produce HTML files. It even tries to segment out crawlers for you (but it doesn't subtract them from your visitor count, so you have to do some mental math).\n\n_Update: there is an `--ignore-crawlers` command-line option, but I don't want to **ignore** them, just **segregate** them. It's interesting to see what bots are hitting and when and how much._\n\nBiggest irritation so far: since the generated HTML page does no date filtering at all, you have to filter at the command line. Fortunately, the manual gives you specific [examples](https://goaccess.io/man#examples) of how to do that, so I've written a script and set up a `cron` job to produce HTML pages for the last 1, 7, 30, 90, and 365 days (yes, five different HTML pages) and put them somewhere I can look at them.\n\nI'll leave this enabled for a while and see how I like it. Next up: [Plausible's free (self-hosted) tier](https://plausible.io/self-hosted-web-analytics).\n",
+				"date_published": "2025-08-08T17:45:06-06:00",
+				"url": "https://jerrytowler.com/2025/08/08/trying-goaccess-for-website-traffic.html"
+			},
+			{
 				"id": "http://jatowler.micro.blog/2025/08/08/amusingly-chatgpt-on-my-phone.html",
 				
 				"content_html": "<p>Amusingly, ChatGPT on my phone has updated to GPT-5, but the Mac app hasn&rsquo;t yet, which means that continuing a conversation between the two devices <em>always</em> means swapping models mid-stream.</p>\n",
