@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2025/09/18/new-bible-day-i-heard.html",
+				
+				"content_html": "<p>New Bible day! I heard about <em>The Brick Bible</em> and thought maybe it was an epic Lego set for constructing scenes from Scripture (I would spend enormous amounts of money on such a thing).</p>\n<p>But it&rsquo;s even better than that: it&rsquo;s a complete Bible illustrated with 1,400 photographs of Lego scenes.</p>\n<p><img src=\"uploads/2025/7069704ce9.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2025/9aacb8a0f8.jpg\" width=\"600\" height=\"425\" alt=\"\"></p>\n",
+				"content_text": "New Bible day! I heard about _The Brick Bible_ and thought maybe it was an epic Lego set for constructing scenes from Scripture (I would spend enormous amounts of money on such a thing).\n\nBut it's even better than that: it's a complete Bible illustrated with 1,400 photographs of Lego scenes.\n\n<img src=\"uploads/2025/7069704ce9.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2025/9aacb8a0f8.jpg\" width=\"600\" height=\"425\" alt=\"\">\n",
+				"date_published": "2025-09-18T05:21:59+06:00",
+				"url": "https://jerrytowler.com/2025/09/18/new-bible-day-i-heard.html",
+				"tags": ["photos","versenotes"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2025/09/13/on-charlie-kirk-and-saving.html",
+				
+				"content_html": "<p><a href=\"https://calnewport.com/on-charlie-kirk-and-saving-civil-society/\">On Charlie Kirk and Saving Civil Society</a></p>\n<p>Cal Newport writes the best thing to read on the Charlie Kirk assassination. Possibly the <em>only</em> thing to read. (It’s wonderfully short.)</p>\n<p>Everything else makes me worry for, well, civil society in America.</p>\n",
+				"content_text": "[On Charlie Kirk and Saving Civil Society](https://calnewport.com/on-charlie-kirk-and-saving-civil-society/)\n\nCal Newport writes the best thing to read on the Charlie Kirk assassination. Possibly the *only* thing to read. (It’s wonderfully short.)\n\nEverything else makes me worry for, well, civil society in America.\n",
+				"date_published": "2025-09-13T05:43:27+06:00",
+				"url": "https://jerrytowler.com/2025/09/13/on-charlie-kirk-and-saving.html"
+			},
+			{
 				"id": "http://jatowler.micro.blog/2025/09/12/today-i-left-my-hotel.html",
 				
 				"content_html": "<p>Today, I left my hotel and walked to a train, which took me to the airport.</p>\n<p>This sounds normal, except I’m in the United States, where “walking” and “trains” are often unavailable to me when traveling.</p>\n<p>Of course, this is ATL, so now I get the all-too-common experience of waiting in line forever.</p>\n",
@@ -34,8 +51,8 @@
 			{
 				"id": "http://jatowler.micro.blog/2025/08/22/the-mountains-turned-bright-red.html",
 				
-				"content_html": "<p>The mountains turned bright red yesterday during sunset.</p>\n<img src=\"uploads/2025/830dea0bea.jpg\" width=\"600\" height=\"337\" alt=\"A suburban street is lined with modern houses, set against a backdrop of mountains illuminated by the setting sun.\">\n",
-				"content_text": "The mountains turned bright red yesterday during sunset.\n\n<img src=\"uploads/2025/830dea0bea.jpg\" width=\"600\" height=\"337\" alt=\"A suburban street is lined with modern houses, set against a backdrop of mountains illuminated by the setting sun.\">\n",
+				"content_html": "<p>The mountains turned bright red yesterday during sunset.</p>\n<img src=\"https://cdn.uploads.micro.blog/1214/2025/830dea0bea.jpg\" width=\"600\" height=\"337\" alt=\"A suburban street is lined with modern houses, set against a backdrop of mountains illuminated by the setting sun.\">\n",
+				"content_text": "The mountains turned bright red yesterday during sunset.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2025/830dea0bea.jpg\" width=\"600\" height=\"337\" alt=\"A suburban street is lined with modern houses, set against a backdrop of mountains illuminated by the setting sun.\">\n",
 				"date_published": "2025-08-22T19:25:10+06:00",
 				"url": "https://jerrytowler.com/2025/08/22/the-mountains-turned-bright-red.html",
 				"tags": ["photos"]
