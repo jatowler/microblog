@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2026/01/23/daring-fireball-taegan-goddard-theres.html",
+				
+				"content_html": "<p><a href=\"https://daringfireball.net/linked/2026/01/22/theres-no-going-back\">Daring Fireball: Taegan Goddard: &lsquo;There’s No Going Back&rsquo;</a>:</p>\n<blockquote>\n<p>The only way to counter “move fast and break things” is to move fast and fix things.</p>\n</blockquote>\n",
+				"content_text": "[Daring Fireball: Taegan Goddard: 'There’s No Going Back'](https://daringfireball.net/linked/2026/01/22/theres-no-going-back):\n\n> The only way to counter “move fast and break things” is to move fast and fix things.\n",
+				"date_published": "2026-01-23T09:23:18-07:00",
+				"url": "https://jerrytowler.com/2026/01/23/daring-fireball-taegan-goddard-theres.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2026/01/21/brent-simmons-shared-a-great.html",
+				
+				"content_html": "<p>Brent Simmons shared <a href=\"https://inessential.com/2026/01/21/email-from-minnesota-family.html\">a great, and terrifying, and hopeful, email</a> from his family living in Minnesota, about what’s happening there.</p>\n",
+				"content_text": "Brent Simmons shared [a great, and terrifying, and hopeful, email](https://inessential.com/2026/01/21/email-from-minnesota-family.html) from his family living in Minnesota, about what’s happening there.\n",
+				"date_published": "2026-01-21T18:23:43-07:00",
+				"url": "https://jerrytowler.com/2026/01/21/brent-simmons-shared-a-great.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2026/01/21/finished-reading-a-witchs-guide.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9780593439371\">A Witch&rsquo;s Guide to Magical Innkeeping</a> by Sangu Mandanna</p>\n<p>Another nice cozy story. Includes a nice little riddle near the beginning that’s fun to piece together yourself.</p>\n<p>The ending is a <em>little</em> too telegraphed for me, and there’s one jarring weirdness, but it’s a delightful book.</p>\n<p>📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780593439371/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [A Witch's Guide to Magical Innkeeping](https://micro.blog/books/9780593439371) by Sangu Mandanna\n\nAnother nice cozy story. Includes a nice little riddle near the beginning that’s fun to piece together yourself.\n\nThe ending is a *little* too telegraphed for me, and there’s one jarring weirdness, but it’s a delightful book.\n\n📚\n",
+				"date_published": "2026-01-21T15:35:47-07:00",
+				"url": "https://jerrytowler.com/2026/01/21/finished-reading-a-witchs-guide.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://jatowler.micro.blog/2026/01/20/seventeen-people-is-a-perfect.html",
 				
 				"content_html": "<p><a href=\"https://seventeenpeople.com/\">Seventeen People</a> is a perfect use of the Web.</p>\n<p>I wish to put things like this into the world.</p>\n",
