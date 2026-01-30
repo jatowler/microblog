@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2026/01/30/how-ai-assistance-impacts-the.html",
+				
+				"content_html": "<p><a href=\"https://www.anthropic.com/research/AI-assistance-coding-skills\">How AI assistance impacts the formation of coding skills</a>:</p>\n<blockquote>\n<p>Here, AI creates a potential tension: as coding grows more automated and speeds up work, humans will still need the skills to catch errors, guide output, and ultimately provide oversight for AI deployed in high-stakes environments. Does AI provide a shortcut to both skill development and increased efficiency? Or do productivity increases from AI assistance undermine skill development?</p>\n</blockquote>\n<p>These are questions we&rsquo;ve been asking in the automated vehicle research community for years. Surely there are general principles available by now.</p>\n",
+				"content_text": "[How AI assistance impacts the formation of coding skills](https://www.anthropic.com/research/AI-assistance-coding-skills):\n\n> Here, AI creates a potential tension: as coding grows more automated and speeds up work, humans will still need the skills to catch errors, guide output, and ultimately provide oversight for AI deployed in high-stakes environments. Does AI provide a shortcut to both skill development and increased efficiency? Or do productivity increases from AI assistance undermine skill development?\n\nThese are questions we've been asking in the automated vehicle research community for years. Surely there are general principles available by now.\n",
+				"date_published": "2026-01-30T12:26:50-07:00",
+				"url": "https://jerrytowler.com/2026/01/30/how-ai-assistance-impacts-the.html"
+			},
+			{
 				"id": "http://jatowler.micro.blog/2026/01/23/daring-fireball-taegan-goddard-theres.html",
 				
 				"content_html": "<p><a href=\"https://daringfireball.net/linked/2026/01/22/theres-no-going-back\">Daring Fireball: Taegan Goddard: &lsquo;There’s No Going Back&rsquo;</a>:</p>\n<blockquote>\n<p>The only way to counter “move fast and break things” is to move fast and fix things.</p>\n</blockquote>\n",
