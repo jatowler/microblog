@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2026/02/06/this-brewery-is-unapologetically-playing.html",
+				
+				"content_html": "<p>This brewery is unapologetically playing straight through <em>OK Computer</em>. I’m loving it, but it’s most certainly a choice.</p>\n",
+				"content_text": "This brewery is unapologetically playing straight through _OK Computer_. I’m loving it, but it’s most certainly a choice.\n",
+				"date_published": "2026-02-06T19:02:13-05:00",
+				"url": "https://jerrytowler.com/2026/02/06/this-brewery-is-unapologetically-playing.html"
+			},
+			{
 				"id": "http://jatowler.micro.blog/2026/02/04/write-about-the-future-you.html",
 				
 				"content_html": "<p><a href=\"https://daverupert.com/2026/02/futurescapes/\">Write about the future you want - daverupert.com</a></p>\n<blockquote>\n<p>I don’t have to look far to find people around me who have inspired me by writing about the future they want.</p>\n</blockquote>\n<p>Writing isn’t the only tool—building is a an important one too—but it is <em>a</em> tool, and it’s accessible to far more people than have the capacity to construct that desired future.</p>\n",
