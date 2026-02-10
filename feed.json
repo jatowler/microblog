@@ -7,11 +7,43 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2026/02/09/plotting-word-usage-in-the.html",
+				"title": "Plotting Word Usage In the Bible",
+				"content_html": "<p>Every few months for the past several years, I&rsquo;ve returned to this idea of getting an intuitive understanding of the vocabulary of different Biblical authors. I&rsquo;m not sure there&rsquo;s exegetical value, but every time I heard something like &ldquo;Mark says &lsquo;immediately&rsquo; a lot&rdquo; I wanted to investigate.</p>\n<p>I&rsquo;ve had some success in the past, but yesterday and today I assigned Codex the task of building me a series of web tools to interrogate the text like this. Here&rsquo;s a chart I&rsquo;ve wanted for literally years.</p>\n<p>This tool is blazing fast, space- and compute-efficient, allows searching any loaded translation, and lets you pick the books to chart, assuming you don&rsquo;t want all of them.</p>\n<p>Turns out&hellip; yep, Mark says &ldquo;immediately&rdquo; a lot.</p>\n<p>(Next step: get this tool online so other people can play with it as much as I have today.)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Every few months for the past several years, I've returned to this idea of getting an intuitive understanding of the vocabulary of different Biblical authors. I'm not sure there's exegetical value, but every time I heard something like \"Mark says 'immediately' a lot\" I wanted to investigate.\n\nI've had some success in the past, but yesterday and today I assigned Codex the task of building me a series of web tools to interrogate the text like this. Here's a chart I've wanted for literally years.\n\nThis tool is blazing fast, space- and compute-efficient, allows searching any loaded translation, and lets you pick the books to chart, assuming you don't want all of them.\n\nTurns out... yep, Mark says \"immediately\" a lot.\n\n(Next step: get this tool online so other people can play with it as much as I have today.)\n\n<img src=\"uploads/2026/3b827f5be7.png\" width=\"600\" height=\"106\" alt=\"A chart displays occurrences of the word “immediately” across the books of Matthew, Mark, Luke, and John, indicated by dots along a percentage timeline.\">\n",
+				"date_published": "2026-02-09T19:35:48-07:00",
+				"url": "https://jerrytowler.com/2026/02/09/plotting-word-usage-in-the.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2026/02/07/not-autonomous-just-unattended.html",
+				"title": "Not Autonomous, Just Unattended",
+				"content_html": "<p>I <a href=\"https://smartairports.org/airportech\">gave a talk this week</a> on responsible autonomy in airports.</p>\n<p>Tonight, I watched an “autonomous” wheelchair strand a passenger in the middle of a crowded concourse at MIA.</p>\n<p>No obstacles. Clear path. It simply stopped.</p>\n<p>The passenger had to be rescued by a human-driven cart.</p>\n<p>I build and deploy autonomy for a living, so I’m intimately familiar with this failure mode. So this isn’t a vendor call-out—it’s a reminder that real-world autonomy isn’t about labels or demos.</p>\n<p>It’s about real human impact.</p>\n<p>If a system can fail and leave a restricted-mobility passenger helpless, it isn’t autonomous. It’s just unattended.</p>\n<p>Airports—and their passengers—deserve better.</p>\n<p>(Originally published <a href=\"https://www.linkedin.com/posts/jerry-towler_i-gave-a-talk-this-week-on-responsible-autonomy-activity-7426042013747331073-2y6H?utm_medium=ios_app&amp;rcm=ACoAAAfv8s0BiSfRS94llQnRHC0aex5OHDRR7Ck&amp;utm_source=social_share_send&amp;utm_campaign=copy_link\">on LinkedIn</a>)</p>\n",
+				"content_text": "I [gave a talk this week](https://smartairports.org/airportech) on responsible autonomy in airports.\n\nTonight, I watched an “autonomous” wheelchair strand a passenger in the middle of a crowded concourse at MIA.\n\nNo obstacles. Clear path. It simply stopped.\n\nThe passenger had to be rescued by a human-driven cart.\n\nI build and deploy autonomy for a living, so I’m intimately familiar with this failure mode. So this isn’t a vendor call-out—it’s a reminder that real-world autonomy isn’t about labels or demos.\n\nIt’s about real human impact.\n\nIf a system can fail and leave a restricted-mobility passenger helpless, it isn’t autonomous. It’s just unattended.\n\nAirports—and their passengers—deserve better.\n\n(Originally published [on LinkedIn](https://www.linkedin.com/posts/jerry-towler_i-gave-a-talk-this-week-on-responsible-autonomy-activity-7426042013747331073-2y6H?utm_medium=ios_app&rcm=ACoAAAfv8s0BiSfRS94llQnRHC0aex5OHDRR7Ck&utm_source=social_share_send&utm_campaign=copy_link))\n",
+				"date_published": "2026-02-07T16:24:56-07:00",
+				"url": "https://jerrytowler.com/2026/02/07/not-autonomous-just-unattended.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2026/02/07/ive-been-watching-er-recently.html",
+				
+				"content_html": "<p>I’ve been watching <em>ER</em> recently, alongside the new season of <em>The Pitt</em>. (I’m a sucker for procedurals.)</p>\n<p>The callbacks from Noah Wyle to… Noah Wyle… are numerous and frequent.</p>\n<p>It’s like noticing the <em>Friends</em> commentary all over <em>How I Met Your Mother</em>.</p>\n",
+				"content_text": "I’ve been watching _ER_ recently, alongside the new season of _The Pitt_. (I’m a sucker for procedurals.)\n\nThe callbacks from Noah Wyle to… Noah Wyle… are numerous and frequent.\n\nIt’s like noticing the _Friends_ commentary all over _How I Met Your Mother_.\n",
+				"date_published": "2026-02-07T09:52:30-07:00",
+				"url": "https://jerrytowler.com/2026/02/07/ive-been-watching-er-recently.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2026/02/06/cowards-they-skipped-fitter-happier.html",
+				
+				"content_html": "<p>Cowards! They skipped <em>Fitter Happier</em>.</p>\n",
+				"content_text": "Cowards! They skipped _Fitter Happier_.\n",
+				"date_published": "2026-02-06T17:22:49-07:00",
+				"url": "https://jerrytowler.com/2026/02/06/cowards-they-skipped-fitter-happier.html"
+			},
+			{
 				"id": "http://jatowler.micro.blog/2026/02/06/this-brewery-is-unapologetically-playing.html",
 				
 				"content_html": "<p>This brewery is unapologetically playing straight through <em>OK Computer</em>. I’m loving it, but it’s most certainly a choice.</p>\n",
 				"content_text": "This brewery is unapologetically playing straight through _OK Computer_. I’m loving it, but it’s most certainly a choice.\n",
-				"date_published": "2026-02-06T19:02:13-05:00",
+				"date_published": "2026-02-06T17:02:13-07:00",
 				"url": "https://jerrytowler.com/2026/02/06/this-brewery-is-unapologetically-playing.html"
 			},
 			{
@@ -118,7 +150,7 @@
 				"id": "http://jatowler.micro.blog/2025/12/28/lego-gingerbread-atat-all-done.html",
 				
 				"content_html": "<p>Lego Gingerbread AT-AT: all done and lovely. The interior got a wreath!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Lego Gingerbread AT-AT: all done and lovely. The interior got a wreath!\n\n<img src=\"uploads/2025/c08f0f28bd.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2025/3318493444.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Lego Gingerbread AT-AT: all done and lovely. The interior got a wreath!\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2025/c08f0f28bd.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1214/2025/3318493444.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-12-28T15:30:43-07:00",
 				"url": "https://jerrytowler.com/2025/12/28/lego-gingerbread-atat-all-done.html"
 			},
