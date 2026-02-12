@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2026/02/11/glad-to-see-at-least.html",
+				
+				"content_html": "<p>Glad to see at least <a href=\"https://theconversation.com/trump-administration-losing-credibility-with-judges-and-grand-juries-a-former-federal-judge-explains-why-this-is-remarkable-and-unprecedented-275741\">some things are going the right way</a>:</p>\n<blockquote>\n<p>The word “unprecedented” is getting a workout after a grand jury in Washington on Feb. 10, 2026, rebuffed an attempt by federal prosecutors to get an indictment against perceived enemies of President Donald Trump.</p>\n</blockquote>\n<p>The article discusses—celebrates, even—grand juries suddenly functioning as they’re supposed to and critically evaluating whether the Trump DOJ’s cases should be allowed to be brought at all.</p>\n",
+				"content_text": "Glad to see at least [some things are going the right way](https://theconversation.com/trump-administration-losing-credibility-with-judges-and-grand-juries-a-former-federal-judge-explains-why-this-is-remarkable-and-unprecedented-275741):\n\n> The word “unprecedented” is getting a workout after a grand jury in Washington on Feb. 10, 2026, rebuffed an attempt by federal prosecutors to get an indictment against perceived enemies of President Donald Trump.\n\nThe article discusses—celebrates, even—grand juries suddenly functioning as they’re supposed to and critically evaluating whether the Trump DOJ’s cases should be allowed to be brought at all.\n",
+				"date_published": "2026-02-11T20:52:08-07:00",
+				"url": "https://jerrytowler.com/2026/02/11/glad-to-see-at-least.html"
+			},
+			{
 				"id": "http://jatowler.micro.blog/2026/02/09/plotting-word-usage-in-the.html",
 				"title": "Plotting Word Usage In the Bible",
 				"content_html": "<p>Every few months for the past several years, I&rsquo;ve returned to this idea of getting an intuitive understanding of the vocabulary of different Biblical authors. I&rsquo;m not sure there&rsquo;s exegetical value, but every time I heard something like &ldquo;Mark says &lsquo;immediately&rsquo; a lot&rdquo; I wanted to investigate.</p>\n<p>I&rsquo;ve had some success in the past, but yesterday and today I assigned Codex the task of building me a series of web tools to interrogate the text like this. Here&rsquo;s a chart I&rsquo;ve wanted for literally years.</p>\n<p>This tool is blazing fast, space- and compute-efficient, allows searching any loaded translation, and lets you pick the books to chart, assuming you don&rsquo;t want all of them.</p>\n<p>Turns out&hellip; yep, Mark says &ldquo;immediately&rdquo; a lot.</p>\n<p>(Next step: get this tool online so other people can play with it as much as I have today.)</p>\n<!-- raw HTML omitted -->\n",
@@ -150,7 +158,7 @@
 				"id": "http://jatowler.micro.blog/2025/12/28/lego-gingerbread-atat-all-done.html",
 				
 				"content_html": "<p>Lego Gingerbread AT-AT: all done and lovely. The interior got a wreath!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Lego Gingerbread AT-AT: all done and lovely. The interior got a wreath!\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2025/c08f0f28bd.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1214/2025/3318493444.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Lego Gingerbread AT-AT: all done and lovely. The interior got a wreath!\n\n<img src=\"uploads/2025/c08f0f28bd.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2025/3318493444.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-12-28T15:30:43-07:00",
 				"url": "https://jerrytowler.com/2025/12/28/lego-gingerbread-atat-all-done.html"
 			},
