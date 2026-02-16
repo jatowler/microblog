@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2026/02/16/i-spent-a-lot-of.html",
+				
+				"content_html": "<p>I spent a lot of time <a href=\"https://versenotes.org/out-loud/#advent-of-carols\">talking about “Hark!”</a> in December. Fun to have it show up in today’s mini crossword.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I spent a lot of time [talking about “Hark!”](https://versenotes.org/out-loud/#advent-of-carols) in December. Fun to have it show up in today’s mini crossword.\n\n<img src=\"uploads/2026/96144fa644.png\" width=\"275\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-02-16T00:32:00-07:00",
+				"url": "https://jerrytowler.com/2026/02/16/i-spent-a-lot-of.html"
+			},
+			{
 				"id": "http://jatowler.micro.blog/2026/02/13/the-best-olympics-highlight-so.html",
 				
 				"content_html": "<p>The <a href=\"https://xcancel.com/NHL/status/2021993981274415484\">best Olympics highlight so far</a> comes from the NHL’s social media team.</p>\n<p>Excellent work, no notes.</p>\n",
@@ -166,7 +174,7 @@
 				"id": "http://jatowler.micro.blog/2025/12/28/lego-gingerbread-atat-all-done.html",
 				
 				"content_html": "<p>Lego Gingerbread AT-AT: all done and lovely. The interior got a wreath!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Lego Gingerbread AT-AT: all done and lovely. The interior got a wreath!\n\n<img src=\"uploads/2025/c08f0f28bd.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2025/3318493444.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Lego Gingerbread AT-AT: all done and lovely. The interior got a wreath!\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2025/c08f0f28bd.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1214/2025/3318493444.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-12-28T15:30:43-07:00",
 				"url": "https://jerrytowler.com/2025/12/28/lego-gingerbread-atat-all-done.html"
 			},
