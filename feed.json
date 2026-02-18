@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2026/02/18/danny-on-ai-and-productivity.html",
+				
+				"content_html": "<p><a href=\"https://blog.dmcc.io/about/\">Danny</a> on <a href=\"https://blog.dmcc.io/journal/ai-has-fixed-my-productivity/\">AI and productivity</a>:</p>\n<blockquote>\n<p>A Fortune survey doing the rounds this week has <a href=\"https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/\">thousands of CEOs admitting</a> that AI has had no measurable impact on employment or productivity.</p>\n</blockquote>\n<p>They respond:</p>\n<blockquote>\n<p>It’s a silly analogy, but you wouldn’t buy everyone in the company a piano and then wonder why not everyone is a musician a month later. But that’s essentially what happened with AI in most organisations, and it hopefully illustrates the point.</p>\n</blockquote>\n<p>This article more-or-less matches both my individual and corporate experience with coding agents, and that piano metaphor is one I&rsquo;ll be deploying myself soon.</p>\n",
+				"content_text": "[Danny](https://blog.dmcc.io/about/) on [AI and productivity](https://blog.dmcc.io/journal/ai-has-fixed-my-productivity/):\n\n> A Fortune survey doing the rounds this week has [thousands of CEOs admitting](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/) that AI has had no measurable impact on employment or productivity.\n\nThey respond:\n\n> It’s a silly analogy, but you wouldn’t buy everyone in the company a piano and then wonder why not everyone is a musician a month later. But that’s essentially what happened with AI in most organisations, and it hopefully illustrates the point.\n\nThis article more-or-less matches both my individual and corporate experience with coding agents, and that piano metaphor is one I'll be deploying myself soon.\n",
+				"date_published": "2026-02-18T14:42:23-07:00",
+				"url": "https://jerrytowler.com/2026/02/18/danny-on-ai-and-productivity.html"
+			},
+			{
 				"id": "http://jatowler.micro.blog/2026/02/16/i-spent-a-lot-of.html",
 				
 				"content_html": "<p>I spent a lot of time <a href=\"https://versenotes.org/out-loud/#advent-of-carols\">talking about “Hark!”</a> in December. Fun to have it show up in today’s mini crossword.</p>\n<!-- raw HTML omitted -->\n",
@@ -174,7 +182,7 @@
 				"id": "http://jatowler.micro.blog/2025/12/28/lego-gingerbread-atat-all-done.html",
 				
 				"content_html": "<p>Lego Gingerbread AT-AT: all done and lovely. The interior got a wreath!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Lego Gingerbread AT-AT: all done and lovely. The interior got a wreath!\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2025/c08f0f28bd.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1214/2025/3318493444.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Lego Gingerbread AT-AT: all done and lovely. The interior got a wreath!\n\n<img src=\"uploads/2025/c08f0f28bd.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2025/3318493444.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-12-28T15:30:43-07:00",
 				"url": "https://jerrytowler.com/2025/12/28/lego-gingerbread-atat-all-done.html"
 			},
