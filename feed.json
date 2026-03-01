@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2026/03/01/yesterday-i-judged-my-first.html",
+				
+				"content_html": "<p>Yesterday, I judged my first Utah FIRST event, the fourth round of FIRST Tech Challenge qualifiers for Utah.</p>\n<p>No pictures for obvious reasons, but it was tons of fun!</p>\n<p>Here’s <a href=\"https://m.youtube.com/watch?v=cjrO1nzOVbE\">the 8-hour-long official stream</a> if you’re that bored.</p>\n<p>Looking forward to states next weekend.</p>\n",
+				"content_text": "Yesterday, I judged my first Utah FIRST event, the fourth round of FIRST Tech Challenge qualifiers for Utah.\n\nNo pictures for obvious reasons, but it was tons of fun!\n\nHere’s [the 8-hour-long official stream](https://m.youtube.com/watch?v=cjrO1nzOVbE) if you’re that bored.\n\nLooking forward to states next weekend.\n",
+				"date_published": "2026-03-01T07:38:17-07:00",
+				"url": "https://jerrytowler.com/2026/03/01/yesterday-i-judged-my-first.html"
+			},
+			{
 				"id": "http://jatowler.micro.blog/2026/02/27/important-insight-from-manton-reece.html",
 				
 				"content_html": "<p>Important insight from <a href=\"https://www.manton.org/2026/02/27/terry-godier-posted-on-the.html\">Manton Reece</a> commenting on <a href=\"https://indieweb.social/%40tg/116143253034559421\">Terry Godier</a>:</p>\n<blockquote>\n<p>The best products take feedback from everywhere but filter it through the original vision. Otherwise you&rsquo;ll eventually get a watered down or bloated thing with no uniquely defining purpose.</p>\n</blockquote>\n<p>There&rsquo;s some sort of <a href=\"https://en.wikipedia.org/wiki/Project_management_triangle\">triple constraint</a>-like thing going on here:</p>\n<ol>\n<li>MVP/ship early and often</li>\n<li>Respond to feedback</li>\n<li>Remain true to the vision</li>\n</ol>\n",
@@ -43,7 +51,7 @@
 				"id": "http://jatowler.micro.blog/2026/02/22/this-beautiful-clock-has-been.html",
 				
 				"content_html": "<p>This beautiful clock has been sitting in our house since Thanksgiving, making noise only when we passed by it too heavily.</p>\n<p>As of yesterday, it makes very satisfying <em>bongs</em> every fifteen minutes and chimes the hour.</p>\n<p>I am very pleased.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This beautiful clock has been sitting in our house since Thanksgiving, making noise only when we passed by it too heavily.\n\nAs of yesterday, it makes very satisfying *bongs* every fifteen minutes and chimes the hour.\n\nI am very pleased.\n\n<img src=\"uploads/2026/d81fc68f98.jpg\" width=\"188\" height=\"600\" alt=\"\">\n",
+				"content_text": "This beautiful clock has been sitting in our house since Thanksgiving, making noise only when we passed by it too heavily.\n\nAs of yesterday, it makes very satisfying *bongs* every fifteen minutes and chimes the hour.\n\nI am very pleased.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2026/d81fc68f98.jpg\" width=\"188\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-22T18:17:01-07:00",
 				"url": "https://jerrytowler.com/2026/02/22/this-beautiful-clock-has-been.html",
 				"tags": ["photos"]
