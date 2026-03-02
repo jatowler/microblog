@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2026/03/02/ben-thompson-usually-thinks-clearly.html",
+				
+				"content_html": "<p>Ben Thompson usually thinks clearly and well, but <a href=\"https://stratechery.com/2026/anthropic-and-alignment/\">today’s article</a>, despite its two up-to-the-minute examples, is written from a philosophical point of view that ignores the reality of the present moment. The breakdown of controls and ethics at the US federal level must give us a new source of pause.</p>\n",
+				"content_text": "Ben Thompson usually thinks clearly and well, but [today’s article](https://stratechery.com/2026/anthropic-and-alignment/), despite its two up-to-the-minute examples, is written from a philosophical point of view that ignores the reality of the present moment. The breakdown of controls and ethics at the US federal level must give us a new source of pause.\n",
+				"date_published": "2026-03-02T07:37:54-07:00",
+				"url": "https://jerrytowler.com/2026/03/02/ben-thompson-usually-thinks-clearly.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2026/03/01/timothy-tennent-we-may-not.html",
+				
+				"content_html": "<p><a href=\"https://timothytennent.com/a-tribute-to-courage-hoped-for/\">Timothy Tennent</a>:</p>\n<blockquote>\n<p>We may not be able to salvage the word “evangelical” but the great, historic Apostolic faith will continue on.  In the meantime, I await the “have you no decency, sir?” moment.  We desperately need it.</p>\n</blockquote>\n",
+				"content_text": "[Timothy Tennent](https://timothytennent.com/a-tribute-to-courage-hoped-for/):\n\n> We may not be able to salvage the word “evangelical” but the great, historic Apostolic faith will continue on.  In the meantime, I await the “have you no decency, sir?” moment.  We desperately need it.\n",
+				"date_published": "2026-03-01T22:47:32-07:00",
+				"url": "https://jerrytowler.com/2026/03/01/timothy-tennent-we-may-not.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2026/03/01/i-got-to-use-the.html",
+				
+				"content_html": "<p>I got to use the Kit app I wrote (currently in review) for the first time in this week&rsquo;s VerseNotes newsletter.</p>\n<p>No worrying about copy-pasting, or styling, or anything. Just typed <code>/bible</code>, then <code>John 13:23</code>, and kept moving. There was no step 3.</p>\n<p>Even if it never gets approved, I&rsquo;m so happy it exists.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I got to use the Kit app I wrote (currently in review) for the first time in this week's VerseNotes newsletter.\n\nNo worrying about copy-pasting, or styling, or anything. Just typed `/bible`, then `John 13:23`, and kept moving. There was no step 3.\n\nEven if it never gets approved, I'm so happy it exists.\n\n<img src=\"uploads/2026/paste-a7fbd2cf.png\" width=\"600\" height=\"310\" alt=\"\">\n",
+				"date_published": "2026-03-01T07:53:44-07:00",
+				"url": "https://jerrytowler.com/2026/03/01/i-got-to-use-the.html"
+			},
+			{
 				"id": "http://jatowler.micro.blog/2026/03/01/yesterday-i-judged-my-first.html",
 				
 				"content_html": "<p>Yesterday, I judged my first Utah FIRST event, the fourth round of FIRST Tech Challenge qualifiers for Utah.</p>\n<p>No pictures for obvious reasons, but it was tons of fun!</p>\n<p>Here’s <a href=\"https://m.youtube.com/watch?v=cjrO1nzOVbE\">the 8-hour-long official stream</a> if you’re that bored.</p>\n<p>Looking forward to states next weekend.</p>\n",
