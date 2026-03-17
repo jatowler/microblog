@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2026/03/17/i-love-all-the-breathless.html",
+				
+				"content_html": "<p>I love all the breathless stories about data centers in space that seem to forget the biggest problem with launching compute.</p>\n<p>You have to read to the very last paragraph of <a href=\"https://payloadspace.com/nvidia-announces-new-hardware-to-unlock-orbital-data-centers/\">this Payload article</a> to learn that they still haven’t overturned thermodynamics:</p>\n<blockquote>\n<p>Of course, in space there’s no conduction, there’s no convection, there’s just radiation, and so we have to figure out how to cool these systems out in space but we’ve got lots of great engineers working on it.</p>\n</blockquote>\n<p>Earlier, the article claims both “low-SWaP” and also 25x the performance of the H100.</p>\n<p>And, presumably, no cooling necessary.</p>\n",
+				"content_text": "I love all the breathless stories about data centers in space that seem to forget the biggest problem with launching compute.\n\nYou have to read to the very last paragraph of [this Payload article](https://payloadspace.com/nvidia-announces-new-hardware-to-unlock-orbital-data-centers/) to learn that they still haven’t overturned thermodynamics:\n\n> Of course, in space there’s no conduction, there’s no convection, there’s just radiation, and so we have to figure out how to cool these systems out in space but we’ve got lots of great engineers working on it.\n\nEarlier, the article claims both “low-SWaP” and also 25x the performance of the H100.\n\nAnd, presumably, no cooling necessary.\n",
+				"date_published": "2026-03-17T08:35:07-06:00",
+				"url": "https://jerrytowler.com/2026/03/17/i-love-all-the-breathless.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2026/03/15/this-is-not-the-computer.html",
+				
+				"content_html": "<p><a href=\"https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/?ref=birchtree.me\">“This Is Not The Computer For You” · Sam Henri Gold</a>:</p>\n<blockquote>\n<p>He knows it’s probably not the right tool. It doesn’t matter. It never did.</p>\n<p>The reviews can tell you what a computer is for. They have very little interest in what you might become because of one.</p>\n</blockquote>\n<p>There are too many great words in this piece about the MacBook Neo (via Daring Fireball) to quote them all, so maybe just go read the whole thing. It’s short.</p>\n",
+				"content_text": "[“This Is Not The Computer For You” · Sam Henri Gold](https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/?ref=birchtree.me):\n\n> He knows it’s probably not the right tool. It doesn’t matter. It never did.\n>\n> The reviews can tell you what a computer is for. They have very little interest in what you might become because of one.\n\nThere are too many great words in this piece about the MacBook Neo (via Daring Fireball) to quote them all, so maybe just go read the whole thing. It’s short.\n",
+				"date_published": "2026-03-15T19:34:58-06:00",
+				"url": "https://jerrytowler.com/2026/03/15/this-is-not-the-computer.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2026/03/15/when-writing-that-last-post.html",
+				
+				"content_html": "<p>When writing <a href=\"https://jerrytowler.com/2026/03/15/rose-l-thayer-at-stars.html\">that last post</a>, I instinctively went to the Wayback Machine because it&rsquo;s a post about censorship <em>from the publication being censored</em>.</p>\n<p>About halfway through the process I remembered Micro.blog already auto-archives pages. That <a href=\"https://micro.blog/manton\">@manton</a> is a smart guy.</p>\n",
+				"content_text": "When writing [that last post](https://jerrytowler.com/2026/03/15/rose-l-thayer-at-stars.html), I instinctively went to the Wayback Machine because it's a post about censorship *from the publication being censored*.\n\nAbout halfway through the process I remembered Micro.blog already auto-archives pages. That [@manton](https://micro.blog/manton) is a smart guy.\n",
+				"date_published": "2026-03-15T12:02:12-06:00",
+				"url": "https://jerrytowler.com/2026/03/15/when-writing-that-last-post.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2026/03/15/rose-l-thayer-at-stars.html",
+				
+				"content_html": "<p><a href=\"https://web.archive.org/web/20260315132902/https://www.stripes.com/theaters/us/2026-03-13/pentagon-modernization-plan-stars-and-stripes-21051529.html\">Rose L. Thayer at Stars and Stripes</a>:</p>\n<blockquote>\n<p>The Pentagon has released a modernization plan for Stars and Stripes that affirms the publication’s independence while expanding Defense Department oversight, introducing new restrictions on content…</p>\n</blockquote>\n<p>This sentence is inherently hypocritical. The gist of the article is that DOD is trying to turn Stars and Stripes into a propaganda outlet while preventing it from broadly informing service members, even about sports and world news.</p>\n<p>I&rsquo;m amused at the author&rsquo;s rebellion: she calls the department &ldquo;Defense&rdquo; and not &ldquo;War&rdquo; throughout.</p>\n<p>Well done, Ms. Thayer.</p>\n",
+				"content_text": "[Rose L. Thayer at Stars and Stripes](https://web.archive.org/web/20260315132902/https://www.stripes.com/theaters/us/2026-03-13/pentagon-modernization-plan-stars-and-stripes-21051529.html):\n\n> The Pentagon has released a modernization plan for Stars and Stripes that affirms the publication’s independence while expanding Defense Department oversight, introducing new restrictions on content…\n\nThis sentence is inherently hypocritical. The gist of the article is that DOD is trying to turn Stars and Stripes into a propaganda outlet while preventing it from broadly informing service members, even about sports and world news.\n\nI'm amused at the author's rebellion: she calls the department \"Defense\" and not \"War\" throughout.\n\nWell done, Ms. Thayer.\n",
+				"date_published": "2026-03-15T11:59:46-06:00",
+				"url": "https://jerrytowler.com/2026/03/15/rose-l-thayer-at-stars.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2026/03/15/speaking-of-puzzles-the-author.html",
+				
+				"content_html": "<p>Speaking of puzzles, the author of today’s Apple Quartiles must be feeling pretty good about themselves.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Speaking of puzzles, the author of today’s Apple Quartiles must be feeling pretty good about themselves.\n\n<img src=\"uploads/2026/f8a777d0f8.jpg\" width=\"600\" height=\"511\" alt=\"\">\n",
+				"date_published": "2026-03-15T08:32:34-06:00",
+				"url": "https://jerrytowler.com/2026/03/15/speaking-of-puzzles-the-author.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2026/03/15/rosa-canina-wikipedia-rosa-canina.html",
+				
+				"content_html": "<p><a href=\"https://en.wikipedia.org/wiki/Rosa_canina\">Rosa canina - Wikipedia</a></p>\n<blockquote>\n<p>Rosa canina, the dog rose, is a variable climbing, wild rose species native to Europe, northwest Africa, and western Asia.</p>\n</blockquote>\n<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Divlja_ruza_cvijet_270508.jpg/500px-Divlja_ruza_cvijet_270508.jpg\" alt=\"The dog rose, courtesy of Wikimedia\"></p>\n<p>Learned a new plant from today’s LinkedIn Pinpoint game. I have a bad tendency of just accepting answers rather than taking the opportunity to learn, so here you go.</p>\n",
+				"content_text": "[Rosa canina - Wikipedia](https://en.wikipedia.org/wiki/Rosa_canina)\n\n> Rosa canina, the dog rose, is a variable climbing, wild rose species native to Europe, northwest Africa, and western Asia.\n\n![The dog rose, courtesy of Wikimedia](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Divlja_ruza_cvijet_270508.jpg/500px-Divlja_ruza_cvijet_270508.jpg)\n\nLearned a new plant from today’s LinkedIn Pinpoint game. I have a bad tendency of just accepting answers rather than taking the opportunity to learn, so here you go.\n",
+				"date_published": "2026-03-15T08:22:58-06:00",
+				"url": "https://jerrytowler.com/2026/03/15/rosa-canina-wikipedia-rosa-canina.html"
+			},
+			{
 				"id": "http://jatowler.micro.blog/2026/03/14/a-brief-story-of-codex.html",
 				"title": "A Brief Story of Codex and Technical Debt",
 				"content_html": "<p>Confession: my <a href=\"https://versenotes.org/cbc\">Chapter By Chapter</a> build pipeline is a messy hodgepodge of Make, Python, Pillow, <code>webkit2png</code>, <code>pandoc</code>, Image Magick, and probably other stuff I don&rsquo;t want to think about any more.</p>\n<p>Typing <code>make</code> works. Usually. Well, actually, I have to type <code>gmake</code> because some part of my Makefile uses new GNU commands that <code>make</code> can&rsquo;t handle.</p>\n<p>Extra confession: it&rsquo;s all stored in iCloud, not version control of any kind.</p>\n<p>Solution: tonight I let Codex loose on it, and an hour later, the directory is organized, everything is pushed to GitLab (including source art in LFS), and that outdated <code>webkit2png</code> script is updated to use Playwright, and <code>make</code> works properly.</p>\n<p>Oh, and everything is way more reproducible and less brittle.</p>\n<p>Tech debt: eliminated.</p>\n",
@@ -18,7 +66,7 @@
 				"id": "http://jatowler.micro.blog/2026/03/02/that-chapter-kings-brings-me.html",
 				
 				"content_html": "<p>That chapter (1 Kings 17) brings me to 700 total chapters with notes. Only 489 to go!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "That chapter (1 Kings 17) brings me to 700 total chapters with notes. Only 489 to go!\n\n<img src=\"uploads/2026/paste-07e275fa.png\" width=\"600\" height=\"53\" alt=\"\">\n",
+				"content_text": "That chapter (1 Kings 17) brings me to 700 total chapters with notes. Only 489 to go!\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2026/paste-07e275fa.png\" width=\"600\" height=\"53\" alt=\"\">\n",
 				"date_published": "2026-03-02T22:08:10-06:00",
 				"url": "https://jerrytowler.com/2026/03/02/that-chapter-kings-brings-me.html"
 			},
