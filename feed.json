@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2026/03/20/the-wall-street-journal-openai.html",
+				
+				"content_html": "<p><a href=\"https://www.wsj.com/tech/openai-plans-launch-of-desktop-superapp-to-refocus-simplify-user-experience-9e19931d\">The Wall Street Journal</a>:</p>\n<blockquote>\n<p>OpenAI is planning to unify its ChatGPT app, coding platform Codex and browser into a desktop “superapp,” a step to simplify the user experience and continue with efforts to focus on engineering and business customers.</p>\n</blockquote>\n<p>Smashing a quasi-IDE into a goofy web browser is so silly-sounding (and unlikely to simplify anything) that I almost believe the WSJ misunderstood what it was told.</p>\n<p>Software developers tend to be <a href=\"https://en.wikipedia.org/wiki/Unix_philosophy\">do-one-job Unix people</a> or do-everything super-app kitchen-sink people.</p>\n<p>They both generally think the other group is insane.</p>\n",
+				"content_text": "[The Wall Street Journal](https://www.wsj.com/tech/openai-plans-launch-of-desktop-superapp-to-refocus-simplify-user-experience-9e19931d):\n\n> OpenAI is planning to unify its ChatGPT app, coding platform Codex and browser into a desktop “superapp,” a step to simplify the user experience and continue with efforts to focus on engineering and business customers.\n\nSmashing a quasi-IDE into a goofy web browser is so silly-sounding (and unlikely to simplify anything) that I almost believe the WSJ misunderstood what it was told.\n\nSoftware developers tend to be [do-one-job Unix people](https://en.wikipedia.org/wiki/Unix_philosophy) or do-everything super-app kitchen-sink people.\n\nThey both generally think the other group is insane.\n",
+				"date_published": "2026-03-20T09:21:36-06:00",
+				"url": "https://jerrytowler.com/2026/03/20/the-wall-street-journal-openai.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2026/03/18/the-plural-of-doozy-as.html",
+				
+				"content_html": "<p>The plural of “doozy” as in, “it’s a doozy” looks weird to me:</p>\n<blockquote>\n<p>doozies.</p>\n</blockquote>\n<p>Why does the singular look okay, but the plural looks so bad I want to write around it?</p>\n<p>(Not to be confused with Doose’s Market, the grocery store next to Luke’s owned by Taylor Doose and pronounced exactly the same way.)</p>\n",
+				"content_text": "The plural of “doozy” as in, “it’s a doozy” looks weird to me:\n\n> doozies.\n\nWhy does the singular look okay, but the plural looks so bad I want to write around it?\n\n(Not to be confused with Doose’s Market, the grocery store next to Luke’s owned by Taylor Doose and pronounced exactly the same way.)\n",
+				"date_published": "2026-03-18T11:46:36-06:00",
+				"url": "https://jerrytowler.com/2026/03/18/the-plural-of-doozy-as.html"
+			},
+			{
 				"id": "http://jatowler.micro.blog/2026/03/18/wow-these-plugins-look-amazing.html",
 				
 				"content_html": "<p>Wow, <a href=\"https://adventure.micro.blog/preview/\">these plugins</a> look amazing! Years ago I built some of this for Jekyll, but I didn’t take the very hard extra step of publishing them for others to use.</p>\n<p>Awesome work, <a href=\"https://micro.blog/rscottjones\">@rscottjones</a>; if you need testing, I’d love to help.</p>\n",
@@ -37,6 +53,14 @@
 				"content_text": "When writing [that last post](https://jerrytowler.com/2026/03/15/rose-l-thayer-at-stars.html), I instinctively went to the Wayback Machine because it's a post about censorship *from the publication being censored*.\n\nAbout halfway through the process I remembered Micro.blog already auto-archives pages. That [@manton](https://micro.blog/manton) is a smart guy.\n",
 				"date_published": "2026-03-15T12:02:12-06:00",
 				"url": "https://jerrytowler.com/2026/03/15/when-writing-that-last-post.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2026/03/15/rose-l-thayer-at-stars.html",
+				
+				"content_html": "<p><a href=\"https://web.archive.org/web/20260315132902/https://www.stripes.com/theaters/us/2026-03-13/pentagon-modernization-plan-stars-and-stripes-21051529.html\">Rose L. Thayer at Stars and Stripes</a>:</p>\n<blockquote>\n<p>The Pentagon has released a modernization plan for Stars and Stripes that affirms the publication’s independence while expanding Defense Department oversight, introducing new restrictions on content…</p>\n</blockquote>\n<p>This sentence is inherently hypocritical. The gist of the article is that DOD is trying to turn Stars and Stripes into a propaganda outlet while preventing it from broadly informing service members, even about sports and world news.</p>\n<p>I&rsquo;m amused at the author&rsquo;s rebellion: she calls the department &ldquo;Defense&rdquo; and not &ldquo;War&rdquo; throughout.</p>\n<p>Well done, Ms. Thayer.</p>\n",
+				"content_text": "[Rose L. Thayer at Stars and Stripes](https://web.archive.org/web/20260315132902/https://www.stripes.com/theaters/us/2026-03-13/pentagon-modernization-plan-stars-and-stripes-21051529.html):\n\n> The Pentagon has released a modernization plan for Stars and Stripes that affirms the publication’s independence while expanding Defense Department oversight, introducing new restrictions on content…\n\nThis sentence is inherently hypocritical. The gist of the article is that DOD is trying to turn Stars and Stripes into a propaganda outlet while preventing it from broadly informing service members, even about sports and world news.\n\nI'm amused at the author's rebellion: she calls the department \"Defense\" and not \"War\" throughout.\n\nWell done, Ms. Thayer.\n",
+				"date_published": "2026-03-15T11:59:46-06:00",
+				"url": "https://jerrytowler.com/2026/03/15/rose-l-thayer-at-stars.html"
 			},
 			{
 				"id": "http://jatowler.micro.blog/2026/03/15/speaking-of-puzzles-the-author.html",
