@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2026/04/17/suddenly-its-winter-again-in.html",
+				
+				"content_html": "<p>Suddenly it’s winter again in Denver.</p>\n<p>Maybe it’s a good thing we brought our skis after all…</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Suddenly it’s winter again in Denver.\n\nMaybe it’s a good thing we brought our skis after all…\n\n<img src=\"uploads/2026/9389c73e26.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-04-17T12:11:35-06:00",
+				"url": "https://jerrytowler.com/2026/04/17/suddenly-its-winter-again-in.html"
+			},
+			{
 				"id": "http://jatowler.micro.blog/2026/04/13/these-thoughts-from-thought-shrapnel.html",
 				
 				"content_html": "<p>These thoughts from <a href=\"https://thoughtshrapnel.com/2026/04/11/ideas-are-not-products-as.html\">Thought Shrapnel</a> are in conflict:</p>\n<blockquote>\n<p>a Japanese farmer who rediscovered the old ways, and paying more attention to the seasons</p>\n</blockquote>\n<p>and</p>\n<blockquote>\n<p>Essentially, everything is emergent, and all your brain is doing is making links between things. Which is why I don&rsquo;t have any problem in using LLMs as part of my workflow.</p>\n</blockquote>\n<p>Inhabiting time (&ldquo;paying more attention to the seasons&rdquo;) is a <em>kairos</em>-forward approach, and seems to have spooky emergent properties.</p>\n<p>Using LLMs to replace, automate, or accelerate link-making is <em>chronos</em>-forward, and, while not bad, is very much not the same thing.</p>\n",
