@@ -7,11 +7,20 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2026/04/22/finished-reading-twelve-months-the.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9780593199336\">Twelve Months (The Dresden Files, #18)</a> by Jim  Butcher 📚</p>\n<p>A fun palate cleanser. Important plots move forward. A few important bits of lore get revealed. Nothing gets quite enough attention. (Dresden and Lara could have used an entire book to themselves.)</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780593199336/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Twelve Months (The Dresden Files, #18)](https://micro.blog/books/9780593199336) by Jim  Butcher 📚\n\nA fun palate cleanser. Important plots move forward. A few important bits of lore get revealed. Nothing gets quite enough attention. (Dresden and Lara could have used an entire book to themselves.)\n",
+				"date_published": "2026-04-22T14:24:10-04:00",
+				"url": "https://jerrytowler.com/2026/04/22/finished-reading-twelve-months-the.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://jatowler.micro.blog/2026/04/17/suddenly-its-winter-again-in.html",
 				
 				"content_html": "<p>Suddenly it’s winter again in Denver.</p>\n<p>Maybe it’s a good thing we brought our skis after all…</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Suddenly it’s winter again in Denver.\n\nMaybe it’s a good thing we brought our skis after all…\n\n<img src=\"uploads/2026/9389c73e26.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2026-04-17T12:11:35-06:00",
+				"date_published": "2026-04-17T14:11:35-04:00",
 				"url": "https://jerrytowler.com/2026/04/17/suddenly-its-winter-again-in.html"
 			},
 			{
@@ -19,7 +28,7 @@
 				
 				"content_html": "<p>These thoughts from <a href=\"https://thoughtshrapnel.com/2026/04/11/ideas-are-not-products-as.html\">Thought Shrapnel</a> are in conflict:</p>\n<blockquote>\n<p>a Japanese farmer who rediscovered the old ways, and paying more attention to the seasons</p>\n</blockquote>\n<p>and</p>\n<blockquote>\n<p>Essentially, everything is emergent, and all your brain is doing is making links between things. Which is why I don&rsquo;t have any problem in using LLMs as part of my workflow.</p>\n</blockquote>\n<p>Inhabiting time (&ldquo;paying more attention to the seasons&rdquo;) is a <em>kairos</em>-forward approach, and seems to have spooky emergent properties.</p>\n<p>Using LLMs to replace, automate, or accelerate link-making is <em>chronos</em>-forward, and, while not bad, is very much not the same thing.</p>\n",
 				"content_text": "These thoughts from [Thought Shrapnel](https://thoughtshrapnel.com/2026/04/11/ideas-are-not-products-as.html) are in conflict:\n\n> a Japanese farmer who rediscovered the old ways, and paying more attention to the seasons\n\nand\n\n> Essentially, everything is emergent, and all your brain is doing is making links between things. Which is why I don't have any problem in using LLMs as part of my workflow.\n\nInhabiting time (\"paying more attention to the seasons\") is a _kairos_-forward approach, and seems to have spooky emergent properties.\n\nUsing LLMs to replace, automate, or accelerate link-making is _chronos_-forward, and, while not bad, is very much not the same thing.\n",
-				"date_published": "2026-04-13T08:24:29-06:00",
+				"date_published": "2026-04-13T10:24:29-04:00",
 				"url": "https://jerrytowler.com/2026/04/13/these-thoughts-from-thought-shrapnel.html"
 			},
 			{
@@ -27,7 +36,7 @@
 				
 				"content_html": "<p>Brazilian sandwich for lunch at The Garage Food Hall before my flight out.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Brazilian sandwich for lunch at The Garage Food Hall before my flight out.\n\n<img src=\"uploads/2026/04003935b0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2026-04-12T13:11:03-06:00",
+				"date_published": "2026-04-12T15:11:03-04:00",
 				"url": "https://jerrytowler.com/2026/04/12/brazilian-sandwich-for-lunch-at.html"
 			},
 			{
@@ -35,7 +44,7 @@
 				
 				"content_html": "<p>Today’s LinkedIn CrossClimb puzzle used “Patriarch in the book of Exodus” as a clue for MOSES.</p>\n<p>Quick, name any descendant of Moses.</p>\n",
 				"content_text": "Today’s LinkedIn CrossClimb puzzle used “Patriarch in the book of Exodus” as a clue for MOSES.\n\nQuick, name any descendant of Moses.\n",
-				"date_published": "2026-04-04T07:45:44-06:00",
+				"date_published": "2026-04-04T09:45:44-04:00",
 				"url": "https://jerrytowler.com/2026/04/04/todays-linkedin-crossclimb-puzzle-used.html"
 			},
 			{
@@ -123,7 +132,7 @@
 				"title": "A Brief Story of Codex and Technical Debt",
 				"content_html": "<p>Confession: my <a href=\"https://versenotes.org/cbc\">Chapter By Chapter</a> build pipeline is a messy hodgepodge of Make, Python, Pillow, <code>webkit2png</code>, <code>pandoc</code>, Image Magick, and probably other stuff I don&rsquo;t want to think about any more.</p>\n<p>Typing <code>make</code> works. Usually. Well, actually, I have to type <code>gmake</code> because some part of my Makefile uses new GNU commands that <code>make</code> can&rsquo;t handle.</p>\n<p>Extra confession: it&rsquo;s all stored in iCloud, not version control of any kind.</p>\n<p>Solution: tonight I let Codex loose on it, and an hour later, the directory is organized, everything is pushed to GitLab (including source art in LFS), and that outdated <code>webkit2png</code> script is updated to use Playwright, and <code>make</code> works properly.</p>\n<p>Oh, and everything is way more reproducible and less brittle.</p>\n<p>Tech debt: eliminated.</p>\n",
 				"content_text": "Confession: my [Chapter By Chapter](https://versenotes.org/cbc) build pipeline is a messy hodgepodge of Make, Python, Pillow, `webkit2png`, `pandoc`, Image Magick, and probably other stuff I don't want to think about any more.\n\nTyping `make` works. Usually. Well, actually, I have to type `gmake` because some part of my Makefile uses new GNU commands that `make` can't handle.\n\nExtra confession: it's all stored in iCloud, not version control of any kind.\n\nSolution: tonight I let Codex loose on it, and an hour later, the directory is organized, everything is pushed to GitLab (including source art in LFS), and that outdated `webkit2png` script is updated to use Playwright, and `make` works properly.\n\nOh, and everything is way more reproducible and less brittle.\n\nTech debt: eliminated.\n",
-				"date_published": "2026-03-14T22:03:40-06:00",
+				"date_published": "2026-03-15T00:03:40-04:00",
 				"url": "https://jerrytowler.com/2026/03/14/a-brief-story-of-codex.html"
 			},
 			{
