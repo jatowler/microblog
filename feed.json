@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2026/05/03/afternoon-hike-at-ghost-falls.html",
+				
+				"content_html": "<p>Afternoon hike at Ghost Falls trail down in Draper.</p>\n<p>Three round trips in twelve days means I need to take every opportunity I have to get outside.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Afternoon hike at Ghost Falls trail down in Draper.\n\nThree round trips in twelve days means I need to take every opportunity I have to get outside.\n\n<img src=\"uploads/2026/395707bf75.png\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-05-03T16:35:38-06:00",
+				"url": "https://jerrytowler.com/2026/05/03/afternoon-hike-at-ghost-falls.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://jatowler.micro.blog/2026/05/02/hop-skud-and-a-burrito.html",
 				
 				"content_html": "<p>Hop Skud and a burrito bowl at Free Roam in Boerne.</p>\n<!-- raw HTML omitted -->\n",
