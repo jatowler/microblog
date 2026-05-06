@@ -7,10 +7,27 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2026/05/05/finished-reading-cursed-by-benedict.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9781101568910\">Cursed</a> by Benedict Jacka 📚</p>\n<p>Jacka continues to write fun urban fantasy with a little noir detective thrown in.</p>\n<p>My unfamiliarity with London geography continues to make some of this series hard to follow, and the characters don’t see quite as rich as I wish they were. But they’re fun reading, even if Verus doesn’t list himself in the yellow pages.</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781101568910/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Cursed](https://micro.blog/books/9781101568910) by Benedict Jacka 📚\n\nJacka continues to write fun urban fantasy with a little noir detective thrown in.\n\nMy unfamiliarity with London geography continues to make some of this series hard to follow, and the characters don’t see quite as rich as I wish they were. But they’re fun reading, even if Verus doesn’t list himself in the yellow pages.\n",
+				"date_published": "2026-05-05T21:28:37-06:00",
+				"url": "https://jerrytowler.com/2026/05/05/finished-reading-cursed-by-benedict.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2026/05/04/day-one-aiguided-journaling-good.html",
+				"title": "Day One AI-Guided Journaling: Good, Not Great",
+				"content_html": "<p>I tried Day One’s “Chat About Your Day” feature today. It’s a conversation about your day, where each turn is a little prompt, rather than a blank journal page.</p>\n<p>It went well.</p>\n<p>The prompts were very scope limited, encouraging short replies, and they felt apt. The final journal entry was pretty good, although it felt kind of like splicing my words together rather than a coherent entry.</p>\n<p>The biggest challenge was that the AI had no sense of when to stop. It just kept asking questions and letting me answer, and that could go on all day.</p>\n<p>It needs a sense of “we have explored as far as the user wants to explore, here’s a giant ‘Compile Entry’ button.”</p>\n<p>I’ll definitely use it again.</p>\n",
+				"content_text": "I tried Day One’s “Chat About Your Day” feature today. It’s a conversation about your day, where each turn is a little prompt, rather than a blank journal page.\n\nIt went well.\n\nThe prompts were very scope limited, encouraging short replies, and they felt apt. The final journal entry was pretty good, although it felt kind of like splicing my words together rather than a coherent entry.\n\nThe biggest challenge was that the AI had no sense of when to stop. It just kept asking questions and letting me answer, and that could go on all day.\n\nIt needs a sense of “we have explored as far as the user wants to explore, here’s a giant ‘Compile Entry’ button.”\n\nI’ll definitely use it again.\n",
+				"date_published": "2026-05-04T13:30:43-06:00",
+				"url": "https://jerrytowler.com/2026/05/04/day-one-aiguided-journaling-good.html"
+			},
+			{
 				"id": "http://jatowler.micro.blog/2026/05/03/afternoon-hike-at-ghost-falls.html",
 				
-				"content_html": "<p>Afternoon hike at Ghost Falls trail down in Draper.</p>\n<p>Three round trips in twelve days means I need to take every opportunity I have to get outside.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Afternoon hike at Ghost Falls trail down in Draper.\n\nThree round trips in twelve days means I need to take every opportunity I have to get outside.\n\n<img src=\"uploads/2026/395707bf75.png\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Afternoon hike at Ghost Falls trail down in Draper.</p>\n<p>Three round trips in twelve days (San Antonio, Huntsville, DC) means I need to take every opportunity I have to get outside while I’m here.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Afternoon hike at Ghost Falls trail down in Draper.\n\nThree round trips in twelve days (San Antonio, Huntsville, DC) means I need to take every opportunity I have to get outside while I’m here.\n\n<img src=\"uploads/2026/395707bf75.png\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-05-03T16:35:38-06:00",
 				"url": "https://jerrytowler.com/2026/05/03/afternoon-hike-at-ghost-falls.html",
 				"tags": ["photos"]
