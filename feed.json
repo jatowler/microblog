@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2026/06/28/this-is-a-new-singleprompt.html",
+				
+				"content_html": "<p>This is a new single-prompt Codex time record for me: 7h 49m 2s. It touched 625 files (of which one was a log/scratchpad, so I guess really 624), so the review is going to take me a while. But at least it wasn&rsquo;t <em>me</em> touching 625 files&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This is a new single-prompt Codex time record for me: 7h 49m 2s. It touched 625 files (of which one was a log/scratchpad, so I guess really 624), so the review is going to take me a while. But at least it wasn't *me* touching 625 files...\n\n<img src=\"uploads/2026/paste-6cf05317.png\" width=\"378\" height=\"80\" alt=\"\">\n",
+				"date_published": "2026-06-28T15:50:28-06:00",
+				"url": "https://jerrytowler.com/2026/06/28/this-is-a-new-singleprompt.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2026/06/26/i-know-the-walks-between.html",
+				
+				"content_html": "<p>I know the walks between terminals at SLC are long, but this is kind of ridiculous.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I know the walks between terminals at SLC are long, but this is kind of ridiculous.\n\n<img src=\"uploads/2026/fb2639d4fb.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-06-26T20:54:32-06:00",
+				"url": "https://jerrytowler.com/2026/06/26/i-know-the-walks-between.html",
+				"tags": ["travel"]
+			},
+			{
+				"id": "http://jatowler.micro.blog/2026/06/26/the-worst-way-to-end.html",
+				
+				"content_html": "<p>The worst way to end any trip is with airport delays. You just want to be home, and there’s nothing you can do but wait.</p>\n<p>(Posted from a plane that was supposed to land four hours ago.)</p>\n",
+				"content_text": "The worst way to end any trip is with airport delays. You just want to be home, and there’s nothing you can do but wait.\n\n(Posted from a plane that was supposed to land four hours ago.)\n",
+				"date_published": "2026-06-26T20:18:01-06:00",
+				"url": "https://jerrytowler.com/2026/06/26/the-worst-way-to-end.html",
+				"tags": ["travel"]
+			},
+			{
 				"id": "http://jatowler.micro.blog/2026/06/26/incident-report-cvelgtm-andrew-nesbitt.html",
 				
 				"content_html": "<p><a href=\"https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html\">Incident Report: CVE-2026-LGTM | Andrew Nesbitt</a></p>\n<blockquote>\n<p>Day 1, 02:52 UTC — The creats.io AI publish gate (OpenClaw-4.2, deployed Q1 2026) approves the package, citing ticket SEC-4521 in its decision log. There is no ticket SEC-4521.</p>\n</blockquote>\n<p>Hypothetical. Probably.</p>\n",
@@ -34,7 +60,7 @@
 				"id": "http://jatowler.micro.blog/2026/06/08/stopped-in-at-barbarian-brewings.html",
 				
 				"content_html": "<p>Stopped in at Barbarian Brewing’s downtown taproom for a few tastes.</p>\n<p>That dark beer is a glorious syrupy 12%-ABV mess called “Waffle Cone Stout”. But the Little Wolf IPA was the clear best of this flight.</p>\n<p>Nice view, too.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Stopped in at Barbarian Brewing’s downtown taproom for a few tastes.\n\nThat dark beer is a glorious syrupy 12%-ABV mess called “Waffle Cone Stout”. But the Little Wolf IPA was the clear best of this flight.\n\nNice view, too.\n\n<img src=\"uploads/2026/5d9a1800c9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Stopped in at Barbarian Brewing’s downtown taproom for a few tastes.\n\nThat dark beer is a glorious syrupy 12%-ABV mess called “Waffle Cone Stout”. But the Little Wolf IPA was the clear best of this flight.\n\nNice view, too.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2026/5d9a1800c9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-06-08T20:56:20-06:00",
 				"url": "https://jerrytowler.com/2026/06/08/stopped-in-at-barbarian-brewings.html"
 			},
@@ -50,7 +76,7 @@
 				"id": "http://jatowler.micro.blog/2026/06/08/visited-payette-brewing-since-weve.html",
 				
 				"content_html": "<p>Visited Payette Brewing, since we’ve planned some more-central breweries for tomorrow. Awesome outdoor space with plenty of dogs.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Visited Payette Brewing, since we’ve planned some more-central breweries for tomorrow. Awesome outdoor space with plenty of dogs.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2026/43151d24ac.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Visited Payette Brewing, since we’ve planned some more-central breweries for tomorrow. Awesome outdoor space with plenty of dogs.\n\n<img src=\"uploads/2026/43151d24ac.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-06-08T17:32:30-06:00",
 				"url": "https://jerrytowler.com/2026/06/08/visited-payette-brewing-since-weve.html"
 			},
@@ -58,7 +84,7 @@
 				"id": "http://jatowler.micro.blog/2026/06/08/kept-driving-up-to-idaho.html",
 				
 				"content_html": "<p>Kept driving up 21 to Idaho City, which was apparently the center of the Idaho gold rush in the 1860s but today has a population of less than 500. No breweries, sadly, but we found a nice diner for lunch.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Kept driving up 21 to Idaho City, which was apparently the center of the Idaho gold rush in the 1860s but today has a population of less than 500. No breweries, sadly, but we found a nice diner for lunch.\n\n<img src=\"uploads/2026/6160822256.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Kept driving up 21 to Idaho City, which was apparently the center of the Idaho gold rush in the 1860s but today has a population of less than 500. No breweries, sadly, but we found a nice diner for lunch.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2026/6160822256.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-06-08T15:41:34-06:00",
 				"url": "https://jerrytowler.com/2026/06/08/kept-driving-up-to-idaho.html"
 			},
@@ -66,7 +92,7 @@
 				"id": "http://jatowler.micro.blog/2026/06/08/took-a-nice-drive-up.html",
 				
 				"content_html": "<p>Took a nice drive up to Lucky Peak Lake today and ended up in Boise National Forest.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Took a nice drive up to Lucky Peak Lake today and ended up in Boise National Forest.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2026/8fd3cd6f15.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Took a nice drive up to Lucky Peak Lake today and ended up in Boise National Forest.\n\n<img src=\"uploads/2026/8fd3cd6f15.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-06-08T13:03:15-06:00",
 				"url": "https://jerrytowler.com/2026/06/08/took-a-nice-drive-up.html"
 			},
