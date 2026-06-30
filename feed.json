@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2026/06/29/finished-reading-dungeon-crawler-carl.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9798688591507\">Dungeon Crawler Carl A LitRPG/Gamelit Adventure</a> by Matt Dinniman</p>\n<p>A quick, fluffy, no-stakes LitRPG read.</p>\n<p>Parts of it are clear parody, but they’re executed so hamfistedly I wondered if the author was lampooning his own genre and not just the obvious butts of the jokes.</p>\n<p>I was sufficiently entertained to reserve the next one on Libby.</p>\n<p>📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9798688591507/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Dungeon Crawler Carl A LitRPG/Gamelit Adventure](https://micro.blog/books/9798688591507) by Matt Dinniman\n\nA quick, fluffy, no-stakes LitRPG read.\n\nParts of it are clear parody, but they’re executed so hamfistedly I wondered if the author was lampooning his own genre and not just the obvious butts of the jokes.\n\nI was sufficiently entertained to reserve the next one on Libby. \n\n📚\n",
+				"date_published": "2026-06-29T18:00:47-06:00",
+				"url": "https://jerrytowler.com/2026/06/29/finished-reading-dungeon-crawler-carl.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://jatowler.micro.blog/2026/06/28/this-is-a-new-singleprompt.html",
 				
 				"content_html": "<p>This is a new single-prompt Codex time record for me: 7h 49m 2s. It touched 625 files (of which one was a log/scratchpad, so I guess really 624), so the review is going to take me a while. But at least it wasn&rsquo;t <em>me</em> touching 625 files&hellip;</p>\n<!-- raw HTML omitted -->\n",
@@ -68,7 +77,7 @@
 				"id": "http://jatowler.micro.blog/2026/06/08/boise-fry-company-has-a.html",
 				
 				"content_html": "<p>Boise Fry Company has a gimmick, and they live up to it. Four different kinds of potatoes, prepared four different ways, with a dozen sauces and ten or so salts available.</p>\n<p>Best combo: cinnamon-ginger salt on sweet potatoes.</p>\n<p>Best sauce: spicy Idaho fry sauce. Adobo chile flavor, amazing.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Boise Fry Company has a gimmick, and they live up to it. Four different kinds of potatoes, prepared four different ways, with a dozen sauces and ten or so salts available.\n\nBest combo: cinnamon-ginger salt on sweet potatoes.\n\nBest sauce: spicy Idaho fry sauce. Adobo chile flavor, amazing.\n\n<img src=\"uploads/2026/fe105cc417.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"content_text": "Boise Fry Company has a gimmick, and they live up to it. Four different kinds of potatoes, prepared four different ways, with a dozen sauces and ten or so salts available.\n\nBest combo: cinnamon-ginger salt on sweet potatoes.\n\nBest sauce: spicy Idaho fry sauce. Adobo chile flavor, amazing.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2026/fe105cc417.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
 				"date_published": "2026-06-08T18:54:01-06:00",
 				"url": "https://jerrytowler.com/2026/06/08/boise-fry-company-has-a.html"
 			},
@@ -76,7 +85,7 @@
 				"id": "http://jatowler.micro.blog/2026/06/08/visited-payette-brewing-since-weve.html",
 				
 				"content_html": "<p>Visited Payette Brewing, since we’ve planned some more-central breweries for tomorrow. Awesome outdoor space with plenty of dogs.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Visited Payette Brewing, since we’ve planned some more-central breweries for tomorrow. Awesome outdoor space with plenty of dogs.\n\n<img src=\"uploads/2026/43151d24ac.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Visited Payette Brewing, since we’ve planned some more-central breweries for tomorrow. Awesome outdoor space with plenty of dogs.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2026/43151d24ac.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-06-08T17:32:30-06:00",
 				"url": "https://jerrytowler.com/2026/06/08/visited-payette-brewing-since-weve.html"
 			},
@@ -84,7 +93,7 @@
 				"id": "http://jatowler.micro.blog/2026/06/08/kept-driving-up-to-idaho.html",
 				
 				"content_html": "<p>Kept driving up 21 to Idaho City, which was apparently the center of the Idaho gold rush in the 1860s but today has a population of less than 500. No breweries, sadly, but we found a nice diner for lunch.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Kept driving up 21 to Idaho City, which was apparently the center of the Idaho gold rush in the 1860s but today has a population of less than 500. No breweries, sadly, but we found a nice diner for lunch.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2026/6160822256.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Kept driving up 21 to Idaho City, which was apparently the center of the Idaho gold rush in the 1860s but today has a population of less than 500. No breweries, sadly, but we found a nice diner for lunch.\n\n<img src=\"uploads/2026/6160822256.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-06-08T15:41:34-06:00",
 				"url": "https://jerrytowler.com/2026/06/08/kept-driving-up-to-idaho.html"
 			},
@@ -92,7 +101,7 @@
 				"id": "http://jatowler.micro.blog/2026/06/08/took-a-nice-drive-up.html",
 				
 				"content_html": "<p>Took a nice drive up to Lucky Peak Lake today and ended up in Boise National Forest.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Took a nice drive up to Lucky Peak Lake today and ended up in Boise National Forest.\n\n<img src=\"uploads/2026/8fd3cd6f15.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Took a nice drive up to Lucky Peak Lake today and ended up in Boise National Forest.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2026/8fd3cd6f15.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-06-08T13:03:15-06:00",
 				"url": "https://jerrytowler.com/2026/06/08/took-a-nice-drive-up.html"
 			},
