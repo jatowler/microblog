@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2026/07/04/for-our-first-july-th.html",
+				
+				"content_html": "<p>For our first July 4th together outside of Texas, we are doing the most Texas thing available: smoking a brisket.</p>\n<p>This is how it looked last night before it went on the smoker. (Don’t worry, the foil did not go with it.)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "For our first July 4th together outside of Texas, we are doing the most Texas thing available: smoking a brisket.\n\nThis is how it looked last night before it went on the smoker. (Don’t worry, the foil did not go with it.)\n\n<img src=\"uploads/2026/df29b0449a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-07-04T10:42:37-06:00",
+				"url": "https://jerrytowler.com/2026/07/04/for-our-first-july-th.html"
+			},
+			{
 				"id": "http://jatowler.micro.blog/2026/06/29/finished-reading-dungeon-crawler-carl.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9798688591507\">Dungeon Crawler Carl A LitRPG/Gamelit Adventure</a> by Matt Dinniman</p>\n<p>A quick, fluffy, no-stakes LitRPG read.</p>\n<p>Parts of it are clear parody, but they’re executed so hamfistedly I wondered if the author was lampooning his own genre and not just the obvious butts of the jokes.</p>\n<p>I was sufficiently entertained to reserve the next one on Libby.</p>\n<p>📚</p>\n",
@@ -93,7 +101,7 @@
 				"id": "http://jatowler.micro.blog/2026/06/08/kept-driving-up-to-idaho.html",
 				
 				"content_html": "<p>Kept driving up 21 to Idaho City, which was apparently the center of the Idaho gold rush in the 1860s but today has a population of less than 500. No breweries, sadly, but we found a nice diner for lunch.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Kept driving up 21 to Idaho City, which was apparently the center of the Idaho gold rush in the 1860s but today has a population of less than 500. No breweries, sadly, but we found a nice diner for lunch.\n\n<img src=\"uploads/2026/6160822256.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Kept driving up 21 to Idaho City, which was apparently the center of the Idaho gold rush in the 1860s but today has a population of less than 500. No breweries, sadly, but we found a nice diner for lunch.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2026/6160822256.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-06-08T15:41:34-06:00",
 				"url": "https://jerrytowler.com/2026/06/08/kept-driving-up-to-idaho.html"
 			},
