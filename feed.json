@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
-				"id": "http://jatowler.micro.blog/2026/07/17/monarch-lighthouse-emoji-pickle-emoji.html",
+				"id": "http://jatowler.micro.blog/2026/07/21/i-agree-with-mantons-mockup.html",
 				
-				"content_html": "<p><a href=\"https://jenniferdaniel.substack.com/p/why-do-some-new-emoji-look-familiar\">Monarch lighthouse emoji, pickle emoji, cracked face emoji</a></p>\n<blockquote>\n<p>I don’t know how you’re gonna last another year without a Lighthouse. This coastal beacon functions as a literal guiding light through the dark night of your soul.</p>\n</blockquote>\n<p>In the future, you will see a lighthouse emoji appear here: 🛙</p>\n",
-				"content_text": "[Monarch lighthouse emoji, pickle emoji, cracked face emoji](https://jenniferdaniel.substack.com/p/why-do-some-new-emoji-look-familiar)\n\n> I don’t know how you’re gonna last another year without a Lighthouse. This coastal beacon functions as a literal guiding light through the dark night of your soul.\n\nIn the future, you will see a lighthouse emoji appear here: 🛙\n",
+				"content_html": "<p>I 100% agree with <a href=\"https://www.manton.org/2026/07/18/openai-has-made-some-improvements.html\">Manton’s mockup of how OpenAI’s Codex app ought to work</a>.</p>\n<blockquote>\n<p>Three modes, uncluttered sidebar that works like the old app when needed.</p>\n</blockquote>\n<p>It’s so obvious it’s weird it doesn’t already work like this.</p>\n<p>For now, I’m still just running both ChatGPT Classic and Codex.</p>\n",
+				"content_text": "I 100% agree with [Manton’s mockup of how OpenAI’s Codex app ought to work](https://www.manton.org/2026/07/18/openai-has-made-some-improvements.html).\n\n> Three modes, uncluttered sidebar that works like the old app when needed.\n\nIt’s so obvious it’s weird it doesn’t already work like this.\n\nFor now, I’m still just running both ChatGPT Classic and Codex.\n",
+				"date_published": "2026-07-21T13:33:26-06:00",
+				"url": "https://jerrytowler.com/2026/07/21/i-agree-with-mantons-mockup.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2026/07/17/monarch-lighthouse-emoji-pickle-emoji.html",
+				"title": "In the future, you will see a lighthouse emoji appear here: 🛙",
+				"content_html": "<p><a href=\"https://jenniferdaniel.substack.com/p/why-do-some-new-emoji-look-familiar\">Monarch lighthouse emoji, pickle emoji, cracked face emoji</a></p>\n<blockquote>\n<p>I don’t know how you’re gonna last another year without a Lighthouse. This coastal beacon functions as a literal guiding light through the dark night of your soul.</p>\n</blockquote>\n",
+				"content_text": "[Monarch lighthouse emoji, pickle emoji, cracked face emoji](https://jenniferdaniel.substack.com/p/why-do-some-new-emoji-look-familiar)\n\n> I don’t know how you’re gonna last another year without a Lighthouse. This coastal beacon functions as a literal guiding light through the dark night of your soul.\n",
 				"date_published": "2026-07-17T10:56:29-06:00",
 				"url": "https://jerrytowler.com/2026/07/17/monarch-lighthouse-emoji-pickle-emoji.html"
 			},
@@ -25,8 +33,8 @@
 			{
 				"id": "http://jatowler.micro.blog/2026/07/04/for-our-first-july-th.html",
 				
-				"content_html": "<p>For our first July 4th together outside of Texas, we are doing the most Texas thing available: smoking a brisket.</p>\n<p>This is how it looked last night before it went on the smoker. (Don’t worry, the foil did not go with it.)</p>\n<img src=\"https://cdn.uploads.micro.blog/1214/2026/df29b0449a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"content_text": "For our first July 4th together outside of Texas, we are doing the most Texas thing available: smoking a brisket.\n\nThis is how it looked last night before it went on the smoker. (Don’t worry, the foil did not go with it.)\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2026/df29b0449a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>For our first July 4th together outside of Texas, we are doing the most Texas thing available: smoking a brisket.</p>\n<p>This is how it looked last night before it went on the smoker. (Don’t worry, the foil did not go with it.)</p>\n<img src=\"uploads/2026/df29b0449a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "For our first July 4th together outside of Texas, we are doing the most Texas thing available: smoking a brisket.\n\nThis is how it looked last night before it went on the smoker. (Don’t worry, the foil did not go with it.)\n\n<img src=\"uploads/2026/df29b0449a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-07-04T10:42:37-06:00",
 				"url": "https://jerrytowler.com/2026/07/04/for-our-first-july-th.html"
 			},
