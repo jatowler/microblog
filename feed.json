@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2026/07/23/just-finished-my-notes-on.html",
+				
+				"content_html": "<p>Just finished my notes on Song of Solomon in my quest to complete companion pieces to every chapter of the Bible. That brings me to 939 chapters completed, which doesn&rsquo;t look like a milestone until you realize it means I have exactly 250 chapters to go.</p>\n",
+				"content_text": "Just finished my notes on Song of Solomon in my quest to complete companion pieces to every chapter of the Bible. That brings me to 939 chapters completed, which doesn't look like a milestone until you realize it means I have exactly 250 chapters to go.\n",
+				"date_published": "2026-07-23T21:06:27-06:00",
+				"url": "https://jerrytowler.com/2026/07/23/just-finished-my-notes-on.html",
+				"tags": ["versenotes"]
+			},
+			{
 				"id": "http://jatowler.micro.blog/2026/07/21/i-agree-with-mantons-mockup.html",
 				
 				"content_html": "<p>I 100% agree with <a href=\"https://www.manton.org/2026/07/18/openai-has-made-some-improvements.html\">Manton’s mockup of how OpenAI’s Codex app ought to work</a>.</p>\n<blockquote>\n<p>Three modes, uncluttered sidebar that works like the old app when needed.</p>\n</blockquote>\n<p>It’s so obvious it’s weird it doesn’t already work like this.</p>\n<p>For now, I’m still just running both ChatGPT Classic and Codex.</p>\n",
