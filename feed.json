@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2026/08/06/simon-willison-on-blogging-my.html",
+				
+				"content_html": "<p><a href=\"https://writethatblog.substack.com/p/simon-willison-on-technical-blogging\">Simon Willison on blogging</a>:</p>\n<blockquote>\n<p>My number one tip for blogging is to lower your standards! Aim to hit publish while you are still actively unhappy with what you have written, because the only alternative is a huge folder full of drafts and never publishing anything at all.</p>\n<p>Nobody will ever know how perfect the thing you intended to write would have been. The flaws you see in your writing are invisible to everyone else.</p>\n</blockquote>\n<p>No matter how many times I read this advice, it&rsquo;s always useful to read again. One day I will internalize it.</p>\n",
+				"content_text": "[Simon Willison on blogging](https://writethatblog.substack.com/p/simon-willison-on-technical-blogging):\n\n> My number one tip for blogging is to lower your standards! Aim to hit publish while you are still actively unhappy with what you have written, because the only alternative is a huge folder full of drafts and never publishing anything at all.\n>\n> Nobody will ever know how perfect the thing you intended to write would have been. The flaws you see in your writing are invisible to everyone else.\n\nNo matter how many times I read this advice, it's always useful to read again. One day I will internalize it.\n",
+				"date_published": "2026-08-06T16:04:54-06:00",
+				"url": "https://jerrytowler.com/2026/08/06/simon-willison-on-blogging-my.html"
+			},
+			{
 				"id": "http://jatowler.micro.blog/2026/07/25/looks-like-openai-has-finally.html",
 				
 				"content_html": "<p>Looks like OpenAI has <em>finally</em> done the thing that was obvious from the beginning: just give the ChatGPT-née-Codex app a &ldquo;ChatGPT&rdquo; mode and a &ldquo;Codex&rdquo; mode.</p>\n<p>Only weird bit left is that in ChatGPT mode, the non-pinned projects start with Codex repos, not ChatGPT projects.</p>\n<img src=\"uploads/2026/paste-49be391d.png\" width=\"524\" height=\"350\" alt=\"A drop-down menu offering ChatGPT and Codex options.\">\n",
