@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2026/10/06/apparently-todays-linkedin-minisudoku-takes.html",
+				
+				"content_html": "<p>Apparently today’s LinkedIn mini-sudoku takes exactly 53 seconds to solve.</p>\n<img src=\"uploads/2026/3685486965.png\" width=\"600\" height=\"351\" alt=\"\">\n",
+				"content_text": "Apparently today’s LinkedIn mini-sudoku takes exactly 53 seconds to solve.\n\n<img src=\"uploads/2026/3685486965.png\" width=\"600\" height=\"351\" alt=\"\">\n",
+				"date_published": "2026-10-06T09:20:20-06:00",
+				"url": "https://jerrytowler.com/2026/10/06/apparently-todays-linkedin-minisudoku-takes.html"
+			},
+			{
 				"id": "http://jatowler.micro.blog/2026/10/04/every-lighthouse-in-the-world.html",
 				
 				"content_html": "<p><a href=\"https://mapped.earth/lighthouses/world\">Every lighthouse in the world</a> with its approximate range, period, and pattern.</p>\n<p>The visualization is amazing and beautiful, although navigation is a bit rough and I wish there were a filter for <em>just actual lighthouses</em>.</p>\n<p>But&hellip; just sit and watch. This would make a great screensaver.</p>\n",
