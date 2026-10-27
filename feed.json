@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2026/10/27/nathan-pilkenton-i-moved-out.html",
+				
+				"content_html": "<p><a href=\"https://notes.npilk.com/stop-the-spam-texts\">Nathan Pilkenton</a>:</p>\n<blockquote>\n<p>I moved out of Texas a few years ago. Unfortunately, it doesn’t seem like any statewide midterm candidates have heard about that.<br>\n&hellip;<br>\nAfter some reflection, I think I figured it out: replying with STOP feels like I’m accepting this vision of the world.</p>\n</blockquote>\n<p>I have the same problem, and do the same thing, for the same reason. Pretty sure it&rsquo;ll take a bigger entity than me to fix it, though. Congress won&rsquo;t, so it might have to be states. Apple and Google together might be big enough to have a chance&hellip;</p>\n",
+				"content_text": "[Nathan Pilkenton](https://notes.npilk.com/stop-the-spam-texts):\n\n> I moved out of Texas a few years ago. Unfortunately, it doesn’t seem like any statewide midterm candidates have heard about that.  \n> ...  \n> After some reflection, I think I figured it out: replying with STOP feels like I’m accepting this vision of the world.\n\nI have the same problem, and do the same thing, for the same reason. Pretty sure it'll take a bigger entity than me to fix it, though. Congress won't, so it might have to be states. Apple and Google together might be big enough to have a chance...\n",
+				"date_published": "2026-10-27T10:37:50-06:00",
+				"url": "https://jerrytowler.com/2026/10/27/nathan-pilkenton-i-moved-out.html"
+			},
+			{
 				"id": "http://jatowler.micro.blog/2026/10/17/watched-tenzing-extremely-welldone-incredible.html",
 				
 				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/1288069\">Tenzing</a> 🍿</p>\n<p>Extremely well-done. Incredible visuals, and truly unbelievable costuming. The found/archival footage was nearly indistinguishable from the modern film.</p>\n<p>I also really enjoyed getting more flavor on a story about which I basically knew only the Hillary/Norgay headline.</p>\n",
@@ -42,8 +50,8 @@
 			{
 				"id": "http://jatowler.micro.blog/2026/10/06/apparently-todays-linkedin-minisudoku-takes.html",
 				
-				"content_html": "<p>Apparently today’s LinkedIn mini-sudoku takes exactly 53 seconds to solve.</p>\n<img src=\"uploads/2026/3685486965.png\" width=\"600\" height=\"351\" alt=\"\">\n",
-				"content_text": "Apparently today’s LinkedIn mini-sudoku takes exactly 53 seconds to solve.\n\n<img src=\"uploads/2026/3685486965.png\" width=\"600\" height=\"351\" alt=\"\">\n",
+				"content_html": "<p>Apparently today’s LinkedIn mini-sudoku takes exactly 53 seconds to solve.</p>\n<img src=\"https://cdn.uploads.micro.blog/1214/2026/3685486965.png\" width=\"600\" height=\"351\" alt=\"\">\n",
+				"content_text": "Apparently today’s LinkedIn mini-sudoku takes exactly 53 seconds to solve.\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2026/3685486965.png\" width=\"600\" height=\"351\" alt=\"\">\n",
 				"date_published": "2026-10-06T09:20:20-06:00",
 				"url": "https://jerrytowler.com/2026/10/06/apparently-todays-linkedin-minisudoku-takes.html"
 			},
