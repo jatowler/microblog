@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2026/11/15/til-humboldt-university-of-berlinwhose.html",
+				
+				"content_html": "<p>TIL: <a href=\"https://www.hu-berlin.de/en\">Humboldt University of Berlin</a>—whose faculty and alumni have included <em>57</em> Nobel laureates—was founded by <a href=\"https://plato.stanford.edu/entries/wilhelm-humboldt/\">Wilhelm von Humboldt</a>, rather than his more famous (to me) Darwin-inspiring brother <a href=\"https://plato.stanford.edu/entries/alexander-humboldt/\">Alexander von Humboldt</a>.</p>\n<p>When renamed in 1949, however, it honored <em>both</em> brothers.</p>\n",
+				"content_text": "TIL: [Humboldt University of Berlin](https://www.hu-berlin.de/en)—whose faculty and alumni have included *57* Nobel laureates—was founded by [Wilhelm von Humboldt](https://plato.stanford.edu/entries/wilhelm-humboldt/), rather than his more famous (to me) Darwin-inspiring brother [Alexander von Humboldt](https://plato.stanford.edu/entries/alexander-humboldt/).\n\nWhen renamed in 1949, however, it honored *both* brothers.\n",
+				"date_published": "2026-11-15T14:28:08-06:00",
+				"url": "https://jerrytowler.com/2026/11/15/til-humboldt-university-of-berlinwhose.html",
+				"tags": ["TIL"]
+			},
+			{
 				"id": "http://jatowler.micro.blog/2026/11/14/when-power-was-restored-after.html",
 				
 				"content_html": "<p>When power was restored after an outage yesterday, I observed that our oldest clock—a grandfather clock—and our newest clocks—iPhones—survived just fine.</p>\n<p>The middle generation, electronic clocks without Internet connections, were the ones that failed to recover.</p>\n<p>I don’t think it means anything.</p>\n",
