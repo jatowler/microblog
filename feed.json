@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2026/11/17/california-just-banned-waymo-from.html",
+				
+				"content_html": "<p><a href=\"https://apple.news/Aat0mOgvPSN-QS9F-7l7OXg\">California just banned Waymo from all state freeways</a>:</p>\n<blockquote>\n<p>In its statement, the DMV explicitly labeled Waymo’s freeway operations as an “imminent hazard to public safety,” noting that this isn’t an isolated glitch. Waymo has experienced “recurring incursions into active construction zones, the DMV said, arguing the company was putting road workers at risk.</p>\n</blockquote>\n<p>Waymo knows what they’re doing better than anyone else. If they’re having trouble, you know everybody else is, too—or they will.</p>\n<p>We worked on dynamic construction zone detection years ago; can confirm: it’s hard in the general case.</p>\n",
+				"content_text": "[California just banned Waymo from all state freeways](https://apple.news/Aat0mOgvPSN-QS9F-7l7OXg):\n\n> In its statement, the DMV explicitly labeled Waymo’s freeway operations as an “imminent hazard to public safety,” noting that this isn’t an isolated glitch. Waymo has experienced “recurring incursions into active construction zones, the DMV said, arguing the company was putting road workers at risk. \n\nWaymo knows what they’re doing better than anyone else. If they’re having trouble, you know everybody else is, too—or they will.\n\nWe worked on dynamic construction zone detection years ago; can confirm: it’s hard in the general case.\n",
+				"date_published": "2026-11-17T20:36:38-06:00",
+				"url": "https://jerrytowler.com/2026/11/17/california-just-banned-waymo-from.html"
+			},
+			{
 				"id": "http://jatowler.micro.blog/2026/11/15/til-humboldt-university-of-berlinwhose.html",
 				
 				"content_html": "<p>TIL: <a href=\"https://www.hu-berlin.de/en\">Humboldt University of Berlin</a>—whose faculty and alumni have included <em>57</em> Nobel laureates—was founded by <a href=\"https://plato.stanford.edu/entries/wilhelm-humboldt/\">Wilhelm von Humboldt</a>, rather than his more famous (to me) Darwin-inspiring brother <a href=\"https://plato.stanford.edu/entries/alexander-humboldt/\">Alexander von Humboldt</a>.</p>\n<p>When renamed in 1949, however, it honored <em>both</em> brothers.</p>\n",
@@ -43,8 +51,8 @@
 			{
 				"id": "http://jatowler.micro.blog/2026/11/06/i-cannot-possibly-imagine-what.html",
 				
-				"content_html": "<p>I cannot possibly imagine what it means for Nespresso to partner with Swarovski (beyond this very shiny box), so obviously I ordered some. I’ll report back if I ever figure it out.</p>\n<img src=\"uploads/2026/img-1540.jpg\" width=\"600\" height=\"322\" alt=\"\">\n",
-				"content_text": "I cannot possibly imagine what it means for Nespresso to partner with Swarovski (beyond this very shiny box), so obviously I ordered some. I’ll report back if I ever figure it out.\n\n\n<img src=\"uploads/2026/img-1540.jpg\" width=\"600\" height=\"322\" alt=\"\">\n",
+				"content_html": "<p>I cannot possibly imagine what it means for Nespresso to partner with Swarovski (beyond this very shiny box), so obviously I ordered some. I’ll report back if I ever figure it out.</p>\n<img src=\"https://cdn.uploads.micro.blog/1214/2026/img-1540.jpg\" width=\"600\" height=\"322\" alt=\"\">\n",
+				"content_text": "I cannot possibly imagine what it means for Nespresso to partner with Swarovski (beyond this very shiny box), so obviously I ordered some. I’ll report back if I ever figure it out.\n\n\n<img src=\"https://cdn.uploads.micro.blog/1214/2026/img-1540.jpg\" width=\"600\" height=\"322\" alt=\"\">\n",
 				"date_published": "2026-11-06T11:02:41-06:00",
 				"url": "https://jerrytowler.com/2026/11/06/i-cannot-possibly-imagine-what.html"
 			},
