@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://jatowler.micro.blog/2026/11/19/watched-zootopia-simply-spectacular-seems.html",
+				
+				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/1084242\">Zootopia 2</a> 🍿</p>\n<p>Simply spectacular. Seems no jokes were left on the cutting room floor; every frame is filled with references, commentary, in-jokes, visual gags, and joy.</p>\n",
+				"content_text": "Watched: [Zootopia 2](https://www.themoviedb.org/movie/1084242) 🍿\n\nSimply spectacular. Seems no jokes were left on the cutting room floor; every frame is filled with references, commentary, in-jokes, visual gags, and joy.\n",
+				"date_published": "2026-11-19T22:14:02-06:00",
+				"url": "https://jerrytowler.com/2026/11/19/watched-zootopia-simply-spectacular-seems.html"
+			},
+			{
+				"id": "http://jatowler.micro.blog/2026/11/18/today-i-learned-why-there.html",
+				
+				"content_html": "<p>Today I learned why there are two different ways to spell the tetanus/diphtheria/pertussis vaccine:</p>\n<p>Kids get DTaP, while adolescents and adults get Tdap. The uppercase and lowercase letters indicate the relative strength of the vaccine&rsquo;s components.</p>\n<p>Wild.</p>\n",
+				"content_text": "Today I learned why there are two different ways to spell the tetanus/diphtheria/pertussis vaccine:\n\nKids get DTaP, while adolescents and adults get Tdap. The uppercase and lowercase letters indicate the relative strength of the vaccine's components.\n\nWild.\n",
+				"date_published": "2026-11-18T19:16:19-06:00",
+				"url": "https://jerrytowler.com/2026/11/18/today-i-learned-why-there.html",
+				"tags": ["TIL"]
+			},
+			{
 				"id": "http://jatowler.micro.blog/2026/11/17/california-just-banned-waymo-from.html",
 				
 				"content_html": "<p><a href=\"https://apple.news/Aat0mOgvPSN-QS9F-7l7OXg\">California just banned Waymo from all state freeways</a>:</p>\n<blockquote>\n<p>In its statement, the DMV explicitly labeled Waymo’s freeway operations as an “imminent hazard to public safety,” noting that this isn’t an isolated glitch. Waymo has experienced “recurring incursions into active construction zones, the DMV said, arguing the company was putting road workers at risk.</p>\n</blockquote>\n<p>Waymo knows what they’re doing better than anyone else. If they’re having trouble, you know everybody else is, too—or they will.</p>\n<p>We worked on dynamic construction zone detection years ago; can confirm: it’s hard in the general case.</p>\n",
